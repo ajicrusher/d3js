@@ -1,0 +1,3495 @@
+[
+ {
+   "event_id": 1,
+   "device_id": 29182687948017176,
+   "timestamp": "2016-05-01 00:55:25",
+   "longitude": 121.38,
+   "latitude": 31.24
+ },
+ {
+   "event_id": 2,
+   "device_id": -6401643145415155000,
+   "timestamp": "2016-05-01 00:54:12",
+   "longitude": 103.65,
+   "latitude": 30.97
+ },
+ {
+   "event_id": 3,
+   "device_id": -4833982096941403000,
+   "timestamp": "2016-05-01 00:08:05",
+   "longitude": 106.6,
+   "latitude": 29.7
+ },
+ {
+   "event_id": 4,
+   "device_id": -6815121365017318000,
+   "timestamp": "2016-05-01 00:06:40",
+   "longitude": 104.27,
+   "latitude": 23.28
+ },
+ {
+   "event_id": 5,
+   "device_id": -5373797595892519000,
+   "timestamp": "2016-05-01 00:07:18",
+   "longitude": 115.88,
+   "latitude": 28.66
+ },
+ {
+   "event_id": 6,
+   "device_id": 1476664663289716500,
+   "timestamp": "2016-05-01 00:27:21",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 7,
+   "device_id": 5990807147117727000,
+   "timestamp": "2016-05-01 00:15:13",
+   "longitude": 113.73,
+   "latitude": 23
+ },
+ {
+   "event_id": 8,
+   "device_id": 1782450055857303800,
+   "timestamp": "2016-05-01 00:15:35",
+   "longitude": 113.94,
+   "latitude": 34.7
+ },
+ {
+   "event_id": 9,
+   "device_id": -2073340001552903000,
+   "timestamp": "2016-05-01 00:15:33",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 10,
+   "device_id": -8195816569128398000,
+   "timestamp": "2016-05-01 00:41:31",
+   "longitude": 119.34,
+   "latitude": 26.04
+ },
+ {
+   "event_id": 11,
+   "device_id": 8663743929678393000,
+   "timestamp": "2016-05-01 00:44:13",
+   "longitude": 106.71,
+   "latitude": 39.51
+ },
+ {
+   "event_id": 12,
+   "device_id": 8663743929678393000,
+   "timestamp": "2016-05-01 00:45:30",
+   "longitude": 106.71,
+   "latitude": 39.51
+ },
+ {
+   "event_id": 13,
+   "device_id": 8640114685470534000,
+   "timestamp": "2016-05-01 00:44:53",
+   "longitude": 117.73,
+   "latitude": 34.92
+ },
+ {
+   "event_id": 14,
+   "device_id": -5373797595892519000,
+   "timestamp": "2016-05-01 00:36:21",
+   "longitude": 115.88,
+   "latitude": 28.66
+ },
+ {
+   "event_id": 15,
+   "device_id": 2504414082456157700,
+   "timestamp": "2016-05-01 00:40:45",
+   "longitude": 120.62,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 16,
+   "device_id": 9070651185984876000,
+   "timestamp": "2016-05-01 00:06:06",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 17,
+   "device_id": -460438353776005400,
+   "timestamp": "2016-05-01 00:06:33",
+   "longitude": 118.44,
+   "latitude": 24.71
+ },
+ {
+   "event_id": 18,
+   "device_id": 2271670507584822500,
+   "timestamp": "2016-05-01 00:06:27",
+   "longitude": 111.46,
+   "latitude": 35.64
+ },
+ {
+   "event_id": 19,
+   "device_id": 9161556264947842000,
+   "timestamp": "2016-05-01 00:17:37",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 20,
+   "device_id": 6130108008013736000,
+   "timestamp": "2016-05-01 00:17:33",
+   "longitude": 129.51,
+   "latitude": 42.91
+ },
+ {
+   "event_id": 21,
+   "device_id": 8546251726684590000,
+   "timestamp": "2016-05-01 00:41:54",
+   "longitude": 120.66,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 22,
+   "device_id": -1663840927569383200,
+   "timestamp": "2016-05-01 00:43:15",
+   "longitude": 116.45,
+   "latitude": 33.93
+ },
+ {
+   "event_id": 23,
+   "device_id": 1186608308763918300,
+   "timestamp": "2016-04-30 23:56:43",
+   "longitude": 113.58,
+   "latitude": 23.55
+ },
+ {
+   "event_id": 24,
+   "device_id": -6672877056143386000,
+   "timestamp": "2016-04-30 23:57:33",
+   "longitude": 87.59,
+   "latitude": 43.82
+ },
+ {
+   "event_id": 25,
+   "device_id": -4984460214693443000,
+   "timestamp": "2016-04-30 23:58:37",
+   "longitude": 120.07,
+   "latitude": 31.75
+ },
+ {
+   "event_id": 26,
+   "device_id": 4830593356246717000,
+   "timestamp": "2016-05-01 00:45:41",
+   "longitude": 121.57,
+   "latitude": 38.93
+ },
+ {
+   "event_id": 27,
+   "device_id": -2668732172869128000,
+   "timestamp": "2016-05-01 00:46:35",
+   "longitude": 132.03,
+   "latitude": 47.25
+ },
+ {
+   "event_id": 28,
+   "device_id": -7745575547510100000,
+   "timestamp": "2016-05-01 00:27:20",
+   "longitude": 117.27,
+   "latitude": 34.82
+ },
+ {
+   "event_id": 29,
+   "device_id": 7166563712658305000,
+   "timestamp": "2016-05-01 00:31:40",
+   "longitude": 117.96,
+   "latitude": 28.47
+ },
+ {
+   "event_id": 30,
+   "device_id": -6615032828577640000,
+   "timestamp": "2016-05-01 00:28:03",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 31,
+   "device_id": -5106447321904784000,
+   "timestamp": "2016-05-01 00:29:12",
+   "longitude": 108.62,
+   "latitude": 34.09
+ },
+ {
+   "event_id": 32,
+   "device_id": 1682568851428303600,
+   "timestamp": "2016-05-01 00:29:35",
+   "longitude": 116.42,
+   "latitude": 39.9
+ },
+ {
+   "event_id": 33,
+   "device_id": -4993407482707979000,
+   "timestamp": "2016-05-01 00:42:07",
+   "longitude": 113.39,
+   "latitude": 23.12
+ },
+ {
+   "event_id": 34,
+   "device_id": -2305954534288337400,
+   "timestamp": "2016-05-01 00:55:41",
+   "longitude": 118.33,
+   "latitude": 35.05
+ },
+ {
+   "event_id": 35,
+   "device_id": -3449419341168524300,
+   "timestamp": "2016-05-01 00:25:41",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 36,
+   "device_id": -6495303330948269000,
+   "timestamp": "2016-05-01 00:26:58",
+   "longitude": 113.8,
+   "latitude": 34.02
+ },
+ {
+   "event_id": 37,
+   "device_id": -2114959700836660200,
+   "timestamp": "2016-05-01 00:26:58",
+   "longitude": 115.18,
+   "latitude": 38.18
+ },
+ {
+   "event_id": 38,
+   "device_id": -7694547856539766000,
+   "timestamp": "2016-04-30 23:57:25",
+   "longitude": 114.43,
+   "latitude": 30.51
+ },
+ {
+   "event_id": 39,
+   "device_id": -6542093539413690000,
+   "timestamp": "2016-05-01 00:20:11",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 40,
+   "device_id": -5638521260975573000,
+   "timestamp": "2016-05-01 00:19:59",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 41,
+   "device_id": -2107177132625991000,
+   "timestamp": "2016-05-01 00:17:17",
+   "longitude": 114.7,
+   "latitude": 34.52
+ },
+ {
+   "event_id": 42,
+   "device_id": -8295895346874349000,
+   "timestamp": "2016-05-01 00:26:34",
+   "longitude": 112.24,
+   "latitude": 22.89
+ },
+ {
+   "event_id": 43,
+   "device_id": -3863326918807549000,
+   "timestamp": "2016-05-01 00:32:34",
+   "longitude": 114.05,
+   "latitude": 22.64
+ },
+ {
+   "event_id": 44,
+   "device_id": -4713356591613806000,
+   "timestamp": "2016-05-01 00:33:14",
+   "longitude": 113.37,
+   "latitude": 28.25
+ },
+ {
+   "event_id": 45,
+   "device_id": -7733395605616072000,
+   "timestamp": "2016-05-01 00:33:53",
+   "longitude": 120.21,
+   "latitude": 27.31
+ },
+ {
+   "event_id": 46,
+   "device_id": 182836445212489380,
+   "timestamp": "2016-05-01 00:16:00",
+   "longitude": 114.33,
+   "latitude": 22.69
+ },
+ {
+   "event_id": 47,
+   "device_id": 8975547711407443000,
+   "timestamp": "2016-05-01 00:56:51",
+   "longitude": 113.36,
+   "latitude": 22.94
+ },
+ {
+   "event_id": 48,
+   "device_id": 6752290732094544000,
+   "timestamp": "2016-05-01 00:10:46",
+   "longitude": 113.93,
+   "latitude": 23.11
+ },
+ {
+   "event_id": 49,
+   "device_id": 7769150926490141000,
+   "timestamp": "2016-05-01 00:11:59",
+   "longitude": 121.58,
+   "latitude": 31.09
+ },
+ {
+   "event_id": 50,
+   "device_id": 656236815094512000,
+   "timestamp": "2016-05-01 00:11:36",
+   "longitude": 114.94,
+   "latitude": 26.79
+ },
+ {
+   "event_id": 51,
+   "device_id": 3645702257068268500,
+   "timestamp": "2016-05-01 00:07:36",
+   "longitude": 117.11,
+   "latitude": 39.04
+ },
+ {
+   "event_id": 52,
+   "device_id": -805165251400681600,
+   "timestamp": "2016-04-30 23:57:03",
+   "longitude": 105.62,
+   "latitude": 27.23
+ },
+ {
+   "event_id": 53,
+   "device_id": -4047091239451547600,
+   "timestamp": "2016-04-30 23:57:27",
+   "longitude": 113.21,
+   "latitude": 22.59
+ },
+ {
+   "event_id": 54,
+   "device_id": -7868922663453981000,
+   "timestamp": "2016-04-30 23:57:41",
+   "longitude": 113.11,
+   "latitude": 23.04
+ },
+ {
+   "event_id": 55,
+   "device_id": 8884625593579216000,
+   "timestamp": "2016-04-30 23:58:41",
+   "longitude": 104.15,
+   "latitude": 35.95
+ },
+ {
+   "event_id": 56,
+   "device_id": -3414631284970241500,
+   "timestamp": "2016-04-30 23:55:06",
+   "longitude": 114.44,
+   "latitude": 36.64
+ },
+ {
+   "event_id": 57,
+   "device_id": 8292388373526454000,
+   "timestamp": "2016-04-30 23:54:44",
+   "longitude": 116.46,
+   "latitude": 39.89
+ },
+ {
+   "event_id": 58,
+   "device_id": 8523157510836033000,
+   "timestamp": "2016-05-01 00:46:47",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 59,
+   "device_id": 3129668152512862700,
+   "timestamp": "2016-05-01 00:50:53",
+   "longitude": 116.3,
+   "latitude": 39.75
+ },
+ {
+   "event_id": 60,
+   "device_id": 5861096429563062000,
+   "timestamp": "2016-05-01 00:50:17",
+   "longitude": 113.3,
+   "latitude": 23.23
+ },
+ {
+   "event_id": 61,
+   "device_id": -1593861387409812000,
+   "timestamp": "2016-05-01 00:00:04",
+   "longitude": 110.4,
+   "latitude": 25.31
+ },
+ {
+   "event_id": 62,
+   "device_id": -8595047500831260000,
+   "timestamp": "2016-05-01 00:00:17",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 63,
+   "device_id": 7700200884646630000,
+   "timestamp": "2016-05-01 00:45:16",
+   "longitude": 121.88,
+   "latitude": 29.47
+ },
+ {
+   "event_id": 64,
+   "device_id": 126337254880025420,
+   "timestamp": "2016-05-01 00:45:57",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 65,
+   "device_id": -3038263123962440700,
+   "timestamp": "2016-04-30 23:57:29",
+   "longitude": 113.35,
+   "latitude": 23.06
+ },
+ {
+   "event_id": 66,
+   "device_id": -1667879172906806300,
+   "timestamp": "2016-04-30 23:57:41",
+   "longitude": 119.76,
+   "latitude": 36.68
+ },
+ {
+   "event_id": 67,
+   "device_id": 8177781589136232000,
+   "timestamp": "2016-05-01 00:44:42",
+   "longitude": 114.27,
+   "latitude": 22.73
+ },
+ {
+   "event_id": 68,
+   "device_id": 7337025206692725000,
+   "timestamp": "2016-05-01 00:29:55",
+   "longitude": 110.92,
+   "latitude": 35.12
+ },
+ {
+   "event_id": 69,
+   "device_id": -5087502401012852000,
+   "timestamp": "2016-05-01 00:30:23",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 70,
+   "device_id": 8250516622760332000,
+   "timestamp": "2016-05-01 00:36:37",
+   "longitude": 121.68,
+   "latitude": 31.12
+ },
+ {
+   "event_id": 71,
+   "device_id": 3239037034052399000,
+   "timestamp": "2016-05-01 00:37:41",
+   "longitude": 118.37,
+   "latitude": 33.68
+ },
+ {
+   "event_id": 72,
+   "device_id": -5526220929433226000,
+   "timestamp": "2016-05-01 00:38:59",
+   "longitude": 124.83,
+   "latitude": 45.13
+ },
+ {
+   "event_id": 73,
+   "device_id": -7543605604869882000,
+   "timestamp": "2016-05-01 00:39:27",
+   "longitude": 102.74,
+   "latitude": 25.13
+ },
+ {
+   "event_id": 74,
+   "device_id": 689254505555871500,
+   "timestamp": "2016-05-01 00:39:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 75,
+   "device_id": -4234008871919351000,
+   "timestamp": "2016-05-01 00:20:50",
+   "longitude": 113.43,
+   "latitude": 23.39
+ },
+ {
+   "event_id": 76,
+   "device_id": -833835207779975000,
+   "timestamp": "2016-05-01 00:00:07",
+   "longitude": 114.3,
+   "latitude": 30.52
+ },
+ {
+   "event_id": 77,
+   "device_id": 4969331491823117000,
+   "timestamp": "2016-05-01 00:00:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 78,
+   "device_id": 1346549281586719000,
+   "timestamp": "2016-05-01 00:00:55",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 79,
+   "device_id": 6642030515604713000,
+   "timestamp": "2016-05-01 00:01:12",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 80,
+   "device_id": -8931400468308045000,
+   "timestamp": "2016-05-01 00:17:23",
+   "longitude": 119.81,
+   "latitude": 36.23
+ },
+ {
+   "event_id": 81,
+   "device_id": -8931400468308045000,
+   "timestamp": "2016-05-01 00:18:10",
+   "longitude": 119.81,
+   "latitude": 36.23
+ },
+ {
+   "event_id": 82,
+   "device_id": 3230070203366080500,
+   "timestamp": "2016-05-01 00:27:30",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 83,
+   "device_id": -6470609369540550000,
+   "timestamp": "2016-05-01 00:27:57",
+   "longitude": 120.35,
+   "latitude": 30.29
+ },
+ {
+   "event_id": 84,
+   "device_id": 7337025206692725000,
+   "timestamp": "2016-05-01 00:28:12",
+   "longitude": 110.92,
+   "latitude": 35.12
+ },
+ {
+   "event_id": 85,
+   "device_id": 8045892847872528000,
+   "timestamp": "2016-05-01 00:01:00",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 86,
+   "device_id": -7195524207784365000,
+   "timestamp": "2016-05-01 00:00:55",
+   "longitude": 114.06,
+   "latitude": 22.53
+ },
+ {
+   "event_id": 87,
+   "device_id": 771793048620403600,
+   "timestamp": "2016-05-01 00:01:19",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 88,
+   "device_id": 2529494845458619400,
+   "timestamp": "2016-05-01 00:40:34",
+   "longitude": 114.47,
+   "latitude": 38.1
+ },
+ {
+   "event_id": 89,
+   "device_id": -1140182298279280100,
+   "timestamp": "2016-05-01 00:41:00",
+   "longitude": 123.01,
+   "latitude": 41.14
+ },
+ {
+   "event_id": 90,
+   "device_id": 6313116923089231000,
+   "timestamp": "2016-05-01 00:37:48",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 91,
+   "device_id": -8640137724042538000,
+   "timestamp": "2016-05-01 00:52:10",
+   "longitude": 120.3,
+   "latitude": 36.66
+ },
+ {
+   "event_id": 92,
+   "device_id": 881708862693428600,
+   "timestamp": "2016-05-01 00:55:31",
+   "longitude": 104.06,
+   "latitude": 30.82
+ },
+ {
+   "event_id": 93,
+   "device_id": 4653546651966916000,
+   "timestamp": "2016-05-01 00:31:18",
+   "longitude": 113.91,
+   "latitude": 35.33
+ },
+ {
+   "event_id": 94,
+   "device_id": 1186608308763918300,
+   "timestamp": "2016-05-01 00:32:25",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 95,
+   "device_id": 7791587013685890000,
+   "timestamp": "2016-05-01 00:26:36",
+   "longitude": 118.6,
+   "latitude": 24.85
+ },
+ {
+   "event_id": 96,
+   "device_id": -8968369310542461000,
+   "timestamp": "2016-05-01 00:38:56",
+   "longitude": 116.42,
+   "latitude": 39.95
+ },
+ {
+   "event_id": 97,
+   "device_id": 5193294561516639000,
+   "timestamp": "2016-05-01 00:39:28",
+   "longitude": 121.36,
+   "latitude": 37.58
+ },
+ {
+   "event_id": 98,
+   "device_id": -7070224105427255000,
+   "timestamp": "2016-05-01 00:23:30",
+   "longitude": 0.54,
+   "latitude": 0.59
+ },
+ {
+   "event_id": 99,
+   "device_id": -5880990703452068000,
+   "timestamp": "2016-05-01 00:28:46",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 100,
+   "device_id": 163167796882803300,
+   "timestamp": "2016-05-01 00:01:32",
+   "longitude": 117.16,
+   "latitude": 31.72
+ },
+ {
+   "event_id": 101,
+   "device_id": -7701046730150414000,
+   "timestamp": "2016-05-01 00:02:17",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 102,
+   "device_id": 1035323453269299100,
+   "timestamp": "2016-04-30 23:59:10",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 103,
+   "device_id": 2872287058149668400,
+   "timestamp": "2016-05-01 00:03:50",
+   "longitude": 113.86,
+   "latitude": 22.58
+ },
+ {
+   "event_id": 104,
+   "device_id": -7219108051273190000,
+   "timestamp": "2016-05-01 00:05:50",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 105,
+   "device_id": 683647701136933200,
+   "timestamp": "2016-05-01 00:07:29",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 106,
+   "device_id": -5105332332397067000,
+   "timestamp": "2016-05-01 00:07:18",
+   "longitude": 108.33,
+   "latitude": 22.87
+ },
+ {
+   "event_id": 107,
+   "device_id": 54504617936070180,
+   "timestamp": "2016-05-01 00:49:56",
+   "longitude": 118.16,
+   "latitude": 24.53
+ },
+ {
+   "event_id": 108,
+   "device_id": -3629677530196698600,
+   "timestamp": "2016-05-01 00:50:40",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 109,
+   "device_id": 8546251726684590000,
+   "timestamp": "2016-05-01 00:53:36",
+   "longitude": 120.66,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 110,
+   "device_id": -5052434567559371000,
+   "timestamp": "2016-05-01 00:07:10",
+   "longitude": 109.8,
+   "latitude": 40.64
+ },
+ {
+   "event_id": 111,
+   "device_id": 1539365375716843000,
+   "timestamp": "2016-05-01 00:19:05",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 112,
+   "device_id": -914044609989260400,
+   "timestamp": "2016-05-01 00:19:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 113,
+   "device_id": -1059933011524840100,
+   "timestamp": "2016-05-01 00:56:20",
+   "longitude": 118.37,
+   "latitude": 25
+ },
+ {
+   "event_id": 114,
+   "device_id": 5317828258152703000,
+   "timestamp": "2016-05-01 00:03:16",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 115,
+   "device_id": -7295456045290840000,
+   "timestamp": "2016-05-01 00:03:46",
+   "longitude": 120.52,
+   "latitude": 31.37
+ },
+ {
+   "event_id": 116,
+   "device_id": 3144767893211444700,
+   "timestamp": "2016-05-01 00:04:11",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 117,
+   "device_id": 8141510389319093000,
+   "timestamp": "2016-05-01 00:48:41",
+   "longitude": 112.03,
+   "latitude": 37.85
+ },
+ {
+   "event_id": 118,
+   "device_id": -5894857811194405000,
+   "timestamp": "2016-05-01 00:01:41",
+   "longitude": 108.18,
+   "latitude": 23.21
+ },
+ {
+   "event_id": 119,
+   "device_id": -7614195212113744000,
+   "timestamp": "2016-05-01 00:01:37",
+   "longitude": 119.92,
+   "latitude": 30.24
+ },
+ {
+   "event_id": 120,
+   "device_id": 6001961141627964000,
+   "timestamp": "2016-05-01 00:02:34",
+   "longitude": 113.07,
+   "latitude": 22.57
+ },
+ {
+   "event_id": 121,
+   "device_id": 8542164308784903000,
+   "timestamp": "2016-05-01 00:03:36",
+   "longitude": 115.89,
+   "latitude": 28.68
+ },
+ {
+   "event_id": 122,
+   "device_id": -3438996153992694300,
+   "timestamp": "2016-05-01 00:11:00",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 123,
+   "device_id": -5515886077050167000,
+   "timestamp": "2016-05-01 00:11:23",
+   "longitude": 116.43,
+   "latitude": 40.05
+ },
+ {
+   "event_id": 124,
+   "device_id": -1926944913176429000,
+   "timestamp": "2016-05-01 00:12:17",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 125,
+   "device_id": 6954457118077554000,
+   "timestamp": "2016-05-01 00:13:19",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 126,
+   "device_id": -7614195212113744000,
+   "timestamp": "2016-05-01 00:13:48",
+   "longitude": 119.92,
+   "latitude": 30.24
+ },
+ {
+   "event_id": 127,
+   "device_id": -2941431931967728600,
+   "timestamp": "2016-05-01 00:16:16",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 128,
+   "device_id": -792383793172068500,
+   "timestamp": "2016-05-01 00:16:52",
+   "longitude": 116.97,
+   "latitude": 31.05
+ },
+ {
+   "event_id": 129,
+   "device_id": 6252105081475323000,
+   "timestamp": "2016-05-01 00:13:27",
+   "longitude": 120.56,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 130,
+   "device_id": 4496628052276218000,
+   "timestamp": "2016-05-01 00:24:04",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 131,
+   "device_id": 8323549912688830000,
+   "timestamp": "2016-05-01 00:25:28",
+   "longitude": 119.15,
+   "latitude": 36.64
+ },
+ {
+   "event_id": 132,
+   "device_id": 1890128691874598100,
+   "timestamp": "2016-05-01 00:09:32",
+   "longitude": 117.08,
+   "latitude": 39.99
+ },
+ {
+   "event_id": 133,
+   "device_id": 1890128691874598100,
+   "timestamp": "2016-05-01 00:13:53",
+   "longitude": 117.08,
+   "latitude": 39.99
+ },
+ {
+   "event_id": 134,
+   "device_id": -8968369310542461000,
+   "timestamp": "2016-05-01 00:36:30",
+   "longitude": 116.42,
+   "latitude": 39.95
+ },
+ {
+   "event_id": 135,
+   "device_id": 182836445212489380,
+   "timestamp": "2016-05-01 00:37:13",
+   "longitude": 114.33,
+   "latitude": 22.69
+ },
+ {
+   "event_id": 136,
+   "device_id": 7861432602085241000,
+   "timestamp": "2016-05-01 00:37:59",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 137,
+   "device_id": 656236815094512000,
+   "timestamp": "2016-05-01 00:35:02",
+   "longitude": 114.94,
+   "latitude": 26.79
+ },
+ {
+   "event_id": 138,
+   "device_id": 6675752378372112000,
+   "timestamp": "2016-05-01 00:35:26",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 139,
+   "device_id": 2164896744275908900,
+   "timestamp": "2016-05-01 00:43:13",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 140,
+   "device_id": -1667879172906806300,
+   "timestamp": "2016-05-01 00:17:31",
+   "longitude": 119.76,
+   "latitude": 36.68
+ },
+ {
+   "event_id": 141,
+   "device_id": -362658879945219900,
+   "timestamp": "2016-05-01 00:17:54",
+   "longitude": 107.48,
+   "latitude": 29.71
+ },
+ {
+   "event_id": 142,
+   "device_id": -7845761460731332000,
+   "timestamp": "2016-05-01 00:18:15",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 143,
+   "device_id": -1340161279060514000,
+   "timestamp": "2016-05-01 00:03:26",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 144,
+   "device_id": -8934401125724794000,
+   "timestamp": "2016-05-01 00:18:52",
+   "longitude": 116.17,
+   "latitude": 35.48
+ },
+ {
+   "event_id": 145,
+   "device_id": 791222388313931500,
+   "timestamp": "2016-05-01 00:19:15",
+   "longitude": 116.34,
+   "latitude": 39.77
+ },
+ {
+   "event_id": 146,
+   "device_id": -3699915651423934000,
+   "timestamp": "2016-05-01 00:22:01",
+   "longitude": 113.7,
+   "latitude": 28.27
+ },
+ {
+   "event_id": 147,
+   "device_id": 8292388373526454000,
+   "timestamp": "2016-05-01 00:36:35",
+   "longitude": 116.46,
+   "latitude": 39.89
+ },
+ {
+   "event_id": 148,
+   "device_id": -2799998081111217700,
+   "timestamp": "2016-05-01 00:04:13",
+   "longitude": 126.58,
+   "latitude": 43.87
+ },
+ {
+   "event_id": 149,
+   "device_id": -8749818205671137000,
+   "timestamp": "2016-05-01 00:08:01",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 150,
+   "device_id": -6694338074647633000,
+   "timestamp": "2016-05-01 00:08:30",
+   "longitude": 120.39,
+   "latitude": 27.5
+ },
+ {
+   "event_id": 151,
+   "device_id": 5996590546381796000,
+   "timestamp": "2016-05-01 00:11:06",
+   "longitude": 104.39,
+   "latitude": 23.02
+ },
+ {
+   "event_id": 152,
+   "device_id": -6422142925983333000,
+   "timestamp": "2016-05-01 00:11:28",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 153,
+   "device_id": 2504414082456157700,
+   "timestamp": "2016-05-01 00:10:55",
+   "longitude": 120.62,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 154,
+   "device_id": 1059108490518975000,
+   "timestamp": "2016-05-01 00:11:19",
+   "longitude": 104.73,
+   "latitude": 31.73
+ },
+ {
+   "event_id": 155,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-01 00:13:55",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 156,
+   "device_id": -5444894622511510000,
+   "timestamp": "2016-05-01 00:46:27",
+   "longitude": 117.36,
+   "latitude": 32.95
+ },
+ {
+   "event_id": 157,
+   "device_id": -1930702761729758200,
+   "timestamp": "2016-05-01 00:51:27",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 158,
+   "device_id": 2504414082456157700,
+   "timestamp": "2016-05-01 00:56:08",
+   "longitude": 120.62,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 159,
+   "device_id": 8955594110167688000,
+   "timestamp": "2016-05-01 00:05:57",
+   "longitude": 118.8,
+   "latitude": 32.11
+ },
+ {
+   "event_id": 160,
+   "device_id": -8153524600012617000,
+   "timestamp": "2016-05-01 00:07:13",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 161,
+   "device_id": 8640114685470534000,
+   "timestamp": "2016-05-01 00:10:45",
+   "longitude": 117.73,
+   "latitude": 34.92
+ },
+ {
+   "event_id": 162,
+   "device_id": 195742700046265860,
+   "timestamp": "2016-05-01 00:07:12",
+   "longitude": 118.74,
+   "latitude": 32.05
+ },
+ {
+   "event_id": 163,
+   "device_id": 6511317974546914000,
+   "timestamp": "2016-05-01 00:07:37",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 164,
+   "device_id": 7101968504069480000,
+   "timestamp": "2016-05-01 00:07:56",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 165,
+   "device_id": 3896266365965711400,
+   "timestamp": "2016-05-01 00:08:30",
+   "longitude": 116.27,
+   "latitude": 39.92
+ },
+ {
+   "event_id": 166,
+   "device_id": -6010448691419036000,
+   "timestamp": "2016-05-01 00:13:19",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 167,
+   "device_id": 1061455018550622600,
+   "timestamp": "2016-05-02 00:38:55",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 168,
+   "device_id": 7163585707192280000,
+   "timestamp": "2016-05-02 00:40:00",
+   "longitude": 114.32,
+   "latitude": 30.53
+ },
+ {
+   "event_id": 169,
+   "device_id": 3107259735454171600,
+   "timestamp": "2016-05-02 00:11:29",
+   "longitude": 113.76,
+   "latitude": 23.04
+ },
+ {
+   "event_id": 170,
+   "device_id": -5855006536304465000,
+   "timestamp": "2016-05-02 00:45:00",
+   "longitude": 103.8,
+   "latitude": 25.47
+ },
+ {
+   "event_id": 171,
+   "device_id": -1960430271466971100,
+   "timestamp": "2016-05-02 00:11:19",
+   "longitude": 104.51,
+   "latitude": 35.52
+ },
+ {
+   "event_id": 172,
+   "device_id": 7028735429867228000,
+   "timestamp": "2016-05-02 00:11:48",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 173,
+   "device_id": -1554522487011962400,
+   "timestamp": "2016-05-02 00:14:25",
+   "longitude": 113.62,
+   "latitude": 28.15
+ },
+ {
+   "event_id": 174,
+   "device_id": 5716104256488721000,
+   "timestamp": "2016-05-02 00:13:31",
+   "longitude": 107.51,
+   "latitude": 27.35
+ },
+ {
+   "event_id": 175,
+   "device_id": 8173775906009056000,
+   "timestamp": "2016-05-02 00:13:16",
+   "longitude": 106.91,
+   "latitude": 28.95
+ },
+ {
+   "event_id": 176,
+   "device_id": 5698535769023151000,
+   "timestamp": "2016-05-02 00:24:40",
+   "longitude": 118.72,
+   "latitude": 32.13
+ },
+ {
+   "event_id": 177,
+   "device_id": -3805359430878536000,
+   "timestamp": "2016-05-02 00:01:33",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 178,
+   "device_id": 6314747000349375000,
+   "timestamp": "2016-05-02 00:02:25",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 179,
+   "device_id": -5168484868548082000,
+   "timestamp": "2016-05-01 23:56:51",
+   "longitude": 105.44,
+   "latitude": 25.1
+ },
+ {
+   "event_id": 180,
+   "device_id": -1084174363886138500,
+   "timestamp": "2016-05-01 23:57:19",
+   "longitude": 119.73,
+   "latitude": 32.03
+ },
+ {
+   "event_id": 181,
+   "device_id": -425167002000640450,
+   "timestamp": "2016-05-01 23:57:37",
+   "longitude": 118.86,
+   "latitude": 30.93
+ },
+ {
+   "event_id": 182,
+   "device_id": 6563167257361208000,
+   "timestamp": "2016-05-01 23:58:08",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 183,
+   "device_id": 7182346104143692000,
+   "timestamp": "2016-05-02 00:55:53",
+   "longitude": 113.39,
+   "latitude": 23.01
+ },
+ {
+   "event_id": 184,
+   "device_id": -1050088825245797400,
+   "timestamp": "2016-05-01 23:59:25",
+   "longitude": 115.49,
+   "latitude": 28.16
+ },
+ {
+   "event_id": 185,
+   "device_id": -1050088825245797400,
+   "timestamp": "2016-05-01 23:59:55",
+   "longitude": 115.49,
+   "latitude": 28.16
+ },
+ {
+   "event_id": 186,
+   "device_id": -1050088825245797400,
+   "timestamp": "2016-05-01 23:56:50",
+   "longitude": 115.49,
+   "latitude": 28.16
+ },
+ {
+   "event_id": 187,
+   "device_id": 178694180701730940,
+   "timestamp": "2016-05-02 00:00:48",
+   "longitude": 108.69,
+   "latitude": 34.35
+ },
+ {
+   "event_id": 188,
+   "device_id": 178694180701730940,
+   "timestamp": "2016-05-02 00:01:14",
+   "longitude": 108.69,
+   "latitude": 34.35
+ },
+ {
+   "event_id": 189,
+   "device_id": -1084174363886138500,
+   "timestamp": "2016-05-02 00:01:09",
+   "longitude": 119.73,
+   "latitude": 32.03
+ },
+ {
+   "event_id": 190,
+   "device_id": -3692728142339503000,
+   "timestamp": "2016-05-02 00:04:04",
+   "longitude": 118.72,
+   "latitude": 32.12
+ },
+ {
+   "event_id": 191,
+   "device_id": 8656930911885791000,
+   "timestamp": "2016-05-02 00:28:28",
+   "longitude": 115.26,
+   "latitude": 33.05
+ },
+ {
+   "event_id": 192,
+   "device_id": 1894268615071684000,
+   "timestamp": "2016-05-02 00:33:08",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 193,
+   "device_id": 5921068400673391000,
+   "timestamp": "2016-05-02 00:34:17",
+   "longitude": 118.75,
+   "latitude": 32.23
+ },
+ {
+   "event_id": 194,
+   "device_id": -8924245943904643000,
+   "timestamp": "2016-05-02 00:29:54",
+   "longitude": 115.77,
+   "latitude": 33.89
+ },
+ {
+   "event_id": 195,
+   "device_id": -4038275227518385700,
+   "timestamp": "2016-05-02 00:01:38",
+   "longitude": 110.77,
+   "latitude": 32.6
+ },
+ {
+   "event_id": 196,
+   "device_id": 7103702580533115000,
+   "timestamp": "2016-05-02 00:01:55",
+   "longitude": 100.97,
+   "latitude": 22.81
+ },
+ {
+   "event_id": 197,
+   "device_id": -367875038205918500,
+   "timestamp": "2016-05-02 00:14:29",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 198,
+   "device_id": 6984152891252102000,
+   "timestamp": "2016-05-02 00:17:01",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 199,
+   "device_id": 5339430789996670000,
+   "timestamp": "2016-05-02 00:15:26",
+   "longitude": 120.74,
+   "latitude": 31.31
+ },
+ {
+   "event_id": 200,
+   "device_id": 329546693452180800,
+   "timestamp": "2016-05-02 00:11:48",
+   "longitude": 114.22,
+   "latitude": 22.68
+ },
+ {
+   "event_id": 201,
+   "device_id": 8405631917277907000,
+   "timestamp": "2016-05-02 00:22:46",
+   "longitude": 113.8,
+   "latitude": 22.72
+ },
+ {
+   "event_id": 202,
+   "device_id": 1676125742207316200,
+   "timestamp": "2016-05-02 00:17:00",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 203,
+   "device_id": 3677275660127085600,
+   "timestamp": "2016-05-02 00:25:33",
+   "longitude": 81.38,
+   "latitude": 43.92
+ },
+ {
+   "event_id": 204,
+   "device_id": 3677275660127085600,
+   "timestamp": "2016-05-02 00:21:57",
+   "longitude": 81.38,
+   "latitude": 43.92
+ },
+ {
+   "event_id": 205,
+   "device_id": -2504117768198708700,
+   "timestamp": "2016-05-02 00:26:37",
+   "longitude": 119.96,
+   "latitude": 30.54
+ },
+ {
+   "event_id": 206,
+   "device_id": 329546693452180800,
+   "timestamp": "2016-05-02 00:32:25",
+   "longitude": 114.22,
+   "latitude": 22.68
+ },
+ {
+   "event_id": 207,
+   "device_id": 1448771305331028200,
+   "timestamp": "2016-05-02 00:33:39",
+   "longitude": 119.33,
+   "latitude": 26.07
+ },
+ {
+   "event_id": 208,
+   "device_id": 329546693452180800,
+   "timestamp": "2016-05-02 00:34:42",
+   "longitude": 114.22,
+   "latitude": 22.68
+ },
+ {
+   "event_id": 209,
+   "device_id": -6510680360023502000,
+   "timestamp": "2016-05-02 00:45:42",
+   "longitude": 120.38,
+   "latitude": 36.16
+ },
+ {
+   "event_id": 210,
+   "device_id": -3414631284970241500,
+   "timestamp": "2016-05-02 00:49:10",
+   "longitude": 114.44,
+   "latitude": 36.64
+ },
+ {
+   "event_id": 211,
+   "device_id": -6242501228649114000,
+   "timestamp": "2016-05-02 00:40:01",
+   "longitude": 111.21,
+   "latitude": 27.85
+ },
+ {
+   "event_id": 212,
+   "device_id": -5127356298948955000,
+   "timestamp": "2016-05-02 00:48:49",
+   "longitude": 114.91,
+   "latitude": 27.82
+ },
+ {
+   "event_id": 213,
+   "device_id": 1394976274319147500,
+   "timestamp": "2016-05-02 00:47:31",
+   "longitude": 121.39,
+   "latitude": 31.06
+ },
+ {
+   "event_id": 214,
+   "device_id": 9157556703715225000,
+   "timestamp": "2016-05-02 00:55:57",
+   "longitude": 114.05,
+   "latitude": 32.47
+ },
+ {
+   "event_id": 215,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:17:50",
+   "longitude": 116.39,
+   "latitude": 39.91
+ },
+ {
+   "event_id": 216,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:18:21",
+   "longitude": 116.39,
+   "latitude": 39.91
+ },
+ {
+   "event_id": 217,
+   "device_id": -6040326194669704000,
+   "timestamp": "2016-05-02 00:18:38",
+   "longitude": 112.47,
+   "latitude": 37.86
+ },
+ {
+   "event_id": 218,
+   "device_id": 6875489759019721000,
+   "timestamp": "2016-05-02 00:41:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 219,
+   "device_id": -1899049813352463400,
+   "timestamp": "2016-05-02 00:42:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 220,
+   "device_id": -2975746691063869400,
+   "timestamp": "2016-05-02 00:39:57",
+   "longitude": 116.3,
+   "latitude": 39.84
+ },
+ {
+   "event_id": 221,
+   "device_id": -7442326858937983000,
+   "timestamp": "2016-05-02 00:40:39",
+   "longitude": 120.94,
+   "latitude": 31.12
+ },
+ {
+   "event_id": 222,
+   "device_id": -5337361000705278000,
+   "timestamp": "2016-05-02 00:41:07",
+   "longitude": 103.97,
+   "latitude": 30.66
+ },
+ {
+   "event_id": 223,
+   "device_id": -7205658089420706000,
+   "timestamp": "2016-05-02 00:12:54",
+   "longitude": 114.73,
+   "latitude": 28.23
+ },
+ {
+   "event_id": 224,
+   "device_id": 7799899528391980000,
+   "timestamp": "2016-05-02 00:13:50",
+   "longitude": 117.28,
+   "latitude": 31.86
+ },
+ {
+   "event_id": 225,
+   "device_id": 303424199584088600,
+   "timestamp": "2016-05-02 00:04:54",
+   "longitude": 110.51,
+   "latitude": 35.6
+ },
+ {
+   "event_id": 226,
+   "device_id": 812258455161238400,
+   "timestamp": "2016-05-02 00:05:17",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 227,
+   "device_id": 1035323453269299100,
+   "timestamp": "2016-05-02 00:12:27",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 228,
+   "device_id": -1503499447994887400,
+   "timestamp": "2016-05-02 00:12:39",
+   "longitude": 116.11,
+   "latitude": 24.26
+ },
+ {
+   "event_id": 229,
+   "device_id": -4905402058254236000,
+   "timestamp": "2016-05-02 00:09:27",
+   "longitude": 108.93,
+   "latitude": 34.11
+ },
+ {
+   "event_id": 230,
+   "device_id": 7941945764660330000,
+   "timestamp": "2016-05-02 00:18:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 231,
+   "device_id": -2831902398235305000,
+   "timestamp": "2016-05-02 00:23:57",
+   "longitude": 116.71,
+   "latitude": 23.4
+ },
+ {
+   "event_id": 232,
+   "device_id": -1699574089887824600,
+   "timestamp": "2016-05-02 00:23:41",
+   "longitude": 114.29,
+   "latitude": 30.59
+ },
+ {
+   "event_id": 233,
+   "device_id": -4960429544660367000,
+   "timestamp": "2016-05-02 00:21:07",
+   "longitude": 104.03,
+   "latitude": 30.67
+ },
+ {
+   "event_id": 234,
+   "device_id": 8238908212318404000,
+   "timestamp": "2016-05-02 00:27:10",
+   "longitude": 112.5,
+   "latitude": 37.8
+ },
+ {
+   "event_id": 235,
+   "device_id": -2564491747801275000,
+   "timestamp": "2016-05-02 00:46:27",
+   "longitude": 120.24,
+   "latitude": 35.97
+ },
+ {
+   "event_id": 236,
+   "device_id": -2171574319661056300,
+   "timestamp": "2016-05-02 00:47:08",
+   "longitude": 115.08,
+   "latitude": 35.61
+ },
+ {
+   "event_id": 237,
+   "device_id": -4819393356562423000,
+   "timestamp": "2016-05-02 00:08:45",
+   "longitude": 118.41,
+   "latitude": 31.33
+ },
+ {
+   "event_id": 238,
+   "device_id": -1558314595648377000,
+   "timestamp": "2016-05-02 00:09:10",
+   "longitude": 104.17,
+   "latitude": 30.72
+ },
+ {
+   "event_id": 239,
+   "device_id": -8202724116554364000,
+   "timestamp": "2016-05-02 00:37:57",
+   "longitude": 113.84,
+   "latitude": 35.3
+ },
+ {
+   "event_id": 240,
+   "device_id": 7901567308091955000,
+   "timestamp": "2016-05-02 00:38:45",
+   "longitude": 120.29,
+   "latitude": 30.34
+ },
+ {
+   "event_id": 241,
+   "device_id": -6054073544260227000,
+   "timestamp": "2016-05-01 23:55:40",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 242,
+   "device_id": 811425795809782900,
+   "timestamp": "2016-05-02 00:02:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 243,
+   "device_id": -6604602592506187000,
+   "timestamp": "2016-05-02 00:01:13",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 244,
+   "device_id": -6569965154288568000,
+   "timestamp": "2016-05-02 00:20:10",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 245,
+   "device_id": 3933826638587632000,
+   "timestamp": "2016-05-02 00:24:19",
+   "longitude": 121.43,
+   "latitude": 31.09
+ },
+ {
+   "event_id": 246,
+   "device_id": -6617414447109943000,
+   "timestamp": "2016-05-02 00:25:18",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 247,
+   "device_id": 6491359293998166000,
+   "timestamp": "2016-05-02 00:50:41",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 248,
+   "device_id": 8663743929678393000,
+   "timestamp": "2016-05-02 00:51:54",
+   "longitude": 106.79,
+   "latitude": 39.68
+ },
+ {
+   "event_id": 249,
+   "device_id": -1864968793374211600,
+   "timestamp": "2016-05-02 00:17:27",
+   "longitude": 118.66,
+   "latitude": 33.5
+ },
+ {
+   "event_id": 250,
+   "device_id": 7995682190419359000,
+   "timestamp": "2016-05-02 00:18:03",
+   "longitude": 104,
+   "latitude": 30
+ },
+ {
+   "event_id": 251,
+   "device_id": 2779016006440102000,
+   "timestamp": "2016-05-02 00:14:51",
+   "longitude": 121.43,
+   "latitude": 28.48
+ },
+ {
+   "event_id": 252,
+   "device_id": -3648691542726359000,
+   "timestamp": "2016-05-02 00:19:50",
+   "longitude": 120.47,
+   "latitude": 33.2
+ },
+ {
+   "event_id": 253,
+   "device_id": -6476486144331421000,
+   "timestamp": "2016-05-02 00:19:55",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 254,
+   "device_id": -3648691542726359000,
+   "timestamp": "2016-05-02 00:20:03",
+   "longitude": 120.47,
+   "latitude": 33.2
+ },
+ {
+   "event_id": 255,
+   "device_id": 88896672992192800,
+   "timestamp": "2016-05-02 00:32:34",
+   "longitude": 118.82,
+   "latitude": 32.08
+ },
+ {
+   "event_id": 256,
+   "device_id": 931497623158921700,
+   "timestamp": "2016-05-02 00:33:54",
+   "longitude": 110.92,
+   "latitude": 34.61
+ },
+ {
+   "event_id": 257,
+   "device_id": 3384688908380351000,
+   "timestamp": "2016-05-02 00:39:46",
+   "longitude": 114.14,
+   "latitude": 30.62
+ },
+ {
+   "event_id": 258,
+   "device_id": -1036209345874838400,
+   "timestamp": "2016-05-02 00:38:47",
+   "longitude": 118.72,
+   "latitude": 32.14
+ },
+ {
+   "event_id": 259,
+   "device_id": -5039969084661427000,
+   "timestamp": "2016-05-02 00:20:41",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 260,
+   "device_id": -6875585507485886000,
+   "timestamp": "2016-05-02 00:00:28",
+   "longitude": 121.46,
+   "latitude": 31.23
+ },
+ {
+   "event_id": 261,
+   "device_id": -6875585507485886000,
+   "timestamp": "2016-05-01 23:58:48",
+   "longitude": 121.46,
+   "latitude": 31.23
+ },
+ {
+   "event_id": 262,
+   "device_id": 8156187339546971000,
+   "timestamp": "2016-05-01 23:56:53",
+   "longitude": 104.52,
+   "latitude": 32.39
+ },
+ {
+   "event_id": 263,
+   "device_id": 5924174755240072000,
+   "timestamp": "2016-05-01 23:57:56",
+   "longitude": 119.37,
+   "latitude": 26.09
+ },
+ {
+   "event_id": 264,
+   "device_id": 863186825935812700,
+   "timestamp": "2016-05-02 00:00:09",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 265,
+   "device_id": 6414491211991853000,
+   "timestamp": "2016-05-02 00:00:33",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 266,
+   "device_id": 2152993457127041800,
+   "timestamp": "2016-05-01 23:55:59",
+   "longitude": 112.61,
+   "latitude": 26.9
+ },
+ {
+   "event_id": 267,
+   "device_id": -540200947281428030,
+   "timestamp": "2016-05-02 00:06:11",
+   "longitude": 116.36,
+   "latitude": 39.84
+ },
+ {
+   "event_id": 268,
+   "device_id": -558098630880477200,
+   "timestamp": "2016-05-02 00:06:39",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 269,
+   "device_id": 8173775906009056000,
+   "timestamp": "2016-05-02 00:06:59",
+   "longitude": 106.91,
+   "latitude": 28.95
+ },
+ {
+   "event_id": 270,
+   "device_id": -4734045176898783000,
+   "timestamp": "2016-05-02 00:07:14",
+   "longitude": 105.12,
+   "latitude": 29.32
+ },
+ {
+   "event_id": 271,
+   "device_id": 8173775906009056000,
+   "timestamp": "2016-05-02 00:07:29",
+   "longitude": 106.91,
+   "latitude": 28.95
+ },
+ {
+   "event_id": 272,
+   "device_id": -2793289487318306300,
+   "timestamp": "2016-05-02 00:27:22",
+   "longitude": 121.46,
+   "latitude": 30.93
+ },
+ {
+   "event_id": 273,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:28:00",
+   "longitude": 116.39,
+   "latitude": 39.91
+ },
+ {
+   "event_id": 274,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:35:57",
+   "longitude": 116.39,
+   "latitude": 39.91
+ },
+ {
+   "event_id": 275,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:37:08",
+   "longitude": 121.24,
+   "latitude": 28.74
+ },
+ {
+   "event_id": 276,
+   "device_id": 3915082290673137000,
+   "timestamp": "2016-05-02 00:37:31",
+   "longitude": 116.39,
+   "latitude": 39.91
+ },
+ {
+   "event_id": 277,
+   "device_id": -6199830376479715000,
+   "timestamp": "2016-05-02 00:29:57",
+   "longitude": 114.47,
+   "latitude": 23.11
+ },
+ {
+   "event_id": 278,
+   "device_id": 9053460809647326000,
+   "timestamp": "2016-05-02 00:34:13",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 279,
+   "device_id": 8705569457148668000,
+   "timestamp": "2016-05-02 00:35:15",
+   "longitude": 119.2,
+   "latitude": 34.64
+ },
+ {
+   "event_id": 280,
+   "device_id": -6216864668208339000,
+   "timestamp": "2016-05-02 00:00:02",
+   "longitude": 112.71,
+   "latitude": 34.64
+ },
+ {
+   "event_id": 281,
+   "device_id": -4101513668605691000,
+   "timestamp": "2016-05-02 00:00:26",
+   "longitude": 113.32,
+   "latitude": 23.19
+ },
+ {
+   "event_id": 282,
+   "device_id": -4101513668605691000,
+   "timestamp": "2016-05-02 00:01:32",
+   "longitude": 113.32,
+   "latitude": 23.19
+ },
+ {
+   "event_id": 283,
+   "device_id": -822901950224816600,
+   "timestamp": "2016-05-02 00:09:27",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 284,
+   "device_id": -240092430394916860,
+   "timestamp": "2016-05-02 00:10:03",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 285,
+   "device_id": -4185102114026967600,
+   "timestamp": "2016-05-02 00:10:38",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 286,
+   "device_id": -6762548757670565000,
+   "timestamp": "2016-05-02 00:27:17",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 287,
+   "device_id": 8405631917277907000,
+   "timestamp": "2016-05-02 00:45:27",
+   "longitude": 113.8,
+   "latitude": 22.72
+ },
+ {
+   "event_id": 288,
+   "device_id": -5728882630226274000,
+   "timestamp": "2016-05-02 00:34:37",
+   "longitude": 124.16,
+   "latitude": 42.54
+ },
+ {
+   "event_id": 289,
+   "device_id": -3775758989316758500,
+   "timestamp": "2016-05-02 00:39:36",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 290,
+   "device_id": 9157556703715225000,
+   "timestamp": "2016-05-02 00:36:16",
+   "longitude": 114.05,
+   "latitude": 32.47
+ },
+ {
+   "event_id": 291,
+   "device_id": 3929259450001563600,
+   "timestamp": "2016-05-02 00:35:47",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 292,
+   "device_id": 1639621600472221200,
+   "timestamp": "2016-05-02 00:34:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 293,
+   "device_id": 8263571774675478000,
+   "timestamp": "2016-05-02 00:44:46",
+   "longitude": 103.62,
+   "latitude": 31
+ },
+ {
+   "event_id": 294,
+   "device_id": 4278305343584179700,
+   "timestamp": "2016-05-02 00:10:56",
+   "longitude": 126.79,
+   "latitude": 42.38
+ },
+ {
+   "event_id": 295,
+   "device_id": -4849434960114682000,
+   "timestamp": "2016-05-02 00:11:10",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 296,
+   "device_id": -6470609369540550000,
+   "timestamp": "2016-05-02 00:12:21",
+   "longitude": 120.35,
+   "latitude": 30.29
+ },
+ {
+   "event_id": 297,
+   "device_id": 1068192752173500200,
+   "timestamp": "2016-05-02 00:13:04",
+   "longitude": 120.35,
+   "latitude": 36.3
+ },
+ {
+   "event_id": 298,
+   "device_id": -6875585507485886000,
+   "timestamp": "2016-05-01 23:57:24",
+   "longitude": 121.46,
+   "latitude": 31.23
+ },
+ {
+   "event_id": 299,
+   "device_id": 4867329498061647000,
+   "timestamp": "2016-05-02 00:00:03",
+   "longitude": 114.17,
+   "latitude": 22.85
+ },
+ {
+   "event_id": 300,
+   "device_id": 8483619462372280000,
+   "timestamp": "2016-05-02 00:04:16",
+   "longitude": 113.8,
+   "latitude": 34.77
+ },
+ {
+   "event_id": 301,
+   "device_id": 6543612401310740000,
+   "timestamp": "2016-05-02 00:36:52",
+   "longitude": 107.59,
+   "latitude": 37.61
+ },
+ {
+   "event_id": 302,
+   "device_id": -5235872135901851000,
+   "timestamp": "2016-05-02 00:37:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 303,
+   "device_id": 1522573667677189000,
+   "timestamp": "2016-05-02 00:48:11",
+   "longitude": 120.98,
+   "latitude": 32.04
+ },
+ {
+   "event_id": 304,
+   "device_id": 1292589956855988700,
+   "timestamp": "2016-05-02 00:49:02",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 305,
+   "device_id": 5628857523228762000,
+   "timestamp": "2016-05-02 00:05:05",
+   "longitude": 117.18,
+   "latitude": 36.23
+ },
+ {
+   "event_id": 306,
+   "device_id": 5628857523228762000,
+   "timestamp": "2016-05-02 00:05:35",
+   "longitude": 117.18,
+   "latitude": 36.23
+ },
+ {
+   "event_id": 307,
+   "device_id": -61191354320788780,
+   "timestamp": "2016-05-02 00:02:58",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 308,
+   "device_id": -6105945866007377000,
+   "timestamp": "2016-05-02 00:07:15",
+   "longitude": 120.01,
+   "latitude": 30.21
+ },
+ {
+   "event_id": 309,
+   "device_id": -6242501228649114000,
+   "timestamp": "2016-05-01 23:59:40",
+   "longitude": 111.21,
+   "latitude": 27.85
+ },
+ {
+   "event_id": 310,
+   "device_id": 3705909327482350000,
+   "timestamp": "2016-05-02 00:09:24",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 311,
+   "device_id": -7854746361600386000,
+   "timestamp": "2016-05-02 00:46:45",
+   "longitude": 118.72,
+   "latitude": 32.05
+ },
+ {
+   "event_id": 312,
+   "device_id": 3330117349082195500,
+   "timestamp": "2016-05-02 00:47:09",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 313,
+   "device_id": 9104840865977625000,
+   "timestamp": "2016-05-02 00:49:07",
+   "longitude": 115.96,
+   "latitude": 28.67
+ },
+ {
+   "event_id": 314,
+   "device_id": 9104840865977625000,
+   "timestamp": "2016-05-02 00:45:44",
+   "longitude": 115.96,
+   "latitude": 28.67
+ },
+ {
+   "event_id": 315,
+   "device_id": 4128277001101544400,
+   "timestamp": "2016-05-01 23:57:02",
+   "longitude": 103.68,
+   "latitude": 30.62
+ },
+ {
+   "event_id": 316,
+   "device_id": -2341102826968169000,
+   "timestamp": "2016-05-01 23:58:00",
+   "longitude": 112.34,
+   "latitude": 34.67
+ },
+ {
+   "event_id": 317,
+   "device_id": 4841358946113377000,
+   "timestamp": "2016-05-02 00:20:50",
+   "longitude": 117.35,
+   "latitude": 31.88
+ },
+ {
+   "event_id": 318,
+   "device_id": -801236909575624800,
+   "timestamp": "2016-05-02 00:19:36",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 319,
+   "device_id": -3805359430878536000,
+   "timestamp": "2016-05-01 23:58:38",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 320,
+   "device_id": 1158846566252680700,
+   "timestamp": "2016-05-01 23:59:17",
+   "longitude": 113.85,
+   "latitude": 36.24
+ },
+ {
+   "event_id": 321,
+   "device_id": 9191288030705148000,
+   "timestamp": "2016-05-02 00:06:13",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 322,
+   "device_id": -4904062990371774000,
+   "timestamp": "2016-05-03 00:21:59",
+   "longitude": 114.36,
+   "latitude": 27.79
+ },
+ {
+   "event_id": 323,
+   "device_id": 5258694248782199000,
+   "timestamp": "2016-05-03 00:29:57",
+   "longitude": 114.32,
+   "latitude": 22.69
+ },
+ {
+   "event_id": 324,
+   "device_id": 347753157502768300,
+   "timestamp": "2016-05-03 00:41:52",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 325,
+   "device_id": 3471789205098741000,
+   "timestamp": "2016-05-03 00:41:25",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 326,
+   "device_id": -2078081847518029800,
+   "timestamp": "2016-05-03 00:42:21",
+   "longitude": 113.6,
+   "latitude": 23.03
+ },
+ {
+   "event_id": 327,
+   "device_id": 4069764298338766300,
+   "timestamp": "2016-05-03 00:26:24",
+   "longitude": 118.63,
+   "latitude": 35.79
+ },
+ {
+   "event_id": 328,
+   "device_id": -3188518073791728000,
+   "timestamp": "2016-05-03 00:35:44",
+   "longitude": 126.69,
+   "latitude": 45.73
+ },
+ {
+   "event_id": 329,
+   "device_id": -3188518073791728000,
+   "timestamp": "2016-05-03 00:36:15",
+   "longitude": 126.69,
+   "latitude": 45.73
+ },
+ {
+   "event_id": 330,
+   "device_id": 4750132012387010000,
+   "timestamp": "2016-05-03 00:19:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 331,
+   "device_id": -719580776430633500,
+   "timestamp": "2016-05-03 00:11:25",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 332,
+   "device_id": -7620935062893714000,
+   "timestamp": "2016-05-03 00:23:36",
+   "longitude": 111.91,
+   "latitude": 37.08
+ },
+ {
+   "event_id": 333,
+   "device_id": 1513402990297914000,
+   "timestamp": "2016-05-03 00:14:20",
+   "longitude": 115.94,
+   "latitude": 28.6
+ },
+ {
+   "event_id": 334,
+   "device_id": 1805595054953645800,
+   "timestamp": "2016-05-03 00:26:49",
+   "longitude": 120.28,
+   "latitude": 30.31
+ },
+ {
+   "event_id": 335,
+   "device_id": -5127356298948955000,
+   "timestamp": "2016-05-03 00:12:52",
+   "longitude": 114.91,
+   "latitude": 27.82
+ },
+ {
+   "event_id": 336,
+   "device_id": 1543312642405419500,
+   "timestamp": "2016-05-03 00:16:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 337,
+   "device_id": 4824807694869767000,
+   "timestamp": "2016-05-03 00:39:07",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 338,
+   "device_id": -4405852009359602700,
+   "timestamp": "2016-05-03 00:40:05",
+   "longitude": 109.22,
+   "latitude": 34.37
+ },
+ {
+   "event_id": 339,
+   "device_id": -4273921571602755600,
+   "timestamp": "2016-05-03 00:40:43",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 340,
+   "device_id": 2153510796517660000,
+   "timestamp": "2016-05-03 00:15:18",
+   "longitude": 111.57,
+   "latitude": 36.08
+ },
+ {
+   "event_id": 341,
+   "device_id": -4474299055177403400,
+   "timestamp": "2016-05-03 00:29:26",
+   "longitude": 114.39,
+   "latitude": 30.51
+ },
+ {
+   "event_id": 342,
+   "device_id": -4474299055177403400,
+   "timestamp": "2016-05-03 00:30:10",
+   "longitude": 114.39,
+   "latitude": 30.51
+ },
+ {
+   "event_id": 343,
+   "device_id": -4201739529186450400,
+   "timestamp": "2016-05-03 00:32:43",
+   "longitude": 116.37,
+   "latitude": 39.97
+ },
+ {
+   "event_id": 344,
+   "device_id": -9142943697566922000,
+   "timestamp": "2016-05-03 00:31:07",
+   "longitude": 118.49,
+   "latitude": 31.56
+ },
+ {
+   "event_id": 345,
+   "device_id": -2946010489033285000,
+   "timestamp": "2016-05-03 00:14:22",
+   "longitude": 117.27,
+   "latitude": 39.13
+ },
+ {
+   "event_id": 346,
+   "device_id": -7119352902190361000,
+   "timestamp": "2016-05-03 00:14:58",
+   "longitude": 118.89,
+   "latitude": 28.94
+ },
+ {
+   "event_id": 347,
+   "device_id": 9188531016640524000,
+   "timestamp": "2016-05-03 00:10:22",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 348,
+   "device_id": -390983090106127400,
+   "timestamp": "2016-05-03 00:20:00",
+   "longitude": 106.83,
+   "latitude": 39.67
+ },
+ {
+   "event_id": 349,
+   "device_id": 2682502338029974500,
+   "timestamp": "2016-05-03 00:04:28",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 350,
+   "device_id": 965888420476742000,
+   "timestamp": "2016-05-03 00:12:38",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 351,
+   "device_id": -7979201298395345000,
+   "timestamp": "2016-05-03 00:17:23",
+   "longitude": 120.38,
+   "latitude": 32.62
+ },
+ {
+   "event_id": 352,
+   "device_id": 7190861411587395000,
+   "timestamp": "2016-05-03 00:36:17",
+   "longitude": 118.86,
+   "latitude": 28.95
+ },
+ {
+   "event_id": 353,
+   "device_id": -1866872231234554000,
+   "timestamp": "2016-05-03 00:48:01",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 354,
+   "device_id": -2550671354339445000,
+   "timestamp": "2016-05-03 00:30:57",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 355,
+   "device_id": -3953475011316044000,
+   "timestamp": "2016-05-03 00:31:42",
+   "longitude": 121.38,
+   "latitude": 31.15
+ },
+ {
+   "event_id": 356,
+   "device_id": 5439313746742086000,
+   "timestamp": "2016-05-03 00:20:56",
+   "longitude": 113.27,
+   "latitude": 23.24
+ },
+ {
+   "event_id": 357,
+   "device_id": -3768251199300267500,
+   "timestamp": "2016-05-03 00:51:22",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 358,
+   "device_id": -4711899428622947000,
+   "timestamp": "2016-05-03 00:15:42",
+   "longitude": 113.66,
+   "latitude": 22.83
+ },
+ {
+   "event_id": 359,
+   "device_id": -4711899428622947000,
+   "timestamp": "2016-05-03 00:17:38",
+   "longitude": 113.66,
+   "latitude": 22.83
+ },
+ {
+   "event_id": 360,
+   "device_id": 2902425947728297000,
+   "timestamp": "2016-05-03 00:42:04",
+   "longitude": 114.11,
+   "latitude": 22.93
+ },
+ {
+   "event_id": 361,
+   "device_id": 6912999990098592000,
+   "timestamp": "2016-05-03 00:35:18",
+   "longitude": 120.96,
+   "latitude": 31.36
+ },
+ {
+   "event_id": 362,
+   "device_id": -4229815843211107300,
+   "timestamp": "2016-05-03 00:09:25",
+   "longitude": 106.7,
+   "latitude": 26.59
+ },
+ {
+   "event_id": 363,
+   "device_id": -5698318808329394000,
+   "timestamp": "2016-05-03 00:05:21",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 364,
+   "device_id": -4303589873973511000,
+   "timestamp": "2016-05-03 00:23:38",
+   "longitude": 113.22,
+   "latitude": 23.13
+ },
+ {
+   "event_id": 365,
+   "device_id": -4960939156239731000,
+   "timestamp": "2016-05-03 00:54:20",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 366,
+   "device_id": -430037567981444900,
+   "timestamp": "2016-05-03 00:14:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 367,
+   "device_id": 8523256667599969000,
+   "timestamp": "2016-05-03 00:07:45",
+   "longitude": 119.31,
+   "latitude": 26
+ },
+ {
+   "event_id": 368,
+   "device_id": 7201631899279333000,
+   "timestamp": "2016-05-03 00:32:53",
+   "longitude": 114.21,
+   "latitude": 30.6
+ },
+ {
+   "event_id": 369,
+   "device_id": 7201631899279333000,
+   "timestamp": "2016-05-03 00:33:23",
+   "longitude": 114.21,
+   "latitude": 30.6
+ },
+ {
+   "event_id": 370,
+   "device_id": 7180704268982110000,
+   "timestamp": "2016-05-02 23:59:59",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 371,
+   "device_id": -5380817412170700000,
+   "timestamp": "2016-05-03 00:04:52",
+   "longitude": 118.85,
+   "latitude": 32.12
+ },
+ {
+   "event_id": 372,
+   "device_id": 9184963992247652000,
+   "timestamp": "2016-05-03 00:07:47",
+   "longitude": 120.2,
+   "latitude": 30.07
+ },
+ {
+   "event_id": 373,
+   "device_id": 7913455270882221000,
+   "timestamp": "2016-05-03 00:16:42",
+   "longitude": 102.67,
+   "latitude": 25.07
+ },
+ {
+   "event_id": 374,
+   "device_id": -1896432700543181300,
+   "timestamp": "2016-05-03 00:30:59",
+   "longitude": 121.49,
+   "latitude": 31.26
+ },
+ {
+   "event_id": 375,
+   "device_id": -5062209597631823000,
+   "timestamp": "2016-05-03 00:33:43",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 376,
+   "device_id": 7871476891487676000,
+   "timestamp": "2016-05-03 00:28:03",
+   "longitude": 114.8,
+   "latitude": 30.84
+ },
+ {
+   "event_id": 377,
+   "device_id": -9058769793619141000,
+   "timestamp": "2016-05-03 00:47:58",
+   "longitude": 126.51,
+   "latitude": 48.25
+ },
+ {
+   "event_id": 378,
+   "device_id": 2036527423409767200,
+   "timestamp": "2016-05-03 00:49:34",
+   "longitude": 120.42,
+   "latitude": 36.24
+ },
+ {
+   "event_id": 379,
+   "device_id": -8327252506560257000,
+   "timestamp": "2016-05-03 00:35:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 380,
+   "device_id": 3298173831582744000,
+   "timestamp": "2016-05-03 00:24:24",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 381,
+   "device_id": -1153910750523975000,
+   "timestamp": "2016-05-03 00:10:40",
+   "longitude": 108.92,
+   "latitude": 34.17
+ },
+ {
+   "event_id": 382,
+   "device_id": 1240253599838799600,
+   "timestamp": "2016-05-03 00:21:20",
+   "longitude": 118.32,
+   "latitude": 30.92
+ },
+ {
+   "event_id": 383,
+   "device_id": -3139213190647208400,
+   "timestamp": "2016-05-03 00:21:51",
+   "longitude": 114.48,
+   "latitude": 38.06
+ },
+ {
+   "event_id": 384,
+   "device_id": -3139213190647208400,
+   "timestamp": "2016-05-03 00:24:46",
+   "longitude": 114.48,
+   "latitude": 38.06
+ },
+ {
+   "event_id": 385,
+   "device_id": -2813797959506789000,
+   "timestamp": "2016-05-03 00:16:54",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 386,
+   "device_id": -3491449487057579000,
+   "timestamp": "2016-05-03 00:27:05",
+   "longitude": 113.92,
+   "latitude": 22.65
+ },
+ {
+   "event_id": 387,
+   "device_id": -1602335761648247800,
+   "timestamp": "2016-05-03 00:27:37",
+   "longitude": 113.27,
+   "latitude": 23.11
+ },
+ {
+   "event_id": 388,
+   "device_id": 5083019926611946000,
+   "timestamp": "2016-05-03 00:28:01",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 389,
+   "device_id": -9113136580115572000,
+   "timestamp": "2016-05-03 00:32:43",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 390,
+   "device_id": -3762561587120285700,
+   "timestamp": "2016-05-03 00:24:32",
+   "longitude": 121.54,
+   "latitude": 31.29
+ },
+ {
+   "event_id": 391,
+   "device_id": -6935842738900418000,
+   "timestamp": "2016-05-03 00:35:45",
+   "longitude": 113.58,
+   "latitude": 28.71
+ },
+ {
+   "event_id": 392,
+   "device_id": 2310111814347676000,
+   "timestamp": "2016-05-03 00:37:02",
+   "longitude": 113.57,
+   "latitude": 24.8
+ },
+ {
+   "event_id": 393,
+   "device_id": 7415199158072991000,
+   "timestamp": "2016-05-03 00:41:41",
+   "longitude": 113.92,
+   "latitude": 22.55
+ },
+ {
+   "event_id": 394,
+   "device_id": 7077117009168721000,
+   "timestamp": "2016-05-03 00:24:13",
+   "longitude": 113.78,
+   "latitude": 23.05
+ },
+ {
+   "event_id": 395,
+   "device_id": -3045139278169088000,
+   "timestamp": "2016-05-03 00:21:15",
+   "longitude": 103.95,
+   "latitude": 29.21
+ },
+ {
+   "event_id": 396,
+   "device_id": -7452025512710475000,
+   "timestamp": "2016-05-03 00:31:06",
+   "longitude": 121.27,
+   "latitude": 31.16
+ },
+ {
+   "event_id": 397,
+   "device_id": -5867720344241575000,
+   "timestamp": "2016-05-03 00:34:35",
+   "longitude": 104.17,
+   "latitude": 30.83
+ },
+ {
+   "event_id": 398,
+   "device_id": -3680792582266044400,
+   "timestamp": "2016-05-03 00:39:59",
+   "longitude": 119.47,
+   "latitude": 32.21
+ },
+ {
+   "event_id": 399,
+   "device_id": -124104017643390020,
+   "timestamp": "2016-05-03 00:33:30",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 400,
+   "device_id": -2454429969454931000,
+   "timestamp": "2016-05-03 00:00:54",
+   "longitude": 118.84,
+   "latitude": 37.41
+ },
+ {
+   "event_id": 401,
+   "device_id": -4658758848714230000,
+   "timestamp": "2016-05-03 00:02:46",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 402,
+   "device_id": 707891299937546200,
+   "timestamp": "2016-05-02 23:52:21",
+   "longitude": 129.49,
+   "latitude": 42.91
+ },
+ {
+   "event_id": 403,
+   "device_id": -3339999053314713000,
+   "timestamp": "2016-05-03 00:02:31",
+   "longitude": 112.46,
+   "latitude": 23.05
+ },
+ {
+   "event_id": 404,
+   "device_id": -7576599921872828000,
+   "timestamp": "2016-05-03 00:06:13",
+   "longitude": 114.2,
+   "latitude": 30.55
+ },
+ {
+   "event_id": 405,
+   "device_id": 7692802054365178000,
+   "timestamp": "2016-05-02 23:57:40",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 406,
+   "device_id": -368723351516596300,
+   "timestamp": "2016-05-03 00:08:39",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 407,
+   "device_id": 2164896744275908900,
+   "timestamp": "2016-05-03 00:01:29",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 408,
+   "device_id": 176364454226994880,
+   "timestamp": "2016-05-03 00:01:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 409,
+   "device_id": -7086448875815966000,
+   "timestamp": "2016-05-03 00:36:07",
+   "longitude": 113.9,
+   "latitude": 22.71
+ },
+ {
+   "event_id": 410,
+   "device_id": 8614548572474042000,
+   "timestamp": "2016-05-03 00:38:08",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 411,
+   "device_id": 5776071682117621000,
+   "timestamp": "2016-05-03 00:38:55",
+   "longitude": 111.15,
+   "latitude": 37.52
+ },
+ {
+   "event_id": 412,
+   "device_id": 2153510796517660000,
+   "timestamp": "2016-05-03 00:05:02",
+   "longitude": 111.57,
+   "latitude": 36.08
+ },
+ {
+   "event_id": 413,
+   "device_id": -649267418776634000,
+   "timestamp": "2016-05-03 00:00:53",
+   "longitude": 113.32,
+   "latitude": 23.18
+ },
+ {
+   "event_id": 414,
+   "device_id": -7548291590301750000,
+   "timestamp": "2016-05-03 00:05:31",
+   "longitude": 116.79,
+   "latitude": 33.98
+ },
+ {
+   "event_id": 415,
+   "device_id": -4718495444194925000,
+   "timestamp": "2016-05-03 00:05:35",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 416,
+   "device_id": -7694262199913414000,
+   "timestamp": "2016-05-03 00:56:47",
+   "longitude": 104.7,
+   "latitude": 31.54
+ },
+ {
+   "event_id": 417,
+   "device_id": 6274679576648944000,
+   "timestamp": "2016-05-03 00:31:33",
+   "longitude": 108.76,
+   "latitude": 23.22
+ },
+ {
+   "event_id": 418,
+   "device_id": 849694148600101400,
+   "timestamp": "2016-05-03 00:28:43",
+   "longitude": 113.31,
+   "latitude": 22.98
+ },
+ {
+   "event_id": 419,
+   "device_id": -9003024964574031000,
+   "timestamp": "2016-05-03 00:28:56",
+   "longitude": 108.08,
+   "latitude": 24.7
+ },
+ {
+   "event_id": 420,
+   "device_id": -6889225330998580000,
+   "timestamp": "2016-05-03 00:48:01",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 421,
+   "device_id": -4161937508714078700,
+   "timestamp": "2016-05-03 00:03:21",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 422,
+   "device_id": -4637511899218576000,
+   "timestamp": "2016-05-03 00:03:56",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 423,
+   "device_id": 7294851609945310000,
+   "timestamp": "2016-05-03 00:04:41",
+   "longitude": 119.79,
+   "latitude": 25.51
+ },
+ {
+   "event_id": 424,
+   "device_id": -3784121437863313400,
+   "timestamp": "2016-05-03 00:10:22",
+   "longitude": 121.4,
+   "latitude": 31.33
+ },
+ {
+   "event_id": 425,
+   "device_id": -8193912280054154000,
+   "timestamp": "2016-05-03 00:10:54",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 426,
+   "device_id": 7380196603165104000,
+   "timestamp": "2016-05-03 00:39:26",
+   "longitude": 118.98,
+   "latitude": 24.99
+ },
+ {
+   "event_id": 427,
+   "device_id": -7195524207784365000,
+   "timestamp": "2016-05-03 00:36:59",
+   "longitude": 114.24,
+   "latitude": 22.66
+ },
+ {
+   "event_id": 428,
+   "device_id": 7380196603165104000,
+   "timestamp": "2016-05-03 00:29:42",
+   "longitude": 118.98,
+   "latitude": 24.99
+ },
+ {
+   "event_id": 429,
+   "device_id": 2107916037239855000,
+   "timestamp": "2016-05-03 00:43:19",
+   "longitude": 118.56,
+   "latitude": 24.84
+ },
+ {
+   "event_id": 430,
+   "device_id": -5098798994677668000,
+   "timestamp": "2016-05-03 00:54:05",
+   "longitude": 0.69,
+   "latitude": 1
+ },
+ {
+   "event_id": 431,
+   "device_id": 8864190395087535000,
+   "timestamp": "2016-05-03 00:45:45",
+   "longitude": 122.76,
+   "latitude": 40.85
+ },
+ {
+   "event_id": 432,
+   "device_id": -5350685769476842000,
+   "timestamp": "2016-05-03 00:48:40",
+   "longitude": 120.4,
+   "latitude": 36.08
+ },
+ {
+   "event_id": 433,
+   "device_id": 8141510389319093000,
+   "timestamp": "2016-05-02 23:57:41",
+   "longitude": 112.03,
+   "latitude": 37.85
+ },
+ {
+   "event_id": 434,
+   "device_id": 7057564812632206000,
+   "timestamp": "2016-05-03 00:40:52",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 435,
+   "device_id": 6116374378635305000,
+   "timestamp": "2016-05-03 00:30:34",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 436,
+   "device_id": 5517233598675422000,
+   "timestamp": "2016-05-03 00:43:16",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 437,
+   "device_id": 775111129433798400,
+   "timestamp": "2016-05-04 00:39:51",
+   "longitude": 117.29,
+   "latitude": 39.05
+ },
+ {
+   "event_id": 438,
+   "device_id": 6981492487242870000,
+   "timestamp": "2016-05-04 00:41:05",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 439,
+   "device_id": -3805359430878536000,
+   "timestamp": "2016-05-04 00:15:11",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 440,
+   "device_id": 8804133504099897000,
+   "timestamp": "2016-05-04 00:19:56",
+   "longitude": 113.95,
+   "latitude": 22.56
+ },
+ {
+   "event_id": 441,
+   "device_id": 1058759295445290400,
+   "timestamp": "2016-05-04 00:24:50",
+   "longitude": 113.29,
+   "latitude": 22.99
+ },
+ {
+   "event_id": 442,
+   "device_id": 2731182182628794000,
+   "timestamp": "2016-05-04 00:28:53",
+   "longitude": 116.35,
+   "latitude": 39.78
+ },
+ {
+   "event_id": 443,
+   "device_id": 1186608308763918300,
+   "timestamp": "2016-05-04 00:40:39",
+   "longitude": 125.33,
+   "latitude": 43.92
+ },
+ {
+   "event_id": 444,
+   "device_id": 2399106589987177500,
+   "timestamp": "2016-05-04 00:42:16",
+   "longitude": 113.44,
+   "latitude": 22.2
+ },
+ {
+   "event_id": 445,
+   "device_id": -7158212860289107000,
+   "timestamp": "2016-05-04 00:57:10",
+   "longitude": 121.07,
+   "latitude": 28.29
+ },
+ {
+   "event_id": 446,
+   "device_id": -6105966583993926000,
+   "timestamp": "2016-05-04 00:07:51",
+   "longitude": 111.67,
+   "latitude": 36.38
+ },
+ {
+   "event_id": 447,
+   "device_id": -5059014127623889000,
+   "timestamp": "2016-05-04 00:10:49",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 448,
+   "device_id": -7468770522154036000,
+   "timestamp": "2016-05-04 00:08:54",
+   "longitude": 108.31,
+   "latitude": 22.84
+ },
+ {
+   "event_id": 449,
+   "device_id": 4461584839553337300,
+   "timestamp": "2016-05-03 23:57:51",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 450,
+   "device_id": 4521087172040089000,
+   "timestamp": "2016-05-04 00:00:13",
+   "longitude": 112.96,
+   "latitude": 22.99
+ },
+ {
+   "event_id": 451,
+   "device_id": 8732639594666268000,
+   "timestamp": "2016-05-04 00:00:42",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 452,
+   "device_id": -4447768106423186400,
+   "timestamp": "2016-05-04 00:05:10",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 453,
+   "device_id": 9128212907576710000,
+   "timestamp": "2016-05-04 00:04:57",
+   "longitude": 114.1,
+   "latitude": 32.1
+ },
+ {
+   "event_id": 454,
+   "device_id": 7921513786039276000,
+   "timestamp": "2016-05-04 00:06:16",
+   "longitude": 114.69,
+   "latitude": 38.02
+ },
+ {
+   "event_id": 455,
+   "device_id": -5925185855901107000,
+   "timestamp": "2016-05-04 00:06:26",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 456,
+   "device_id": -7649248425941401000,
+   "timestamp": "2016-05-04 00:06:15",
+   "longitude": 113.39,
+   "latitude": 23.06
+ },
+ {
+   "event_id": 457,
+   "device_id": 5176176272850190000,
+   "timestamp": "2016-05-04 00:35:49",
+   "longitude": 116.67,
+   "latitude": 34.88
+ },
+ {
+   "event_id": 458,
+   "device_id": 5491334538068851000,
+   "timestamp": "2016-05-04 00:29:54",
+   "longitude": 114.55,
+   "latitude": 38.16
+ },
+ {
+   "event_id": 459,
+   "device_id": 6446632248146767000,
+   "timestamp": "2016-05-04 00:34:44",
+   "longitude": 106.2,
+   "latitude": 29.27
+ },
+ {
+   "event_id": 460,
+   "device_id": 7688566296925065000,
+   "timestamp": "2016-05-04 00:35:11",
+   "longitude": 106.57,
+   "latitude": 29.49
+ },
+ {
+   "event_id": 461,
+   "device_id": 2109496975315011800,
+   "timestamp": "2016-05-04 00:32:06",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 462,
+   "device_id": 3712536642643310000,
+   "timestamp": "2016-05-04 00:12:09",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 463,
+   "device_id": 7874748103544023000,
+   "timestamp": "2016-05-04 00:23:21",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 464,
+   "device_id": -2449726623404699600,
+   "timestamp": "2016-05-04 00:15:02",
+   "longitude": 113.26,
+   "latitude": 22.66
+ },
+ {
+   "event_id": 465,
+   "device_id": -2449726623404699600,
+   "timestamp": "2016-05-04 00:11:51",
+   "longitude": 113.26,
+   "latitude": 22.66
+ },
+ {
+   "event_id": 466,
+   "device_id": -2050072872616234200,
+   "timestamp": "2016-05-04 00:12:23",
+   "longitude": 118.34,
+   "latitude": 35.11
+ },
+ {
+   "event_id": 467,
+   "device_id": 6274115063946558000,
+   "timestamp": "2016-05-04 00:47:07",
+   "longitude": 110.34,
+   "latitude": 20.06
+ },
+ {
+   "event_id": 468,
+   "device_id": -7181951946686008000,
+   "timestamp": "2016-05-04 00:14:57",
+   "longitude": 121.51,
+   "latitude": 31.16
+ },
+ {
+   "event_id": 469,
+   "device_id": -4588292775798737000,
+   "timestamp": "2016-05-04 00:15:49",
+   "longitude": 113.24,
+   "latitude": 23.21
+ },
+ {
+   "event_id": 470,
+   "device_id": -5936038713680683000,
+   "timestamp": "2016-05-04 00:16:59",
+   "longitude": 120.46,
+   "latitude": 33.21
+ },
+ {
+   "event_id": 471,
+   "device_id": -8340098378141155000,
+   "timestamp": "2016-05-04 00:45:36",
+   "longitude": 111.92,
+   "latitude": 34.74
+ },
+ {
+   "event_id": 472,
+   "device_id": 3366842472104992300,
+   "timestamp": "2016-05-04 00:31:05",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 473,
+   "device_id": 5168576365693927000,
+   "timestamp": "2016-05-04 00:53:55",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 474,
+   "device_id": 3056887658065423400,
+   "timestamp": "2016-05-04 00:50:51",
+   "longitude": 106.62,
+   "latitude": 23.9
+ },
+ {
+   "event_id": 475,
+   "device_id": -5564497951509561000,
+   "timestamp": "2016-05-04 00:55:33",
+   "longitude": 112.83,
+   "latitude": 35.5
+ },
+ {
+   "event_id": 476,
+   "device_id": 7003160972974942000,
+   "timestamp": "2016-05-04 00:22:14",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 477,
+   "device_id": -2868898230871436300,
+   "timestamp": "2016-05-04 00:21:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 478,
+   "device_id": 2771516290634663400,
+   "timestamp": "2016-05-04 00:21:53",
+   "longitude": 116.43,
+   "latitude": 39.97
+ },
+ {
+   "event_id": 479,
+   "device_id": 746518081142147200,
+   "timestamp": "2016-05-04 00:23:12",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 480,
+   "device_id": 1269053058253588500,
+   "timestamp": "2016-05-03 23:57:14",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 481,
+   "device_id": 5800572039494814000,
+   "timestamp": "2016-05-04 00:01:21",
+   "longitude": 121.57,
+   "latitude": 31.26
+ },
+ {
+   "event_id": 482,
+   "device_id": -3220515152160927000,
+   "timestamp": "2016-05-04 00:01:58",
+   "longitude": 110.63,
+   "latitude": 22.07
+ },
+ {
+   "event_id": 483,
+   "device_id": 5806899496539264000,
+   "timestamp": "2016-05-04 00:02:31",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 484,
+   "device_id": -5159945578534295000,
+   "timestamp": "2016-05-04 00:06:51",
+   "longitude": 122.96,
+   "latitude": 41.11
+ },
+ {
+   "event_id": 485,
+   "device_id": 7939964667793309000,
+   "timestamp": "2016-05-03 23:56:52",
+   "longitude": 112.59,
+   "latitude": 35.08
+ },
+ {
+   "event_id": 486,
+   "device_id": -2682004830508967000,
+   "timestamp": "2016-05-03 23:59:05",
+   "longitude": 123.93,
+   "latitude": 41.87
+ },
+ {
+   "event_id": 487,
+   "device_id": 7813332581964668000,
+   "timestamp": "2016-05-04 00:57:16",
+   "longitude": 120.17,
+   "latitude": 33.37
+ },
+ {
+   "event_id": 488,
+   "device_id": -6243392779260071000,
+   "timestamp": "2016-05-04 00:07:35",
+   "longitude": 116.46,
+   "latitude": 40.01
+ },
+ {
+   "event_id": 489,
+   "device_id": 7291601419684827000,
+   "timestamp": "2016-05-04 00:07:37",
+   "longitude": 114.26,
+   "latitude": 30.57
+ },
+ {
+   "event_id": 490,
+   "device_id": 2324672648032099000,
+   "timestamp": "2016-05-04 00:08:33",
+   "longitude": 117.27,
+   "latitude": 31.84
+ },
+ {
+   "event_id": 491,
+   "device_id": 2536817034080385000,
+   "timestamp": "2016-05-04 00:11:48",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 492,
+   "device_id": 2973347786994914300,
+   "timestamp": "2016-05-04 00:12:23",
+   "longitude": 1,
+   "latitude": 1
+ },
+ {
+   "event_id": 493,
+   "device_id": -1622561733905307400,
+   "timestamp": "2016-05-04 00:12:59",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 494,
+   "device_id": -17299534936664236,
+   "timestamp": "2016-05-04 00:13:41",
+   "longitude": 0,
+   "latitude": 0
+ },
+ {
+   "event_id": 495,
+   "device_id": 1448798737437496000,
+   "timestamp": "2016-05-04 00:16:22",
+   "longitude": 118.72,
+   "latitude": 35.69
+ },
+ {
+   "event_id": 496,
+   "device_id": -1145489861592235100,
+   "timestamp": "2016-05-04 00:16:34",
+   "longitude": 108.41,
+   "latitude": 34.23
+ },
+ {
+   "event_id": 497,
+   "device_id": 4188737234359273000,
+   "timestamp": "2016-05-04 00:00:47",
+   "longitude": 119.97,
+   "latitude": 36.33
+ },
+ {
+   "event_id": 498,
+   "device_id": 8709039226990206000,
+   "timestamp": "2016-05-04 00:02:14",
+   "longitude": 120.29,
+   "latitude": 31.55
+ },
+ {
+   "event_id": 499,
+   "device_id": -4543117867537584600,
+   "timestamp": "2016-05-04 00:01:54",
+   "longitude": 0,
+   "latitude": 0
+ }
+]

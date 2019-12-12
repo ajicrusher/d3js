@@ -1,0 +1,5586 @@
+[
+  {
+    "event_id": 1,
+    "device_id": "2,92E+16",
+    "timestamp": "01/05/2016 0:55",
+    "longitude": 121.38,
+    "latitude": 31.24,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 2,
+    "device_id": "-6,40E+18",
+    "timestamp": "01/05/2016 0:54",
+    "longitude": 103.65,
+    "latitude": 30.97,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 3,
+    "device_id": "-4,83E+18",
+    "timestamp": "01/05/2016 0:08",
+    "longitude": 106.6,
+    "latitude": 29.7,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 4,
+    "device_id": "-6,82E+18",
+    "timestamp": "01/05/2016 0:06",
+    "longitude": 104.27,
+    "latitude": 23.28,
+    "device_model": "时尚手机"
+  },
+  {
+    "event_id": 5,
+    "device_id": "-5,37E+18",
+    "timestamp": "01/05/2016 0:07",
+    "longitude": 115.88,
+    "latitude": 28.66,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 7,
+    "device_id": "5,99E+18",
+    "timestamp": "01/05/2016 0:15",
+    "longitude": 113.73,
+    "latitude": 23,
+    "device_model": "Mate"
+  },
+  {
+    "event_id": 8,
+    "device_id": "1,78E+18",
+    "timestamp": "01/05/2016 0:15",
+    "longitude": 113.94,
+    "latitude": 34.7,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 10,
+    "device_id": "-8,20E+18",
+    "timestamp": "01/05/2016 0:41",
+    "longitude": 119.34,
+    "latitude": 26.04,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 11,
+    "device_id": "8,66E+18",
+    "timestamp": "01/05/2016 0:44",
+    "longitude": 106.71,
+    "latitude": 39.51,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 12,
+    "device_id": "8,66E+18",
+    "timestamp": "01/05/2016 0:45",
+    "longitude": 106.71,
+    "latitude": 39.51,
+    "device_model": "S7I"
+  },
+  {
+    "event_id": 13,
+    "device_id": "8,64E+18",
+    "timestamp": "01/05/2016 0:44",
+    "longitude": 117.73,
+    "latitude": 34.92,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 14,
+    "device_id": "-5,37E+18",
+    "timestamp": "01/05/2016 0:36",
+    "longitude": 115.88,
+    "latitude": 28.66,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 15,
+    "device_id": "2,50E+18",
+    "timestamp": "01/05/2016 0:40",
+    "longitude": 120.62,
+    "latitude": 31.31,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 17,
+    "device_id": "-4,60E+17",
+    "timestamp": "01/05/2016 0:06",
+    "longitude": 118.44,
+    "latitude": 24.71,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 18,
+    "device_id": "2,27E+18",
+    "timestamp": "01/05/2016 0:06",
+    "longitude": 111.46,
+    "latitude": 35.64,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 20,
+    "device_id": "6,13E+18",
+    "timestamp": "01/05/2016 0:17",
+    "longitude": 129.51,
+    "latitude": 42.91,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 21,
+    "device_id": "8,55E+18",
+    "timestamp": "01/05/2016 0:41",
+    "longitude": 120.66,
+    "latitude": 31.31,
+    "device_model": "G520-0000"
+  },
+  {
+    "event_id": 22,
+    "device_id": "-1,66E+18",
+    "timestamp": "01/05/2016 0:43",
+    "longitude": 116.45,
+    "latitude": 33.93,
+    "device_model": "X5Pro"
+  },
+  {
+    "event_id": 23,
+    "device_id": "1,19E+18",
+    "timestamp": "30/04/2016 23:56",
+    "longitude": 113.58,
+    "latitude": 23.55,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 24,
+    "device_id": "-6,67E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 87.59,
+    "latitude": 43.82,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 25,
+    "device_id": "-4,98E+18",
+    "timestamp": "30/04/2016 23:58",
+    "longitude": 120.07,
+    "latitude": 31.75,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 26,
+    "device_id": "4,83E+18",
+    "timestamp": "01/05/2016 0:45",
+    "longitude": 121.57,
+    "latitude": 38.93,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 27,
+    "device_id": "-2,67E+18",
+    "timestamp": "01/05/2016 0:46",
+    "longitude": 132.03,
+    "latitude": 47.25,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 28,
+    "device_id": "-7,75E+18",
+    "timestamp": "01/05/2016 0:27",
+    "longitude": 117.27,
+    "latitude": 34.82,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 29,
+    "device_id": "7,17E+18",
+    "timestamp": "01/05/2016 0:31",
+    "longitude": 117.96,
+    "latitude": 28.47,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 31,
+    "device_id": "-5,11E+18",
+    "timestamp": "01/05/2016 0:29",
+    "longitude": 108.62,
+    "latitude": 34.09,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 32,
+    "device_id": "1,68E+18",
+    "timestamp": "01/05/2016 0:29",
+    "longitude": 116.42,
+    "latitude": 39.9,
+    "device_model": 7270
+  },
+  {
+    "event_id": 33,
+    "device_id": "-4,99E+18",
+    "timestamp": "01/05/2016 0:42",
+    "longitude": 113.39,
+    "latitude": 23.12,
+    "device_model": "Touch 3"
+  },
+  {
+    "event_id": 34,
+    "device_id": "-2,31E+18",
+    "timestamp": "01/05/2016 0:55",
+    "longitude": 118.33,
+    "latitude": 35.05,
+    "device_model": "R2017"
+  },
+  {
+    "event_id": 36,
+    "device_id": "-6,50E+18",
+    "timestamp": "01/05/2016 0:26",
+    "longitude": 113.8,
+    "latitude": 34.02,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 37,
+    "device_id": "-2,11E+18",
+    "timestamp": "01/05/2016 0:26",
+    "longitude": 115.18,
+    "latitude": 38.18,
+    "device_model": "795+"
+  },
+  {
+    "event_id": 38,
+    "device_id": "-7,69E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 114.43,
+    "latitude": 30.51,
+    "device_model": "大神Note"
+  },
+  {
+    "event_id": 41,
+    "device_id": "-2,11E+18",
+    "timestamp": "01/05/2016 0:17",
+    "longitude": 114.7,
+    "latitude": 34.52,
+    "device_model": "Y3T"
+  },
+  {
+    "event_id": 42,
+    "device_id": "-8,30E+18",
+    "timestamp": "01/05/2016 0:26",
+    "longitude": 112.24,
+    "latitude": 22.89,
+    "device_model": "S7566"
+  },
+  {
+    "event_id": 43,
+    "device_id": "-3,86E+18",
+    "timestamp": "01/05/2016 0:32",
+    "longitude": 114.05,
+    "latitude": 22.64,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 44,
+    "device_id": "-4,71E+18",
+    "timestamp": "01/05/2016 0:33",
+    "longitude": 113.37,
+    "latitude": 28.25,
+    "device_model": "GN708W"
+  },
+  {
+    "event_id": 45,
+    "device_id": "-7,73E+18",
+    "timestamp": "01/05/2016 0:33",
+    "longitude": 120.21,
+    "latitude": 27.31,
+    "device_model": "乐檬K3 Note"
+  },
+  {
+    "event_id": 46,
+    "device_id": "1,83E+17",
+    "timestamp": "01/05/2016 0:16",
+    "longitude": 114.33,
+    "latitude": 22.69,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 47,
+    "device_id": "8,98E+18",
+    "timestamp": "01/05/2016 0:56",
+    "longitude": 113.36,
+    "latitude": 22.94,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 48,
+    "device_id": "6,75E+18",
+    "timestamp": "01/05/2016 0:10",
+    "longitude": 113.93,
+    "latitude": 23.11,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 49,
+    "device_id": "7,77E+18",
+    "timestamp": "01/05/2016 0:11",
+    "longitude": 121.58,
+    "latitude": 31.09,
+    "device_model": "A820t"
+  },
+  {
+    "event_id": 50,
+    "device_id": "6,56E+17",
+    "timestamp": "01/05/2016 0:11",
+    "longitude": 114.94,
+    "latitude": 26.79,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 51,
+    "device_id": "3,65E+18",
+    "timestamp": "01/05/2016 0:07",
+    "longitude": 117.11,
+    "latitude": 39.04,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 52,
+    "device_id": "-8,05E+17",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 105.62,
+    "latitude": 27.23,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 53,
+    "device_id": "-4,05E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 113.21,
+    "latitude": 22.59,
+    "device_model": "Galaxy S2"
+  },
+  {
+    "event_id": 54,
+    "device_id": "-7,87E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 113.11,
+    "latitude": 23.04,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 55,
+    "device_id": "8,88E+18",
+    "timestamp": "30/04/2016 23:58",
+    "longitude": 104.15,
+    "latitude": 35.95,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 56,
+    "device_id": "-3,41E+18",
+    "timestamp": "30/04/2016 23:55",
+    "longitude": 114.44,
+    "latitude": 36.64,
+    "device_model": "EG966"
+  },
+  {
+    "event_id": 57,
+    "device_id": "8,29E+18",
+    "timestamp": "30/04/2016 23:54",
+    "longitude": 116.46,
+    "latitude": 39.89,
+    "device_model": "Galaxy S2"
+  },
+  {
+    "event_id": 59,
+    "device_id": "3,13E+18",
+    "timestamp": "01/05/2016 0:50",
+    "longitude": 116.3,
+    "latitude": 39.75,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 60,
+    "device_id": "5,86E+18",
+    "timestamp": "01/05/2016 0:50",
+    "longitude": 113.3,
+    "latitude": 23.23,
+    "device_model": "Xperia SL"
+  },
+  {
+    "event_id": 61,
+    "device_id": "-1,59E+18",
+    "timestamp": "01/05/2016 0:00",
+    "longitude": 110.4,
+    "latitude": 25.31,
+    "device_model": "E5"
+  },
+  {
+    "event_id": 63,
+    "device_id": "7,70E+18",
+    "timestamp": "01/05/2016 0:45",
+    "longitude": 121.88,
+    "latitude": 29.47,
+    "device_model": "乐檬K3 Note"
+  },
+  {
+    "event_id": 65,
+    "device_id": "-3,04E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 113.35,
+    "latitude": 23.06,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 66,
+    "device_id": "-1,67E+18",
+    "timestamp": "30/04/2016 23:57",
+    "longitude": 119.76,
+    "latitude": 36.68,
+    "device_model": "Galaxy Mega 5.8"
+  },
+  {
+    "event_id": 67,
+    "device_id": "8,18E+18",
+    "timestamp": "01/05/2016 0:44",
+    "longitude": 114.27,
+    "latitude": 22.73,
+    "device_model": "G2"
+  },
+  {
+    "event_id": 68,
+    "device_id": "7,34E+18",
+    "timestamp": "01/05/2016 0:29",
+    "longitude": 110.92,
+    "latitude": 35.12,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 70,
+    "device_id": "8,25E+18",
+    "timestamp": "01/05/2016 0:36",
+    "longitude": 121.68,
+    "latitude": 31.12,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 71,
+    "device_id": "3,24E+18",
+    "timestamp": "01/05/2016 0:37",
+    "longitude": 118.37,
+    "latitude": 33.68,
+    "device_model": "X1ST"
+  },
+  {
+    "event_id": 72,
+    "device_id": "-5,53E+18",
+    "timestamp": "01/05/2016 0:38",
+    "longitude": 124.83,
+    "latitude": 45.13,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 73,
+    "device_id": "-7,54E+18",
+    "timestamp": "01/05/2016 0:39",
+    "longitude": 102.74,
+    "latitude": 25.13,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 75,
+    "device_id": "-4,23E+18",
+    "timestamp": "01/05/2016 0:20",
+    "longitude": 113.43,
+    "latitude": 23.39,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 76,
+    "device_id": "-8,34E+17",
+    "timestamp": "01/05/2016 0:00",
+    "longitude": 114.3,
+    "latitude": 30.52,
+    "device_model": 7296
+  },
+  {
+    "event_id": 80,
+    "device_id": "-8,93E+18",
+    "timestamp": "01/05/2016 0:17",
+    "longitude": 119.81,
+    "latitude": 36.23,
+    "device_model": "Galaxy Note"
+  },
+  {
+    "event_id": 81,
+    "device_id": "-8,93E+18",
+    "timestamp": "01/05/2016 0:18",
+    "longitude": 119.81,
+    "latitude": 36.23,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 83,
+    "device_id": "-6,47E+18",
+    "timestamp": "01/05/2016 0:27",
+    "longitude": 120.35,
+    "latitude": 30.29,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 84,
+    "device_id": "7,34E+18",
+    "timestamp": "01/05/2016 0:28",
+    "longitude": 110.92,
+    "latitude": 35.12,
+    "device_model": "Y19T"
+  },
+  {
+    "event_id": 86,
+    "device_id": "-7,20E+18",
+    "timestamp": "01/05/2016 0:00",
+    "longitude": 114.06,
+    "latitude": 22.53,
+    "device_model": "U705T"
+  },
+  {
+    "event_id": 88,
+    "device_id": "2,53E+18",
+    "timestamp": "01/05/2016 0:40",
+    "longitude": 114.47,
+    "latitude": 38.1,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 89,
+    "device_id": "-1,14E+18",
+    "timestamp": "01/05/2016 0:41",
+    "longitude": 123.01,
+    "latitude": 41.14,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 91,
+    "device_id": "-8,64E+18",
+    "timestamp": "01/05/2016 0:52",
+    "longitude": 120.3,
+    "latitude": 36.66,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 92,
+    "device_id": "8,82E+17",
+    "timestamp": "01/05/2016 0:55",
+    "longitude": 104.06,
+    "latitude": 30.82,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 93,
+    "device_id": "4,65E+18",
+    "timestamp": "01/05/2016 0:31",
+    "longitude": 113.91,
+    "latitude": 35.33,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 95,
+    "device_id": "7,79E+18",
+    "timestamp": "01/05/2016 0:26",
+    "longitude": 118.6,
+    "latitude": 24.85,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 96,
+    "device_id": "-8,97E+18",
+    "timestamp": "01/05/2016 0:38",
+    "longitude": 116.42,
+    "latitude": 39.95,
+    "device_model": "A11"
+  },
+  {
+    "event_id": 97,
+    "device_id": "5,19E+18",
+    "timestamp": "01/05/2016 0:39",
+    "longitude": 121.36,
+    "latitude": 37.58,
+    "device_model": "Find 5"
+  },
+  {
+    "event_id": 98,
+    "device_id": "-7,07E+18",
+    "timestamp": "01/05/2016 0:23",
+    "longitude": 0.54,
+    "latitude": 0.59,
+    "device_model": "荣耀畅玩4X"
+  },
+  {
+    "event_id": 100,
+    "device_id": "1,63E+17",
+    "timestamp": "01/05/2016 0:01",
+    "longitude": 117.16,
+    "latitude": 31.72,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 103,
+    "device_id": "2,87E+18",
+    "timestamp": "01/05/2016 0:03",
+    "longitude": 113.86,
+    "latitude": 22.58,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 106,
+    "device_id": "-5,11E+18",
+    "timestamp": "01/05/2016 0:07",
+    "longitude": 108.33,
+    "latitude": 22.87,
+    "device_model": "5216s"
+  },
+  {
+    "event_id": 107,
+    "device_id": "5,45E+16",
+    "timestamp": "01/05/2016 0:49",
+    "longitude": 118.16,
+    "latitude": 24.53,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 109,
+    "device_id": "8,55E+18",
+    "timestamp": "01/05/2016 0:53",
+    "longitude": 120.66,
+    "latitude": 31.31,
+    "device_model": "Galaxy Grand DUOS"
+  },
+  {
+    "event_id": 110,
+    "device_id": "-5,05E+18",
+    "timestamp": "01/05/2016 0:07",
+    "longitude": 109.8,
+    "latitude": 40.64,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 113,
+    "device_id": "-1,06E+18",
+    "timestamp": "01/05/2016 0:56",
+    "longitude": 118.37,
+    "latitude": 25,
+    "device_model": "荣耀7"
+  },
+  {
+    "event_id": 115,
+    "device_id": "-7,30E+18",
+    "timestamp": "01/05/2016 0:03",
+    "longitude": 120.52,
+    "latitude": 31.37,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 117,
+    "device_id": "8,14E+18",
+    "timestamp": "01/05/2016 0:48",
+    "longitude": 112.03,
+    "latitude": 37.85,
+    "device_model": "乐檬K3 Note"
+  },
+  {
+    "event_id": 118,
+    "device_id": "-5,89E+18",
+    "timestamp": "01/05/2016 0:01",
+    "longitude": 108.18,
+    "latitude": 23.21,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 119,
+    "device_id": "-7,61E+18",
+    "timestamp": "01/05/2016 0:01",
+    "longitude": 119.92,
+    "latitude": 30.24,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 120,
+    "device_id": "6,00E+18",
+    "timestamp": "01/05/2016 0:02",
+    "longitude": 113.07,
+    "latitude": 22.57,
+    "device_model": "G520-5000"
+  },
+  {
+    "event_id": 121,
+    "device_id": "8,54E+18",
+    "timestamp": "01/05/2016 0:03",
+    "longitude": 115.89,
+    "latitude": 28.68,
+    "device_model": "G6-C00"
+  },
+  {
+    "event_id": 123,
+    "device_id": "-5,52E+18",
+    "timestamp": "01/05/2016 0:11",
+    "longitude": 116.43,
+    "latitude": 40.05,
+    "device_model": "G510"
+  },
+  {
+    "event_id": 126,
+    "device_id": "-7,61E+18",
+    "timestamp": "01/05/2016 0:13",
+    "longitude": 119.92,
+    "latitude": 30.24,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 128,
+    "device_id": "-7,92E+17",
+    "timestamp": "01/05/2016 0:16",
+    "longitude": 116.97,
+    "latitude": 31.05,
+    "device_model": "荣耀6 Plus"
+  },
+  {
+    "event_id": 129,
+    "device_id": "6,25E+18",
+    "timestamp": "01/05/2016 0:13",
+    "longitude": 120.56,
+    "latitude": 31.31,
+    "device_model": "荣耀畅玩4X"
+  },
+  {
+    "event_id": 131,
+    "device_id": "8,32E+18",
+    "timestamp": "01/05/2016 0:25",
+    "longitude": 119.15,
+    "latitude": 36.64,
+    "device_model": "V182"
+  },
+  {
+    "event_id": 132,
+    "device_id": "1,89E+18",
+    "timestamp": "01/05/2016 0:09",
+    "longitude": 117.08,
+    "latitude": 39.99,
+    "device_model": "802w"
+  },
+  {
+    "event_id": 133,
+    "device_id": "1,89E+18",
+    "timestamp": "01/05/2016 0:13",
+    "longitude": 117.08,
+    "latitude": 39.99,
+    "device_model": "S960"
+  },
+  {
+    "event_id": 134,
+    "device_id": "-8,97E+18",
+    "timestamp": "01/05/2016 0:36",
+    "longitude": 116.42,
+    "latitude": 39.95,
+    "device_model": "T528t"
+  },
+  {
+    "event_id": 135,
+    "device_id": "1,83E+17",
+    "timestamp": "01/05/2016 0:37",
+    "longitude": 114.33,
+    "latitude": 22.69,
+    "device_model": "X5M"
+  },
+  {
+    "event_id": 137,
+    "device_id": "6,56E+17",
+    "timestamp": "01/05/2016 0:35",
+    "longitude": 114.94,
+    "latitude": 26.79,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 140,
+    "device_id": "-1,67E+18",
+    "timestamp": "01/05/2016 0:17",
+    "longitude": 119.76,
+    "latitude": 36.68,
+    "device_model": "Galaxy Win"
+  },
+  {
+    "event_id": 141,
+    "device_id": "-3,63E+17",
+    "timestamp": "01/05/2016 0:17",
+    "longitude": 107.48,
+    "latitude": 29.71,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 144,
+    "device_id": "-8,93E+18",
+    "timestamp": "01/05/2016 0:18",
+    "longitude": 116.17,
+    "latitude": 35.48,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 145,
+    "device_id": "7,91E+17",
+    "timestamp": "01/05/2016 0:19",
+    "longitude": 116.34,
+    "latitude": 39.77,
+    "device_model": "Galaxy Trend DUOS"
+  },
+  {
+    "event_id": 146,
+    "device_id": "-3,70E+18",
+    "timestamp": "01/05/2016 0:22",
+    "longitude": 113.7,
+    "latitude": 28.27,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 147,
+    "device_id": "8,29E+18",
+    "timestamp": "01/05/2016 0:36",
+    "longitude": 116.46,
+    "latitude": 39.89,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 148,
+    "device_id": "-2,80E+18",
+    "timestamp": "01/05/2016 0:04",
+    "longitude": 126.58,
+    "latitude": 43.87,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 150,
+    "device_id": "-6,69E+18",
+    "timestamp": "01/05/2016 0:08",
+    "longitude": 120.39,
+    "latitude": 27.5,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 151,
+    "device_id": "6,00E+18",
+    "timestamp": "01/05/2016 0:11",
+    "longitude": 104.39,
+    "latitude": 23.02,
+    "device_model": "荣耀畅玩5"
+  },
+  {
+    "event_id": 153,
+    "device_id": "2,50E+18",
+    "timestamp": "01/05/2016 0:10",
+    "longitude": 120.62,
+    "latitude": 31.31,
+    "device_model": "S3"
+  },
+  {
+    "event_id": 154,
+    "device_id": "1,06E+18",
+    "timestamp": "01/05/2016 0:11",
+    "longitude": 104.73,
+    "latitude": 31.73,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 156,
+    "device_id": "-5,44E+18",
+    "timestamp": "01/05/2016 0:46",
+    "longitude": 117.36,
+    "latitude": 32.95,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 158,
+    "device_id": "2,50E+18",
+    "timestamp": "01/05/2016 0:56",
+    "longitude": 120.62,
+    "latitude": 31.31,
+    "device_model": "G610T"
+  },
+  {
+    "event_id": 159,
+    "device_id": "8,96E+18",
+    "timestamp": "01/05/2016 0:05",
+    "longitude": 118.8,
+    "latitude": 32.11,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 161,
+    "device_id": "8,64E+18",
+    "timestamp": "01/05/2016 0:10",
+    "longitude": 117.73,
+    "latitude": 34.92,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 162,
+    "device_id": "1,96E+17",
+    "timestamp": "01/05/2016 0:07",
+    "longitude": 118.74,
+    "latitude": 32.05,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 165,
+    "device_id": "3,90E+18",
+    "timestamp": "01/05/2016 0:08",
+    "longitude": 116.27,
+    "latitude": 39.92,
+    "device_model": "A660"
+  },
+  {
+    "event_id": 168,
+    "device_id": "7,16E+18",
+    "timestamp": "02/05/2016 0:40",
+    "longitude": 114.32,
+    "latitude": 30.53,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 169,
+    "device_id": "3,11E+18",
+    "timestamp": "02/05/2016 0:11",
+    "longitude": 113.76,
+    "latitude": 23.04,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 170,
+    "device_id": "-5,86E+18",
+    "timestamp": "02/05/2016 0:45",
+    "longitude": 103.8,
+    "latitude": 25.47,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 171,
+    "device_id": "-1,96E+18",
+    "timestamp": "02/05/2016 0:11",
+    "longitude": 104.51,
+    "latitude": 35.52,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 173,
+    "device_id": "-1,55E+18",
+    "timestamp": "02/05/2016 0:14",
+    "longitude": 113.62,
+    "latitude": 28.15,
+    "device_model": "A850"
+  },
+  {
+    "event_id": 174,
+    "device_id": "5,72E+18",
+    "timestamp": "02/05/2016 0:13",
+    "longitude": 107.51,
+    "latitude": 27.35,
+    "device_model": "锋尚2"
+  },
+  {
+    "event_id": 175,
+    "device_id": "8,17E+18",
+    "timestamp": "02/05/2016 0:13",
+    "longitude": 106.91,
+    "latitude": 28.95,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 176,
+    "device_id": "5,70E+18",
+    "timestamp": "02/05/2016 0:24",
+    "longitude": 118.72,
+    "latitude": 32.13,
+    "device_model": 5891
+  },
+  {
+    "event_id": 179,
+    "device_id": "-5,17E+18",
+    "timestamp": "01/05/2016 23:56",
+    "longitude": 105.44,
+    "latitude": 25.1,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 180,
+    "device_id": "-1,08E+18",
+    "timestamp": "01/05/2016 23:57",
+    "longitude": 119.73,
+    "latitude": 32.03,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 181,
+    "device_id": "-4,25E+17",
+    "timestamp": "01/05/2016 23:57",
+    "longitude": 118.86,
+    "latitude": 30.93,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 183,
+    "device_id": "7,18E+18",
+    "timestamp": "02/05/2016 0:55",
+    "longitude": 113.39,
+    "latitude": 23.01,
+    "device_model": "Galaxy Grand"
+  },
+  {
+    "event_id": 184,
+    "device_id": "-1,05E+18",
+    "timestamp": "01/05/2016 23:59",
+    "longitude": 115.49,
+    "latitude": 28.16,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 185,
+    "device_id": "-1,05E+18",
+    "timestamp": "01/05/2016 23:59",
+    "longitude": 115.49,
+    "latitude": 28.16,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 186,
+    "device_id": "-1,05E+18",
+    "timestamp": "01/05/2016 23:56",
+    "longitude": 115.49,
+    "latitude": 28.16,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 187,
+    "device_id": "1,79E+17",
+    "timestamp": "02/05/2016 0:00",
+    "longitude": 108.69,
+    "latitude": 34.35,
+    "device_model": "Galaxy Grand"
+  },
+  {
+    "event_id": 188,
+    "device_id": "1,79E+17",
+    "timestamp": "02/05/2016 0:01",
+    "longitude": 108.69,
+    "latitude": 34.35,
+    "device_model": "Galaxy Win"
+  },
+  {
+    "event_id": 189,
+    "device_id": "-1,08E+18",
+    "timestamp": "02/05/2016 0:01",
+    "longitude": 119.73,
+    "latitude": 32.03,
+    "device_model": "乐檬K3 Note"
+  },
+  {
+    "event_id": 190,
+    "device_id": "-3,69E+18",
+    "timestamp": "02/05/2016 0:04",
+    "longitude": 118.72,
+    "latitude": 32.12,
+    "device_model": "Ascend G700T"
+  },
+  {
+    "event_id": 191,
+    "device_id": "8,66E+18",
+    "timestamp": "02/05/2016 0:28",
+    "longitude": 115.26,
+    "latitude": 33.05,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 193,
+    "device_id": "5,92E+18",
+    "timestamp": "02/05/2016 0:34",
+    "longitude": 118.75,
+    "latitude": 32.23,
+    "device_model": "A820"
+  },
+  {
+    "event_id": 194,
+    "device_id": "-8,92E+18",
+    "timestamp": "02/05/2016 0:29",
+    "longitude": 115.77,
+    "latitude": 33.89,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 195,
+    "device_id": "-4,04E+18",
+    "timestamp": "02/05/2016 0:01",
+    "longitude": 110.77,
+    "latitude": 32.6,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 196,
+    "device_id": "7,10E+18",
+    "timestamp": "02/05/2016 0:01",
+    "longitude": 100.97,
+    "latitude": 22.81,
+    "device_model": "MI 2C"
+  },
+  {
+    "event_id": 199,
+    "device_id": "5,34E+18",
+    "timestamp": "02/05/2016 0:15",
+    "longitude": 120.74,
+    "latitude": 31.31,
+    "device_model": 1107
+  },
+  {
+    "event_id": 200,
+    "device_id": "3,30E+17",
+    "timestamp": "02/05/2016 0:11",
+    "longitude": 114.22,
+    "latitude": 22.68,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 201,
+    "device_id": "8,41E+18",
+    "timestamp": "02/05/2016 0:22",
+    "longitude": 113.8,
+    "latitude": 22.72,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 203,
+    "device_id": "3,68E+18",
+    "timestamp": "02/05/2016 0:25",
+    "longitude": 81.38,
+    "latitude": 43.92,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 204,
+    "device_id": "3,68E+18",
+    "timestamp": "02/05/2016 0:21",
+    "longitude": 81.38,
+    "latitude": 43.92,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 205,
+    "device_id": "-2,50E+18",
+    "timestamp": "02/05/2016 0:26",
+    "longitude": 119.96,
+    "latitude": 30.54,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 206,
+    "device_id": "3,30E+17",
+    "timestamp": "02/05/2016 0:32",
+    "longitude": 114.22,
+    "latitude": 22.68,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 207,
+    "device_id": "1,45E+18",
+    "timestamp": "02/05/2016 0:33",
+    "longitude": 119.33,
+    "latitude": 26.07,
+    "device_model": "魅蓝Note 2"
+  },
+  {
+    "event_id": 208,
+    "device_id": "3,30E+17",
+    "timestamp": "02/05/2016 0:34",
+    "longitude": 114.22,
+    "latitude": 22.68,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 209,
+    "device_id": "-6,51E+18",
+    "timestamp": "02/05/2016 0:45",
+    "longitude": 120.38,
+    "latitude": 36.16,
+    "device_model": "G520-0000"
+  },
+  {
+    "event_id": 210,
+    "device_id": "-3,41E+18",
+    "timestamp": "02/05/2016 0:49",
+    "longitude": 114.44,
+    "latitude": 36.64,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 211,
+    "device_id": "-6,24E+18",
+    "timestamp": "02/05/2016 0:40",
+    "longitude": 111.21,
+    "latitude": 27.85,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 212,
+    "device_id": "-5,13E+18",
+    "timestamp": "02/05/2016 0:48",
+    "longitude": 114.91,
+    "latitude": 27.82,
+    "device_model": "N1 Mini"
+  },
+  {
+    "event_id": 213,
+    "device_id": "1,39E+18",
+    "timestamp": "02/05/2016 0:47",
+    "longitude": 121.39,
+    "latitude": 31.06,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 214,
+    "device_id": "9,16E+18",
+    "timestamp": "02/05/2016 0:55",
+    "longitude": 114.05,
+    "latitude": 32.47,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 215,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:17",
+    "longitude": 116.39,
+    "latitude": 39.91,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 216,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:18",
+    "longitude": 116.39,
+    "latitude": 39.91,
+    "device_model": "R833T"
+  },
+  {
+    "event_id": 217,
+    "device_id": "-6,04E+18",
+    "timestamp": "02/05/2016 0:18",
+    "longitude": 112.47,
+    "latitude": 37.86,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 220,
+    "device_id": "-2,98E+18",
+    "timestamp": "02/05/2016 0:39",
+    "longitude": 116.3,
+    "latitude": 39.84,
+    "device_model": "Y15"
+  },
+  {
+    "event_id": 221,
+    "device_id": "-7,44E+18",
+    "timestamp": "02/05/2016 0:40",
+    "longitude": 120.94,
+    "latitude": 31.12,
+    "device_model": "802w"
+  },
+  {
+    "event_id": 222,
+    "device_id": "-5,34E+18",
+    "timestamp": "02/05/2016 0:41",
+    "longitude": 103.97,
+    "latitude": 30.66,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 223,
+    "device_id": "-7,21E+18",
+    "timestamp": "02/05/2016 0:12",
+    "longitude": 114.73,
+    "latitude": 28.23,
+    "device_model": "红米Note2"
+  },
+  {
+    "event_id": 224,
+    "device_id": "7,80E+18",
+    "timestamp": "02/05/2016 0:13",
+    "longitude": 117.28,
+    "latitude": 31.86,
+    "device_model": "X6 D"
+  },
+  {
+    "event_id": 225,
+    "device_id": "3,03E+17",
+    "timestamp": "02/05/2016 0:04",
+    "longitude": 110.51,
+    "latitude": 35.6,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 228,
+    "device_id": "-1,50E+18",
+    "timestamp": "02/05/2016 0:12",
+    "longitude": 116.11,
+    "latitude": 24.26,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 229,
+    "device_id": "-4,91E+18",
+    "timestamp": "02/05/2016 0:09",
+    "longitude": 108.93,
+    "latitude": 34.11,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 231,
+    "device_id": "-2,83E+18",
+    "timestamp": "02/05/2016 0:23",
+    "longitude": 116.71,
+    "latitude": 23.4,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 232,
+    "device_id": "-1,70E+18",
+    "timestamp": "02/05/2016 0:23",
+    "longitude": 114.29,
+    "latitude": 30.59,
+    "device_model": "X5Max+"
+  },
+  {
+    "event_id": 233,
+    "device_id": "-4,96E+18",
+    "timestamp": "02/05/2016 0:21",
+    "longitude": 104.03,
+    "latitude": 30.67,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 234,
+    "device_id": "8,24E+18",
+    "timestamp": "02/05/2016 0:27",
+    "longitude": 112.5,
+    "latitude": 37.8,
+    "device_model": "Y27"
+  },
+  {
+    "event_id": 235,
+    "device_id": "-2,56E+18",
+    "timestamp": "02/05/2016 0:46",
+    "longitude": 120.24,
+    "latitude": 35.97,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 236,
+    "device_id": "-2,17E+18",
+    "timestamp": "02/05/2016 0:47",
+    "longitude": 115.08,
+    "latitude": 35.61,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 237,
+    "device_id": "-4,82E+18",
+    "timestamp": "02/05/2016 0:08",
+    "longitude": 118.41,
+    "latitude": 31.33,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 238,
+    "device_id": "-1,56E+18",
+    "timestamp": "02/05/2016 0:09",
+    "longitude": 104.17,
+    "latitude": 30.72,
+    "device_model": "Mate"
+  },
+  {
+    "event_id": 239,
+    "device_id": "-8,20E+18",
+    "timestamp": "02/05/2016 0:37",
+    "longitude": 113.84,
+    "latitude": 35.3,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 240,
+    "device_id": "7,90E+18",
+    "timestamp": "02/05/2016 0:38",
+    "longitude": 120.29,
+    "latitude": 30.34,
+    "device_model": "Nexus 4"
+  },
+  {
+    "event_id": 245,
+    "device_id": "3,93E+18",
+    "timestamp": "02/05/2016 0:24",
+    "longitude": 121.43,
+    "latitude": 31.09,
+    "device_model": "C8813Q"
+  },
+  {
+    "event_id": 248,
+    "device_id": "8,66E+18",
+    "timestamp": "02/05/2016 0:51",
+    "longitude": 106.79,
+    "latitude": 39.68,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 249,
+    "device_id": "-1,86E+18",
+    "timestamp": "02/05/2016 0:17",
+    "longitude": 118.66,
+    "latitude": 33.5,
+    "device_model": "Ascend G700"
+  },
+  {
+    "event_id": 251,
+    "device_id": "2,78E+18",
+    "timestamp": "02/05/2016 0:14",
+    "longitude": 121.43,
+    "latitude": 28.48,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 252,
+    "device_id": "-3,65E+18",
+    "timestamp": "02/05/2016 0:19",
+    "longitude": 120.47,
+    "latitude": 33.2,
+    "device_model": "G610T"
+  },
+  {
+    "event_id": 254,
+    "device_id": "-3,65E+18",
+    "timestamp": "02/05/2016 0:20",
+    "longitude": 120.47,
+    "latitude": 33.2,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 255,
+    "device_id": "8,89E+16",
+    "timestamp": "02/05/2016 0:32",
+    "longitude": 118.82,
+    "latitude": 32.08,
+    "device_model": "B199"
+  },
+  {
+    "event_id": 256,
+    "device_id": "9,31E+17",
+    "timestamp": "02/05/2016 0:33",
+    "longitude": 110.92,
+    "latitude": 34.61,
+    "device_model": "V987"
+  },
+  {
+    "event_id": 257,
+    "device_id": "3,38E+18",
+    "timestamp": "02/05/2016 0:39",
+    "longitude": 114.14,
+    "latitude": 30.62,
+    "device_model": "Y560-CL00"
+  },
+  {
+    "event_id": 258,
+    "device_id": "-1,04E+18",
+    "timestamp": "02/05/2016 0:38",
+    "longitude": 118.72,
+    "latitude": 32.14,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 260,
+    "device_id": "-6,88E+18",
+    "timestamp": "02/05/2016 0:00",
+    "longitude": 121.46,
+    "latitude": 31.23,
+    "device_model": "S890"
+  },
+  {
+    "event_id": 261,
+    "device_id": "-6,88E+18",
+    "timestamp": "01/05/2016 23:58",
+    "longitude": 121.46,
+    "latitude": 31.23,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 262,
+    "device_id": "8,16E+18",
+    "timestamp": "01/05/2016 23:56",
+    "longitude": 104.52,
+    "latitude": 32.39,
+    "device_model": "GN151"
+  },
+  {
+    "event_id": 263,
+    "device_id": "5,92E+18",
+    "timestamp": "01/05/2016 23:57",
+    "longitude": 119.37,
+    "latitude": 26.09,
+    "device_model": "旗舰版"
+  },
+  {
+    "event_id": 266,
+    "device_id": "2,15E+18",
+    "timestamp": "01/05/2016 23:55",
+    "longitude": 112.61,
+    "latitude": 26.9,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 267,
+    "device_id": "-5,40E+17",
+    "timestamp": "02/05/2016 0:06",
+    "longitude": 116.36,
+    "latitude": 39.84,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 269,
+    "device_id": "8,17E+18",
+    "timestamp": "02/05/2016 0:06",
+    "longitude": 106.91,
+    "latitude": 28.95,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 270,
+    "device_id": "-4,73E+18",
+    "timestamp": "02/05/2016 0:07",
+    "longitude": 105.12,
+    "latitude": 29.32,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 271,
+    "device_id": "8,17E+18",
+    "timestamp": "02/05/2016 0:07",
+    "longitude": 106.91,
+    "latitude": 28.95,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 272,
+    "device_id": "-2,79E+18",
+    "timestamp": "02/05/2016 0:27",
+    "longitude": 121.46,
+    "latitude": 30.93,
+    "device_model": "IVO 6622"
+  },
+  {
+    "event_id": 273,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:28",
+    "longitude": 116.39,
+    "latitude": 39.91,
+    "device_model": "Y17T"
+  },
+  {
+    "event_id": 274,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:35",
+    "longitude": 116.39,
+    "latitude": 39.91,
+    "device_model": "Galaxy Mega 5.8"
+  },
+  {
+    "event_id": 275,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:37",
+    "longitude": 121.24,
+    "latitude": 28.74,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 276,
+    "device_id": "3,92E+18",
+    "timestamp": "02/05/2016 0:37",
+    "longitude": 116.39,
+    "latitude": 39.91,
+    "device_model": "S7I"
+  },
+  {
+    "event_id": 277,
+    "device_id": "-6,20E+18",
+    "timestamp": "02/05/2016 0:29",
+    "longitude": 114.47,
+    "latitude": 23.11,
+    "device_model": 7235
+  },
+  {
+    "event_id": 279,
+    "device_id": "8,71E+18",
+    "timestamp": "02/05/2016 0:35",
+    "longitude": 119.2,
+    "latitude": 34.64,
+    "device_model": "C8816"
+  },
+  {
+    "event_id": 280,
+    "device_id": "-6,22E+18",
+    "timestamp": "02/05/2016 0:00",
+    "longitude": 112.71,
+    "latitude": 34.64,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 281,
+    "device_id": "-4,10E+18",
+    "timestamp": "02/05/2016 0:00",
+    "longitude": 113.32,
+    "latitude": 23.19,
+    "device_model": "Xshot"
+  },
+  {
+    "event_id": 282,
+    "device_id": "-4,10E+18",
+    "timestamp": "02/05/2016 0:01",
+    "longitude": 113.32,
+    "latitude": 23.19,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 287,
+    "device_id": "8,41E+18",
+    "timestamp": "02/05/2016 0:45",
+    "longitude": 113.8,
+    "latitude": 22.72,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 288,
+    "device_id": "-5,73E+18",
+    "timestamp": "02/05/2016 0:34",
+    "longitude": 124.16,
+    "latitude": 42.54,
+    "device_model": 8085
+  },
+  {
+    "event_id": 290,
+    "device_id": "9,16E+18",
+    "timestamp": "02/05/2016 0:36",
+    "longitude": 114.05,
+    "latitude": 32.47,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 294,
+    "device_id": "4,28E+18",
+    "timestamp": "02/05/2016 0:10",
+    "longitude": 126.79,
+    "latitude": 42.38,
+    "device_model": "G510"
+  },
+  {
+    "event_id": 296,
+    "device_id": "-6,47E+18",
+    "timestamp": "02/05/2016 0:12",
+    "longitude": 120.35,
+    "latitude": 30.29,
+    "device_model": "G730-T00"
+  },
+  {
+    "event_id": 297,
+    "device_id": "1,07E+18",
+    "timestamp": "02/05/2016 0:13",
+    "longitude": 120.35,
+    "latitude": 36.3,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 298,
+    "device_id": "-6,88E+18",
+    "timestamp": "01/05/2016 23:57",
+    "longitude": 121.46,
+    "latitude": 31.23,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 299,
+    "device_id": "4,87E+18",
+    "timestamp": "02/05/2016 0:00",
+    "longitude": 114.17,
+    "latitude": 22.85,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 300,
+    "device_id": "8,48E+18",
+    "timestamp": "02/05/2016 0:04",
+    "longitude": 113.8,
+    "latitude": 34.77,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 301,
+    "device_id": "6,54E+18",
+    "timestamp": "02/05/2016 0:36",
+    "longitude": 107.59,
+    "latitude": 37.61,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 303,
+    "device_id": "1,52E+18",
+    "timestamp": "02/05/2016 0:48",
+    "longitude": 120.98,
+    "latitude": 32.04,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 305,
+    "device_id": "5,63E+18",
+    "timestamp": "02/05/2016 0:05",
+    "longitude": 117.18,
+    "latitude": 36.23,
+    "device_model": "Galaxy S2"
+  },
+  {
+    "event_id": 306,
+    "device_id": "5,63E+18",
+    "timestamp": "02/05/2016 0:05",
+    "longitude": 117.18,
+    "latitude": 36.23,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 308,
+    "device_id": "-6,11E+18",
+    "timestamp": "02/05/2016 0:07",
+    "longitude": 120.01,
+    "latitude": 30.21,
+    "device_model": 7296
+  },
+  {
+    "event_id": 309,
+    "device_id": "-6,24E+18",
+    "timestamp": "01/05/2016 23:59",
+    "longitude": 111.21,
+    "latitude": 27.85,
+    "device_model": "Galaxy Premier"
+  },
+  {
+    "event_id": 311,
+    "device_id": "-7,85E+18",
+    "timestamp": "02/05/2016 0:46",
+    "longitude": 118.72,
+    "latitude": 32.05,
+    "device_model": "V10"
+  },
+  {
+    "event_id": 313,
+    "device_id": "9,10E+18",
+    "timestamp": "02/05/2016 0:49",
+    "longitude": 115.96,
+    "latitude": 28.67,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 314,
+    "device_id": "9,10E+18",
+    "timestamp": "02/05/2016 0:45",
+    "longitude": 115.96,
+    "latitude": 28.67,
+    "device_model": "One X"
+  },
+  {
+    "event_id": 315,
+    "device_id": "4,13E+18",
+    "timestamp": "01/05/2016 23:57",
+    "longitude": 103.68,
+    "latitude": 30.62,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 316,
+    "device_id": "-2,34E+18",
+    "timestamp": "01/05/2016 23:58",
+    "longitude": 112.34,
+    "latitude": 34.67,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 317,
+    "device_id": "4,84E+18",
+    "timestamp": "02/05/2016 0:20",
+    "longitude": 117.35,
+    "latitude": 31.88,
+    "device_model": "A830"
+  },
+  {
+    "event_id": 320,
+    "device_id": "1,16E+18",
+    "timestamp": "01/05/2016 23:59",
+    "longitude": 113.85,
+    "latitude": 36.24,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 322,
+    "device_id": "-4,90E+18",
+    "timestamp": "03/05/2016 0:21",
+    "longitude": 114.36,
+    "latitude": 27.79,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 323,
+    "device_id": "5,26E+18",
+    "timestamp": "03/05/2016 0:29",
+    "longitude": 114.32,
+    "latitude": 22.69,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 326,
+    "device_id": "-2,08E+18",
+    "timestamp": "03/05/2016 0:42",
+    "longitude": 113.6,
+    "latitude": 23.03,
+    "device_model": "Xperia Z Ultra"
+  },
+  {
+    "event_id": 327,
+    "device_id": "4,07E+18",
+    "timestamp": "03/05/2016 0:26",
+    "longitude": 118.63,
+    "latitude": 35.79,
+    "device_model": "荣耀畅玩4X"
+  },
+  {
+    "event_id": 328,
+    "device_id": "-3,19E+18",
+    "timestamp": "03/05/2016 0:35",
+    "longitude": 126.69,
+    "latitude": 45.73,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 329,
+    "device_id": "-3,19E+18",
+    "timestamp": "03/05/2016 0:36",
+    "longitude": 126.69,
+    "latitude": 45.73,
+    "device_model": "R815T"
+  },
+  {
+    "event_id": 332,
+    "device_id": "-7,62E+18",
+    "timestamp": "03/05/2016 0:23",
+    "longitude": 111.91,
+    "latitude": 37.08,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 333,
+    "device_id": "1,51E+18",
+    "timestamp": "03/05/2016 0:14",
+    "longitude": 115.94,
+    "latitude": 28.6,
+    "device_model": "U705T"
+  },
+  {
+    "event_id": 334,
+    "device_id": "1,81E+18",
+    "timestamp": "03/05/2016 0:26",
+    "longitude": 120.28,
+    "latitude": 30.31,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 335,
+    "device_id": "-5,13E+18",
+    "timestamp": "03/05/2016 0:12",
+    "longitude": 114.91,
+    "latitude": 27.82,
+    "device_model": "Ascend G700"
+  },
+  {
+    "event_id": 338,
+    "device_id": "-4,41E+18",
+    "timestamp": "03/05/2016 0:40",
+    "longitude": 109.22,
+    "latitude": 34.37,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 340,
+    "device_id": "2,15E+18",
+    "timestamp": "03/05/2016 0:15",
+    "longitude": 111.57,
+    "latitude": 36.08,
+    "device_model": "么么哒"
+  },
+  {
+    "event_id": 341,
+    "device_id": "-4,47E+18",
+    "timestamp": "03/05/2016 0:29",
+    "longitude": 114.39,
+    "latitude": 30.51,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 342,
+    "device_id": "-4,47E+18",
+    "timestamp": "03/05/2016 0:30",
+    "longitude": 114.39,
+    "latitude": 30.51,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 343,
+    "device_id": "-4,20E+18",
+    "timestamp": "03/05/2016 0:32",
+    "longitude": 116.37,
+    "latitude": 39.97,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 344,
+    "device_id": "-9,14E+18",
+    "timestamp": "03/05/2016 0:31",
+    "longitude": 118.49,
+    "latitude": 31.56,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 345,
+    "device_id": "-2,95E+18",
+    "timestamp": "03/05/2016 0:14",
+    "longitude": 117.27,
+    "latitude": 39.13,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 346,
+    "device_id": "-7,12E+18",
+    "timestamp": "03/05/2016 0:14",
+    "longitude": 118.89,
+    "latitude": 28.94,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 348,
+    "device_id": "-3,91E+17",
+    "timestamp": "03/05/2016 0:20",
+    "longitude": 106.83,
+    "latitude": 39.67,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 351,
+    "device_id": "-7,98E+18",
+    "timestamp": "03/05/2016 0:17",
+    "longitude": 120.38,
+    "latitude": 32.62,
+    "device_model": "A830"
+  },
+  {
+    "event_id": 352,
+    "device_id": "7,19E+18",
+    "timestamp": "03/05/2016 0:36",
+    "longitude": 118.86,
+    "latitude": 28.95,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 355,
+    "device_id": "-3,95E+18",
+    "timestamp": "03/05/2016 0:31",
+    "longitude": 121.38,
+    "latitude": 31.15,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 356,
+    "device_id": "5,44E+18",
+    "timestamp": "03/05/2016 0:20",
+    "longitude": 113.27,
+    "latitude": 23.24,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 358,
+    "device_id": "-4,71E+18",
+    "timestamp": "03/05/2016 0:15",
+    "longitude": 113.66,
+    "latitude": 22.83,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 359,
+    "device_id": "-4,71E+18",
+    "timestamp": "03/05/2016 0:17",
+    "longitude": 113.66,
+    "latitude": 22.83,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 360,
+    "device_id": "2,90E+18",
+    "timestamp": "03/05/2016 0:42",
+    "longitude": 114.11,
+    "latitude": 22.93,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 361,
+    "device_id": "6,91E+18",
+    "timestamp": "03/05/2016 0:35",
+    "longitude": 120.96,
+    "latitude": 31.36,
+    "device_model": "G716"
+  },
+  {
+    "event_id": 362,
+    "device_id": "-4,23E+18",
+    "timestamp": "03/05/2016 0:09",
+    "longitude": 106.7,
+    "latitude": 26.59,
+    "device_model": "Galaxy S5"
+  },
+  {
+    "event_id": 364,
+    "device_id": "-4,30E+18",
+    "timestamp": "03/05/2016 0:23",
+    "longitude": 113.22,
+    "latitude": 23.13,
+    "device_model": "大神F2"
+  },
+  {
+    "event_id": 367,
+    "device_id": "8,52E+18",
+    "timestamp": "03/05/2016 0:07",
+    "longitude": 119.31,
+    "latitude": 26,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 368,
+    "device_id": "7,20E+18",
+    "timestamp": "03/05/2016 0:32",
+    "longitude": 114.21,
+    "latitude": 30.6,
+    "device_model": "iPh-800"
+  },
+  {
+    "event_id": 369,
+    "device_id": "7,20E+18",
+    "timestamp": "03/05/2016 0:33",
+    "longitude": 114.21,
+    "latitude": 30.6,
+    "device_model": "One"
+  },
+  {
+    "event_id": 371,
+    "device_id": "-5,38E+18",
+    "timestamp": "03/05/2016 0:04",
+    "longitude": 118.85,
+    "latitude": 32.12,
+    "device_model": "荣耀3X畅玩版"
+  },
+  {
+    "event_id": 372,
+    "device_id": "9,18E+18",
+    "timestamp": "03/05/2016 0:07",
+    "longitude": 120.2,
+    "latitude": 30.07,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 373,
+    "device_id": "7,91E+18",
+    "timestamp": "03/05/2016 0:16",
+    "longitude": 102.67,
+    "latitude": 25.07,
+    "device_model": "Galaxy Grand DUOS"
+  },
+  {
+    "event_id": 374,
+    "device_id": "-1,90E+18",
+    "timestamp": "03/05/2016 0:30",
+    "longitude": 121.49,
+    "latitude": 31.26,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 376,
+    "device_id": "7,87E+18",
+    "timestamp": "03/05/2016 0:28",
+    "longitude": 114.8,
+    "latitude": 30.84,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 377,
+    "device_id": "-9,06E+18",
+    "timestamp": "03/05/2016 0:47",
+    "longitude": 126.51,
+    "latitude": 48.25,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 378,
+    "device_id": "2,04E+18",
+    "timestamp": "03/05/2016 0:49",
+    "longitude": 120.42,
+    "latitude": 36.24,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 381,
+    "device_id": "-1,15E+18",
+    "timestamp": "03/05/2016 0:10",
+    "longitude": 108.92,
+    "latitude": 34.17,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 382,
+    "device_id": "1,24E+18",
+    "timestamp": "03/05/2016 0:21",
+    "longitude": 118.32,
+    "latitude": 30.92,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 383,
+    "device_id": "-3,14E+18",
+    "timestamp": "03/05/2016 0:21",
+    "longitude": 114.48,
+    "latitude": 38.06,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 384,
+    "device_id": "-3,14E+18",
+    "timestamp": "03/05/2016 0:24",
+    "longitude": 114.48,
+    "latitude": 38.06,
+    "device_model": "Galaxy Win Pro"
+  },
+  {
+    "event_id": 386,
+    "device_id": "-3,49E+18",
+    "timestamp": "03/05/2016 0:27",
+    "longitude": 113.92,
+    "latitude": 22.65,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 387,
+    "device_id": "-1,60E+18",
+    "timestamp": "03/05/2016 0:27",
+    "longitude": 113.27,
+    "latitude": 23.11,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 390,
+    "device_id": "-3,76E+18",
+    "timestamp": "03/05/2016 0:24",
+    "longitude": 121.54,
+    "latitude": 31.29,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 391,
+    "device_id": "-6,94E+18",
+    "timestamp": "03/05/2016 0:35",
+    "longitude": 113.58,
+    "latitude": 28.71,
+    "device_model": "MT2-C00"
+  },
+  {
+    "event_id": 392,
+    "device_id": "2,31E+18",
+    "timestamp": "03/05/2016 0:37",
+    "longitude": 113.57,
+    "latitude": 24.8,
+    "device_model": "R7"
+  },
+  {
+    "event_id": 393,
+    "device_id": "7,42E+18",
+    "timestamp": "03/05/2016 0:41",
+    "longitude": 113.92,
+    "latitude": 22.55,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 394,
+    "device_id": "7,08E+18",
+    "timestamp": "03/05/2016 0:24",
+    "longitude": 113.78,
+    "latitude": 23.05,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 395,
+    "device_id": "-3,05E+18",
+    "timestamp": "03/05/2016 0:21",
+    "longitude": 103.95,
+    "latitude": 29.21,
+    "device_model": "S920"
+  },
+  {
+    "event_id": 396,
+    "device_id": "-7,45E+18",
+    "timestamp": "03/05/2016 0:31",
+    "longitude": 121.27,
+    "latitude": 31.16,
+    "device_model": 1105
+  },
+  {
+    "event_id": 397,
+    "device_id": "-5,87E+18",
+    "timestamp": "03/05/2016 0:34",
+    "longitude": 104.17,
+    "latitude": 30.83,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 398,
+    "device_id": "-3,68E+18",
+    "timestamp": "03/05/2016 0:39",
+    "longitude": 119.47,
+    "latitude": 32.21,
+    "device_model": "Galaxy Mega 5.8"
+  },
+  {
+    "event_id": 400,
+    "device_id": "-2,45E+18",
+    "timestamp": "03/05/2016 0:00",
+    "longitude": 118.84,
+    "latitude": 37.41,
+    "device_model": "Galaxy Mega 6.3"
+  },
+  {
+    "event_id": 402,
+    "device_id": "7,08E+17",
+    "timestamp": "02/05/2016 23:52",
+    "longitude": 129.49,
+    "latitude": 42.91,
+    "device_model": "7295+"
+  },
+  {
+    "event_id": 403,
+    "device_id": "-3,34E+18",
+    "timestamp": "03/05/2016 0:02",
+    "longitude": 112.46,
+    "latitude": 23.05,
+    "device_model": "G620-L75"
+  },
+  {
+    "event_id": 404,
+    "device_id": "-7,58E+18",
+    "timestamp": "03/05/2016 0:06",
+    "longitude": 114.2,
+    "latitude": 30.55,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 409,
+    "device_id": "-7,09E+18",
+    "timestamp": "03/05/2016 0:36",
+    "longitude": 113.9,
+    "latitude": 22.71,
+    "device_model": "Desire 610t"
+  },
+  {
+    "event_id": 411,
+    "device_id": "5,78E+18",
+    "timestamp": "03/05/2016 0:38",
+    "longitude": 111.15,
+    "latitude": 37.52,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 412,
+    "device_id": "2,15E+18",
+    "timestamp": "03/05/2016 0:05",
+    "longitude": 111.57,
+    "latitude": 36.08,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 413,
+    "device_id": "-6,49E+17",
+    "timestamp": "03/05/2016 0:00",
+    "longitude": 113.32,
+    "latitude": 23.18,
+    "device_model": 7269
+  },
+  {
+    "event_id": 414,
+    "device_id": "-7,55E+18",
+    "timestamp": "03/05/2016 0:05",
+    "longitude": 116.79,
+    "latitude": 33.98,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 416,
+    "device_id": "-7,69E+18",
+    "timestamp": "03/05/2016 0:56",
+    "longitude": 104.7,
+    "latitude": 31.54,
+    "device_model": "Galaxy Win Pro"
+  },
+  {
+    "event_id": 417,
+    "device_id": "6,27E+18",
+    "timestamp": "03/05/2016 0:31",
+    "longitude": 108.76,
+    "latitude": 23.22,
+    "device_model": "8198T"
+  },
+  {
+    "event_id": 418,
+    "device_id": "8,50E+17",
+    "timestamp": "03/05/2016 0:28",
+    "longitude": 113.31,
+    "latitude": 22.98,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 419,
+    "device_id": "-9,00E+18",
+    "timestamp": "03/05/2016 0:28",
+    "longitude": 108.08,
+    "latitude": 24.7,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 423,
+    "device_id": "7,29E+18",
+    "timestamp": "03/05/2016 0:04",
+    "longitude": 119.79,
+    "latitude": 25.51,
+    "device_model": "Mate"
+  },
+  {
+    "event_id": 424,
+    "device_id": "-3,78E+18",
+    "timestamp": "03/05/2016 0:10",
+    "longitude": 121.4,
+    "latitude": 31.33,
+    "device_model": "Xperia Z1"
+  },
+  {
+    "event_id": 426,
+    "device_id": "7,38E+18",
+    "timestamp": "03/05/2016 0:39",
+    "longitude": 118.98,
+    "latitude": 24.99,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 427,
+    "device_id": "-7,20E+18",
+    "timestamp": "03/05/2016 0:36",
+    "longitude": 114.24,
+    "latitude": 22.66,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 428,
+    "device_id": "7,38E+18",
+    "timestamp": "03/05/2016 0:29",
+    "longitude": 118.98,
+    "latitude": 24.99,
+    "device_model": "大神1s"
+  },
+  {
+    "event_id": 429,
+    "device_id": "2,11E+18",
+    "timestamp": "03/05/2016 0:43",
+    "longitude": 118.56,
+    "latitude": 24.84,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 431,
+    "device_id": "8,86E+18",
+    "timestamp": "03/05/2016 0:45",
+    "longitude": 122.76,
+    "latitude": 40.85,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 432,
+    "device_id": "-5,35E+18",
+    "timestamp": "03/05/2016 0:48",
+    "longitude": 120.4,
+    "latitude": 36.08,
+    "device_model": "R807"
+  },
+  {
+    "event_id": 433,
+    "device_id": "8,14E+18",
+    "timestamp": "02/05/2016 23:57",
+    "longitude": 112.03,
+    "latitude": 37.85,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 437,
+    "device_id": "7,75E+17",
+    "timestamp": "04/05/2016 0:39",
+    "longitude": 117.29,
+    "latitude": 39.05,
+    "device_model": "Z5S"
+  },
+  {
+    "event_id": 440,
+    "device_id": "8,80E+18",
+    "timestamp": "04/05/2016 0:19",
+    "longitude": 113.95,
+    "latitude": 22.56,
+    "device_model": "荣耀3X畅玩版"
+  },
+  {
+    "event_id": 441,
+    "device_id": "1,06E+18",
+    "timestamp": "04/05/2016 0:24",
+    "longitude": 113.29,
+    "latitude": 22.99,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 442,
+    "device_id": "2,73E+18",
+    "timestamp": "04/05/2016 0:28",
+    "longitude": 116.35,
+    "latitude": 39.78,
+    "device_model": 7295
+  },
+  {
+    "event_id": 443,
+    "device_id": "1,19E+18",
+    "timestamp": "04/05/2016 0:40",
+    "longitude": 125.33,
+    "latitude": 43.92,
+    "device_model": "7620l"
+  },
+  {
+    "event_id": 444,
+    "device_id": "2,40E+18",
+    "timestamp": "04/05/2016 0:42",
+    "longitude": 113.44,
+    "latitude": 22.2,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 445,
+    "device_id": "-7,16E+18",
+    "timestamp": "04/05/2016 0:57",
+    "longitude": 121.07,
+    "latitude": 28.29,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 446,
+    "device_id": "-6,11E+18",
+    "timestamp": "04/05/2016 0:07",
+    "longitude": 111.67,
+    "latitude": 36.38,
+    "device_model": "Grand S 2"
+  },
+  {
+    "event_id": 448,
+    "device_id": "-7,47E+18",
+    "timestamp": "04/05/2016 0:08",
+    "longitude": 108.31,
+    "latitude": 22.84,
+    "device_model": "A850"
+  },
+  {
+    "event_id": 450,
+    "device_id": "4,52E+18",
+    "timestamp": "04/05/2016 0:00",
+    "longitude": 112.96,
+    "latitude": 22.99,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 453,
+    "device_id": "9,13E+18",
+    "timestamp": "04/05/2016 0:04",
+    "longitude": 114.1,
+    "latitude": 32.1,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 454,
+    "device_id": "7,92E+18",
+    "timestamp": "04/05/2016 0:06",
+    "longitude": 114.69,
+    "latitude": 38.02,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 456,
+    "device_id": "-7,65E+18",
+    "timestamp": "04/05/2016 0:06",
+    "longitude": 113.39,
+    "latitude": 23.06,
+    "device_model": "Galaxy Grand DUOS"
+  },
+  {
+    "event_id": 457,
+    "device_id": "5,18E+18",
+    "timestamp": "04/05/2016 0:35",
+    "longitude": 116.67,
+    "latitude": 34.88,
+    "device_model": "Y20T"
+  },
+  {
+    "event_id": 458,
+    "device_id": "5,49E+18",
+    "timestamp": "04/05/2016 0:29",
+    "longitude": 114.55,
+    "latitude": 38.16,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 459,
+    "device_id": "6,45E+18",
+    "timestamp": "04/05/2016 0:34",
+    "longitude": 106.2,
+    "latitude": 29.27,
+    "device_model": 5950
+  },
+  {
+    "event_id": 460,
+    "device_id": "7,69E+18",
+    "timestamp": "04/05/2016 0:35",
+    "longitude": 106.57,
+    "latitude": 29.49,
+    "device_model": 7270
+  },
+  {
+    "event_id": 464,
+    "device_id": "-2,45E+18",
+    "timestamp": "04/05/2016 0:15",
+    "longitude": 113.26,
+    "latitude": 22.66,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 465,
+    "device_id": "-2,45E+18",
+    "timestamp": "04/05/2016 0:11",
+    "longitude": 113.26,
+    "latitude": 22.66,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 466,
+    "device_id": "-2,05E+18",
+    "timestamp": "04/05/2016 0:12",
+    "longitude": 118.34,
+    "latitude": 35.11,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 467,
+    "device_id": "6,27E+18",
+    "timestamp": "04/05/2016 0:47",
+    "longitude": 110.34,
+    "latitude": 20.06,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 468,
+    "device_id": "-7,18E+18",
+    "timestamp": "04/05/2016 0:14",
+    "longitude": 121.51,
+    "latitude": 31.16,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 469,
+    "device_id": "-4,59E+18",
+    "timestamp": "04/05/2016 0:15",
+    "longitude": 113.24,
+    "latitude": 23.21,
+    "device_model": "Galaxy Premier"
+  },
+  {
+    "event_id": 470,
+    "device_id": "-5,94E+18",
+    "timestamp": "04/05/2016 0:16",
+    "longitude": 120.46,
+    "latitude": 33.21,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 471,
+    "device_id": "-8,34E+18",
+    "timestamp": "04/05/2016 0:45",
+    "longitude": 111.92,
+    "latitude": 34.74,
+    "device_model": "Find 5"
+  },
+  {
+    "event_id": 474,
+    "device_id": "3,06E+18",
+    "timestamp": "04/05/2016 0:50",
+    "longitude": 106.62,
+    "latitude": 23.9,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 475,
+    "device_id": "-5,56E+18",
+    "timestamp": "04/05/2016 0:55",
+    "longitude": 112.83,
+    "latitude": 35.5,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 478,
+    "device_id": "2,77E+18",
+    "timestamp": "04/05/2016 0:21",
+    "longitude": 116.43,
+    "latitude": 39.97,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 481,
+    "device_id": "5,80E+18",
+    "timestamp": "04/05/2016 0:01",
+    "longitude": 121.57,
+    "latitude": 31.26,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 482,
+    "device_id": "-3,22E+18",
+    "timestamp": "04/05/2016 0:01",
+    "longitude": 110.63,
+    "latitude": 22.07,
+    "device_model": "红米Note3"
+  },
+  {
+    "event_id": 484,
+    "device_id": "-5,16E+18",
+    "timestamp": "04/05/2016 0:06",
+    "longitude": 122.96,
+    "latitude": 41.11,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 485,
+    "device_id": "7,94E+18",
+    "timestamp": "03/05/2016 23:56",
+    "longitude": 112.59,
+    "latitude": 35.08,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 486,
+    "device_id": "-2,68E+18",
+    "timestamp": "03/05/2016 23:59",
+    "longitude": 123.93,
+    "latitude": 41.87,
+    "device_model": "S9"
+  },
+  {
+    "event_id": 487,
+    "device_id": "7,81E+18",
+    "timestamp": "04/05/2016 0:57",
+    "longitude": 120.17,
+    "latitude": 33.37,
+    "device_model": "S7I"
+  },
+  {
+    "event_id": 488,
+    "device_id": "-6,24E+18",
+    "timestamp": "04/05/2016 0:07",
+    "longitude": 116.46,
+    "latitude": 40.01,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 489,
+    "device_id": "7,29E+18",
+    "timestamp": "04/05/2016 0:07",
+    "longitude": 114.26,
+    "latitude": 30.57,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 490,
+    "device_id": "2,32E+18",
+    "timestamp": "04/05/2016 0:08",
+    "longitude": 117.27,
+    "latitude": 31.84,
+    "device_model": "X6 D"
+  },
+  {
+    "event_id": 495,
+    "device_id": "1,45E+18",
+    "timestamp": "04/05/2016 0:16",
+    "longitude": 118.72,
+    "latitude": 35.69,
+    "device_model": "Galaxy Ace 2"
+  },
+  {
+    "event_id": 496,
+    "device_id": "-1,15E+18",
+    "timestamp": "04/05/2016 0:16",
+    "longitude": 108.41,
+    "latitude": 34.23,
+    "device_model": "Galaxy S2 HD LTE E120S"
+  },
+  {
+    "event_id": 497,
+    "device_id": "4,19E+18",
+    "timestamp": "04/05/2016 0:00",
+    "longitude": 119.97,
+    "latitude": 36.33,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 498,
+    "device_id": "8,71E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 120.29,
+    "latitude": 31.55,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 500,
+    "device_id": "6,58E+18",
+    "timestamp": "04/05/2016 0:04",
+    "longitude": 113.67,
+    "latitude": 34.79,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 501,
+    "device_id": "-5,02E+18",
+    "timestamp": "04/05/2016 0:03",
+    "longitude": 113.86,
+    "latitude": 34.75,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 503,
+    "device_id": "7,41E+18",
+    "timestamp": "04/05/2016 0:04",
+    "longitude": 112.14,
+    "latitude": 32.02,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 505,
+    "device_id": "7,41E+18",
+    "timestamp": "04/05/2016 0:45",
+    "longitude": 112.14,
+    "latitude": 32.02,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 506,
+    "device_id": "4,36E+18",
+    "timestamp": "04/05/2016 0:49",
+    "longitude": 81.3,
+    "latitude": 6.29,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 508,
+    "device_id": "2,69E+18",
+    "timestamp": "04/05/2016 0:47",
+    "longitude": 106.47,
+    "latitude": 29.54,
+    "device_model": "A3000-H"
+  },
+  {
+    "event_id": 509,
+    "device_id": "7,41E+18",
+    "timestamp": "04/05/2016 0:51",
+    "longitude": 112.14,
+    "latitude": 32.02,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 511,
+    "device_id": "2,77E+18",
+    "timestamp": "04/05/2016 0:27",
+    "longitude": 116.44,
+    "latitude": 39.96,
+    "device_model": "Y17W"
+  },
+  {
+    "event_id": 512,
+    "device_id": "6,79E+18",
+    "timestamp": "04/05/2016 0:33",
+    "longitude": 116.66,
+    "latitude": 40.35,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 513,
+    "device_id": "-6,34E+18",
+    "timestamp": "04/05/2016 0:39",
+    "longitude": 108.95,
+    "latitude": 34.36,
+    "device_model": "I9050"
+  },
+  {
+    "event_id": 514,
+    "device_id": "1,69E+18",
+    "timestamp": "03/05/2016 23:59",
+    "longitude": 115.79,
+    "latitude": 28.19,
+    "device_model": "Y17T"
+  },
+  {
+    "event_id": 515,
+    "device_id": "8,17E+18",
+    "timestamp": "03/05/2016 23:59",
+    "longitude": 100.08,
+    "latitude": 23.88,
+    "device_model": "Galaxy Trend DUOS"
+  },
+  {
+    "event_id": 518,
+    "device_id": "6,35E+17",
+    "timestamp": "04/05/2016 0:01",
+    "longitude": 116.68,
+    "latitude": 39.51,
+    "device_model": "One"
+  },
+  {
+    "event_id": 520,
+    "device_id": "2,24E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 119.55,
+    "latitude": 29.08,
+    "device_model": "G730-U00"
+  },
+  {
+    "event_id": 523,
+    "device_id": "1,45E+18",
+    "timestamp": "04/05/2016 0:54",
+    "longitude": 118.72,
+    "latitude": 35.69,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 524,
+    "device_id": "5,79E+17",
+    "timestamp": "04/05/2016 0:54",
+    "longitude": 118.75,
+    "latitude": 31.99,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 525,
+    "device_id": "-2,65E+18",
+    "timestamp": "04/05/2016 0:18",
+    "longitude": 113.5,
+    "latitude": 23.08,
+    "device_model": "X805"
+  },
+  {
+    "event_id": 526,
+    "device_id": "6,09E+18",
+    "timestamp": "04/05/2016 0:14",
+    "longitude": 108.27,
+    "latitude": 22.8,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 527,
+    "device_id": "-1,17E+18",
+    "timestamp": "04/05/2016 0:19",
+    "longitude": 110.29,
+    "latitude": 25.24,
+    "device_model": "F2"
+  },
+  {
+    "event_id": 528,
+    "device_id": "-5,06E+18",
+    "timestamp": "04/05/2016 0:19",
+    "longitude": 112.86,
+    "latitude": 27.89,
+    "device_model": "Find 7"
+  },
+  {
+    "event_id": 530,
+    "device_id": "-3,38E+18",
+    "timestamp": "04/05/2016 0:35",
+    "longitude": 113.67,
+    "latitude": 34.83,
+    "device_model": "MT1-U06"
+  },
+  {
+    "event_id": 531,
+    "device_id": "1,01E+18",
+    "timestamp": "04/05/2016 0:09",
+    "longitude": 108.96,
+    "latitude": 34.27,
+    "device_model": "U705T"
+  },
+  {
+    "event_id": 533,
+    "device_id": "-6,07E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 108.23,
+    "latitude": 22.79,
+    "device_model": "UIMI4"
+  },
+  {
+    "event_id": 534,
+    "device_id": "-2,55E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 103.77,
+    "latitude": 29.6,
+    "device_model": "VIBE Z"
+  },
+  {
+    "event_id": 535,
+    "device_id": "-6,07E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 108.23,
+    "latitude": 22.79,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 536,
+    "device_id": "-6,07E+18",
+    "timestamp": "04/05/2016 0:03",
+    "longitude": 108.23,
+    "latitude": 22.79,
+    "device_model": "Y20T"
+  },
+  {
+    "event_id": 537,
+    "device_id": "-7,92E+17",
+    "timestamp": "04/05/2016 0:31",
+    "longitude": 116.97,
+    "latitude": 31.05,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 539,
+    "device_id": "-7,92E+17",
+    "timestamp": "04/05/2016 0:32",
+    "longitude": 116.97,
+    "latitude": 31.05,
+    "device_model": "X1 7.0"
+  },
+  {
+    "event_id": 540,
+    "device_id": "-8,36E+18",
+    "timestamp": "04/05/2016 0:33",
+    "longitude": 116.36,
+    "latitude": 23.55,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 541,
+    "device_id": "8,12E+17",
+    "timestamp": "04/05/2016 0:25",
+    "longitude": 118.81,
+    "latitude": 31.88,
+    "device_model": 3
+  },
+  {
+    "event_id": 542,
+    "device_id": "-8,92E+17",
+    "timestamp": "04/05/2016 0:20",
+    "longitude": 115.46,
+    "latitude": 38.88,
+    "device_model": "V185"
+  },
+  {
+    "event_id": 543,
+    "device_id": "1,52E+18",
+    "timestamp": "04/05/2016 0:21",
+    "longitude": 120.98,
+    "latitude": 32.04,
+    "device_model": "R831S"
+  },
+  {
+    "event_id": 544,
+    "device_id": "-4,44E+18",
+    "timestamp": "04/05/2016 0:28",
+    "longitude": 120.89,
+    "latitude": 32.01,
+    "device_model": "9976A"
+  },
+  {
+    "event_id": 546,
+    "device_id": "-2,68E+18",
+    "timestamp": "04/05/2016 0:11",
+    "longitude": 117.32,
+    "latitude": 36.67,
+    "device_model": "Galaxy Grand 2"
+  },
+  {
+    "event_id": 548,
+    "device_id": "8,34E+18",
+    "timestamp": "04/05/2016 0:55",
+    "longitude": 118.1,
+    "latitude": 39.61,
+    "device_model": "Y11IT"
+  },
+  {
+    "event_id": 549,
+    "device_id": "2,24E+18",
+    "timestamp": "04/05/2016 0:30",
+    "longitude": 114.43,
+    "latitude": 38.02,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 551,
+    "device_id": "2,24E+18",
+    "timestamp": "04/05/2016 0:32",
+    "longitude": 114.43,
+    "latitude": 38.02,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 552,
+    "device_id": "6,03E+18",
+    "timestamp": "04/05/2016 0:01",
+    "longitude": 116.67,
+    "latitude": 23.56,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 553,
+    "device_id": "6,72E+18",
+    "timestamp": "04/05/2016 0:03",
+    "longitude": 118.21,
+    "latitude": 33.49,
+    "device_model": "GN135"
+  },
+  {
+    "event_id": 555,
+    "device_id": "1,44E+18",
+    "timestamp": "04/05/2016 0:02",
+    "longitude": 113.14,
+    "latitude": 23.2,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 556,
+    "device_id": "-7,33E+18",
+    "timestamp": "04/05/2016 0:17",
+    "longitude": 104.13,
+    "latitude": 30.69,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 559,
+    "device_id": "4,42E+18",
+    "timestamp": "04/05/2016 0:52",
+    "longitude": 103.7,
+    "latitude": 27.31,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 560,
+    "device_id": "6,85E+18",
+    "timestamp": "04/05/2016 0:52",
+    "longitude": 106.3,
+    "latitude": 31.27,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 561,
+    "device_id": "-1,03E+18",
+    "timestamp": "04/05/2016 0:54",
+    "longitude": 120.31,
+    "latitude": 30.23,
+    "device_model": "Xplay3S"
+  },
+  {
+    "event_id": 562,
+    "device_id": "-6,22E+18",
+    "timestamp": "03/05/2016 23:59",
+    "longitude": 112.71,
+    "latitude": 34.64,
+    "device_model": "F301"
+  },
+  {
+    "event_id": 565,
+    "device_id": "6,10E+18",
+    "timestamp": "04/05/2016 0:29",
+    "longitude": 113.26,
+    "latitude": 23.13,
+    "device_model": "G730-U00"
+  },
+  {
+    "event_id": 566,
+    "device_id": "-4,29E+18",
+    "timestamp": "04/05/2016 0:30",
+    "longitude": 120.33,
+    "latitude": 27.47,
+    "device_model": "Galaxy Trend 3"
+  },
+  {
+    "event_id": 569,
+    "device_id": "-7,44E+18",
+    "timestamp": "05/05/2016 0:49",
+    "longitude": 118.6,
+    "latitude": 24.85,
+    "device_model": "R833T"
+  },
+  {
+    "event_id": 571,
+    "device_id": "5,87E+18",
+    "timestamp": "05/05/2016 0:57",
+    "longitude": 114.42,
+    "latitude": 23.12,
+    "device_model": "G730-L075"
+  },
+  {
+    "event_id": 573,
+    "device_id": "-7,44E+18",
+    "timestamp": "05/05/2016 0:40",
+    "longitude": 118.6,
+    "latitude": 24.85,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 575,
+    "device_id": "7,78E+18",
+    "timestamp": "05/05/2016 0:35",
+    "longitude": 116.33,
+    "latitude": 39.99,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 576,
+    "device_id": "8,53E+17",
+    "timestamp": "05/05/2016 0:32",
+    "longitude": 106.42,
+    "latitude": 29.82,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 577,
+    "device_id": "4,28E+18",
+    "timestamp": "05/05/2016 0:33",
+    "longitude": 112.26,
+    "latitude": 35.54,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 578,
+    "device_id": "9,09E+18",
+    "timestamp": "05/05/2016 0:25",
+    "longitude": 104.13,
+    "latitude": 30.61,
+    "device_model": "Y15"
+  },
+  {
+    "event_id": 579,
+    "device_id": "8,16E+18",
+    "timestamp": "05/05/2016 0:22",
+    "longitude": 116.11,
+    "latitude": 40.24,
+    "device_model": "Galaxy Grand 2"
+  },
+  {
+    "event_id": 581,
+    "device_id": "-1,67E+18",
+    "timestamp": "05/05/2016 0:51",
+    "longitude": 117.07,
+    "latitude": 36.67,
+    "device_model": "N1T"
+  },
+  {
+    "event_id": 583,
+    "device_id": "3,11E+18",
+    "timestamp": "05/05/2016 0:44",
+    "longitude": 117.16,
+    "latitude": 35.09,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 584,
+    "device_id": "-8,00E+18",
+    "timestamp": "05/05/2016 0:21",
+    "longitude": 114.71,
+    "latitude": 22.99,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 585,
+    "device_id": "-8,25E+18",
+    "timestamp": "05/05/2016 0:20",
+    "longitude": 114.17,
+    "latitude": 22.83,
+    "device_model": "K860i"
+  },
+  {
+    "event_id": 587,
+    "device_id": "3,91E+18",
+    "timestamp": "05/05/2016 0:34",
+    "longitude": 122.89,
+    "latitude": 47.51,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 590,
+    "device_id": "4,06E+18",
+    "timestamp": "05/05/2016 0:53",
+    "longitude": 113.8,
+    "latitude": 35.46,
+    "device_model": "X1 7.0"
+  },
+  {
+    "event_id": 591,
+    "device_id": "-1,73E+18",
+    "timestamp": "05/05/2016 0:54",
+    "longitude": 120.12,
+    "latitude": 30.27,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 594,
+    "device_id": "1,20E+18",
+    "timestamp": "05/05/2016 0:06",
+    "longitude": 113.73,
+    "latitude": 23.01,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 595,
+    "device_id": "1,20E+18",
+    "timestamp": "05/05/2016 0:14",
+    "longitude": 113.73,
+    "latitude": 23.01,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 596,
+    "device_id": "5,92E+18",
+    "timestamp": "05/05/2016 0:10",
+    "longitude": 119.37,
+    "latitude": 26.09,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 598,
+    "device_id": "6,67E+17",
+    "timestamp": "05/05/2016 0:19",
+    "longitude": 113.18,
+    "latitude": 27.8,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 601,
+    "device_id": "4,04E+18",
+    "timestamp": "05/05/2016 0:08",
+    "longitude": 118.01,
+    "latitude": 39.79,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 602,
+    "device_id": "4,42E+18",
+    "timestamp": "05/05/2016 0:05",
+    "longitude": 114.07,
+    "latitude": 22.63,
+    "device_model": "V955"
+  },
+  {
+    "event_id": 603,
+    "device_id": "3,19E+18",
+    "timestamp": "05/05/2016 0:26",
+    "longitude": 114.33,
+    "latitude": 22.66,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 604,
+    "device_id": "-8,02E+18",
+    "timestamp": "05/05/2016 0:26",
+    "longitude": 125.17,
+    "latitude": 43.99,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 605,
+    "device_id": "-1,18E+18",
+    "timestamp": "05/05/2016 0:28",
+    "longitude": 117.98,
+    "latitude": 24.6,
+    "device_model": "One"
+  },
+  {
+    "event_id": 606,
+    "device_id": "3,13E+18",
+    "timestamp": "05/05/2016 0:08",
+    "longitude": 102.26,
+    "latitude": 27.9,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 607,
+    "device_id": "3,52E+18",
+    "timestamp": "05/05/2016 0:09",
+    "longitude": 114.13,
+    "latitude": 22.72,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 609,
+    "device_id": "-3,76E+18",
+    "timestamp": "05/05/2016 0:14",
+    "longitude": 121.54,
+    "latitude": 31.29,
+    "device_model": "MI One Plus"
+  },
+  {
+    "event_id": 610,
+    "device_id": "-3,76E+18",
+    "timestamp": "05/05/2016 0:22",
+    "longitude": 121.54,
+    "latitude": 31.29,
+    "device_model": 5891
+  },
+  {
+    "event_id": 611,
+    "device_id": "-3,76E+18",
+    "timestamp": "05/05/2016 0:23",
+    "longitude": 121.54,
+    "latitude": 31.29,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 612,
+    "device_id": "8,66E+18",
+    "timestamp": "05/05/2016 0:06",
+    "longitude": 108.74,
+    "latitude": 39.83,
+    "device_model": "M2"
+  },
+  {
+    "event_id": 613,
+    "device_id": "-5,94E+18",
+    "timestamp": "05/05/2016 0:54",
+    "longitude": 112.86,
+    "latitude": 27.24,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 614,
+    "device_id": "-3,14E+18",
+    "timestamp": "05/05/2016 0:54",
+    "longitude": 113.58,
+    "latitude": 37.33,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 615,
+    "device_id": "7,78E+18",
+    "timestamp": "05/05/2016 0:55",
+    "longitude": 120.21,
+    "latitude": 33.4,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 616,
+    "device_id": "-2,03E+18",
+    "timestamp": "05/05/2016 0:05",
+    "longitude": 110.46,
+    "latitude": 19.26,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 618,
+    "device_id": "6,67E+17",
+    "timestamp": "05/05/2016 0:16",
+    "longitude": 113.18,
+    "latitude": 27.8,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 620,
+    "device_id": "1,19E+18",
+    "timestamp": "05/05/2016 0:41",
+    "longitude": 114.77,
+    "latitude": 25.68,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 623,
+    "device_id": "-4,28E+18",
+    "timestamp": "04/05/2016 23:59",
+    "longitude": 106.72,
+    "latitude": 26.58,
+    "device_model": "星星1号"
+  },
+  {
+    "event_id": 624,
+    "device_id": "-1,40E+18",
+    "timestamp": "05/05/2016 0:51",
+    "longitude": 116.68,
+    "latitude": 23.36,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 625,
+    "device_id": "-8,34E+17",
+    "timestamp": "05/05/2016 0:05",
+    "longitude": 114.3,
+    "latitude": 30.52,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 626,
+    "device_id": "-4,95E+18",
+    "timestamp": "05/05/2016 0:01",
+    "longitude": 117.03,
+    "latitude": 25.09,
+    "device_model": "MT2-C00"
+  },
+  {
+    "event_id": 627,
+    "device_id": "3,94E+17",
+    "timestamp": "05/05/2016 0:06",
+    "longitude": 121.52,
+    "latitude": 31.19,
+    "device_model": "Galaxy Mega 5.8"
+  },
+  {
+    "event_id": 628,
+    "device_id": "5,89E+17",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 114.02,
+    "latitude": 22.66,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 631,
+    "device_id": "1,18E+18",
+    "timestamp": "05/05/2016 0:38",
+    "longitude": 104.03,
+    "latitude": 30.64,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 632,
+    "device_id": "-7,30E+18",
+    "timestamp": "05/05/2016 0:58",
+    "longitude": 120.51,
+    "latitude": 31.37,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 633,
+    "device_id": "5,62E+18",
+    "timestamp": "05/05/2016 0:29",
+    "longitude": 108.63,
+    "latitude": 40.73,
+    "device_model": "E7"
+  },
+  {
+    "event_id": 634,
+    "device_id": "5,62E+18",
+    "timestamp": "05/05/2016 0:29",
+    "longitude": 108.63,
+    "latitude": 40.73,
+    "device_model": "SCH-I939"
+  },
+  {
+    "event_id": 635,
+    "device_id": "-6,48E+18",
+    "timestamp": "05/05/2016 0:38",
+    "longitude": 113.29,
+    "latitude": 33.72,
+    "device_model": "荣耀3C畅玩版"
+  },
+  {
+    "event_id": 636,
+    "device_id": "-6,70E+18",
+    "timestamp": "05/05/2016 0:40",
+    "longitude": 113.35,
+    "latitude": 22.52,
+    "device_model": "7295+"
+  },
+  {
+    "event_id": 637,
+    "device_id": "-8,32E+18",
+    "timestamp": "05/05/2016 0:24",
+    "longitude": 120.17,
+    "latitude": 30.25,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 638,
+    "device_id": "3,01E+18",
+    "timestamp": "04/05/2016 23:59",
+    "longitude": 113.27,
+    "latitude": 35.18,
+    "device_model": "795+"
+  },
+  {
+    "event_id": 639,
+    "device_id": "-6,79E+18",
+    "timestamp": "04/05/2016 23:59",
+    "longitude": 108.81,
+    "latitude": 23.22,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 641,
+    "device_id": "-7,63E+18",
+    "timestamp": "05/05/2016 0:00",
+    "longitude": 120.2,
+    "latitude": 30.21,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 642,
+    "device_id": "3,01E+18",
+    "timestamp": "05/05/2016 0:01",
+    "longitude": 113.27,
+    "latitude": 35.18,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 643,
+    "device_id": "3,52E+18",
+    "timestamp": "05/05/2016 0:01",
+    "longitude": 114.13,
+    "latitude": 22.72,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 646,
+    "device_id": "-8,51E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 112.92,
+    "latitude": 27.84,
+    "device_model": "G11"
+  },
+  {
+    "event_id": 648,
+    "device_id": "3,13E+18",
+    "timestamp": "05/05/2016 0:07",
+    "longitude": 102.26,
+    "latitude": 27.9,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 650,
+    "device_id": "-9,04E+18",
+    "timestamp": "05/05/2016 0:36",
+    "longitude": 113.23,
+    "latitude": 23.14,
+    "device_model": "R827T"
+  },
+  {
+    "event_id": 651,
+    "device_id": "-7,61E+18",
+    "timestamp": "05/05/2016 0:08",
+    "longitude": 119.92,
+    "latitude": 30.24,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 652,
+    "device_id": "-7,61E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 119.92,
+    "latitude": 30.24,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 654,
+    "device_id": "-8,45E+17",
+    "timestamp": "05/05/2016 0:49",
+    "longitude": 116.31,
+    "latitude": 39.93,
+    "device_model": "A789"
+  },
+  {
+    "event_id": 655,
+    "device_id": "-1,80E+18",
+    "timestamp": "05/05/2016 0:07",
+    "longitude": 114.2,
+    "latitude": 22.65,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 656,
+    "device_id": "9,18E+18",
+    "timestamp": "05/05/2016 0:08",
+    "longitude": 120.2,
+    "latitude": 30.07,
+    "device_model": "Ascend P7"
+  },
+  {
+    "event_id": 657,
+    "device_id": "-8,93E+18",
+    "timestamp": "05/05/2016 0:21",
+    "longitude": 114.01,
+    "latitude": 22.91,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 661,
+    "device_id": "4,65E+18",
+    "timestamp": "05/05/2016 0:00",
+    "longitude": 113.91,
+    "latitude": 35.33,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 663,
+    "device_id": "1,19E+18",
+    "timestamp": "05/05/2016 0:01",
+    "longitude": 114.77,
+    "latitude": 25.68,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 668,
+    "device_id": "-2,44E+18",
+    "timestamp": "05/05/2016 0:25",
+    "longitude": 118.19,
+    "latitude": 28.45,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 669,
+    "device_id": "-2,44E+18",
+    "timestamp": "05/05/2016 0:29",
+    "longitude": 118.19,
+    "latitude": 28.45,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 670,
+    "device_id": "9,31E+17",
+    "timestamp": "05/05/2016 0:29",
+    "longitude": 110.92,
+    "latitude": 34.61,
+    "device_model": "A850"
+  },
+  {
+    "event_id": 671,
+    "device_id": "-1,30E+18",
+    "timestamp": "05/05/2016 0:40",
+    "longitude": 120.36,
+    "latitude": 36.26,
+    "device_model": "荣耀畅玩4"
+  },
+  {
+    "event_id": 672,
+    "device_id": "6,38E+17",
+    "timestamp": "05/05/2016 0:41",
+    "longitude": 114.42,
+    "latitude": 30.39,
+    "device_model": "I8268"
+  },
+  {
+    "event_id": 673,
+    "device_id": "1,55E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 119.01,
+    "latitude": 33.01,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 674,
+    "device_id": "6,67E+17",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 113.18,
+    "latitude": 27.8,
+    "device_model": "荣耀U8860"
+  },
+  {
+    "event_id": 675,
+    "device_id": "-8,02E+18",
+    "timestamp": "05/05/2016 0:28",
+    "longitude": 125.17,
+    "latitude": 43.99,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 676,
+    "device_id": "1,53E+18",
+    "timestamp": "05/05/2016 0:29",
+    "longitude": 104.03,
+    "latitude": 30.64,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 677,
+    "device_id": "7,78E+18",
+    "timestamp": "05/05/2016 0:30",
+    "longitude": 120.21,
+    "latitude": 33.4,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 680,
+    "device_id": "-1,21E+18",
+    "timestamp": "05/05/2016 0:32",
+    "longitude": 113.68,
+    "latitude": 34.59,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 681,
+    "device_id": "3,96E+18",
+    "timestamp": "05/05/2016 0:35",
+    "longitude": 114.05,
+    "latitude": 22.61,
+    "device_model": "Xplay"
+  },
+  {
+    "event_id": 682,
+    "device_id": "-8,46E+18",
+    "timestamp": "04/05/2016 23:58",
+    "longitude": 105.2,
+    "latitude": 30.68,
+    "device_model": "Touch 3"
+  },
+  {
+    "event_id": 683,
+    "device_id": "-1,41E+18",
+    "timestamp": "04/05/2016 23:58",
+    "longitude": 103.8,
+    "latitude": 31.16,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 685,
+    "device_id": "-5,16E+18",
+    "timestamp": "05/05/2016 0:38",
+    "longitude": 114.11,
+    "latitude": 22.6,
+    "device_model": "Y11IT"
+  },
+  {
+    "event_id": 686,
+    "device_id": "-6,56E+18",
+    "timestamp": "05/05/2016 0:39",
+    "longitude": 115.59,
+    "latitude": 37.54,
+    "device_model": "Y11IT"
+  },
+  {
+    "event_id": 687,
+    "device_id": "-1,41E+18",
+    "timestamp": "05/05/2016 0:16",
+    "longitude": 103.8,
+    "latitude": 31.16,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 689,
+    "device_id": "-4,45E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 115.98,
+    "latitude": 36.47,
+    "device_model": "Mate 2"
+  },
+  {
+    "event_id": 691,
+    "device_id": "-3,90E+17",
+    "timestamp": "05/05/2016 0:25",
+    "longitude": 109.6,
+    "latitude": 24.4,
+    "device_model": "A708t"
+  },
+  {
+    "event_id": 694,
+    "device_id": "-7,24E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 116.1,
+    "latitude": 39.93,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 695,
+    "device_id": "-5,95E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 123.4,
+    "latitude": 41.8,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 697,
+    "device_id": "4,42E+18",
+    "timestamp": "05/05/2016 0:07",
+    "longitude": 114.07,
+    "latitude": 22.63,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 698,
+    "device_id": "4,04E+18",
+    "timestamp": "05/05/2016 0:07",
+    "longitude": 118.01,
+    "latitude": 39.79,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 699,
+    "device_id": "-3,69E+18",
+    "timestamp": "05/05/2016 0:08",
+    "longitude": 119.34,
+    "latitude": 26.08,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 701,
+    "device_id": "-8,06E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 116.42,
+    "latitude": 39.92,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 702,
+    "device_id": "-6,11E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 120.01,
+    "latitude": 30.21,
+    "device_model": "MI 2A"
+  },
+  {
+    "event_id": 703,
+    "device_id": "-2,88E+18",
+    "timestamp": "05/05/2016 0:04",
+    "longitude": 96.17,
+    "latitude": 16.82,
+    "device_model": "Y17T"
+  },
+  {
+    "event_id": 707,
+    "device_id": "5,33E+18",
+    "timestamp": "05/05/2016 0:06",
+    "longitude": 120.77,
+    "latitude": 41.13,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 711,
+    "device_id": "5,33E+18",
+    "timestamp": "05/05/2016 0:52",
+    "longitude": 120.77,
+    "latitude": 41.13,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 713,
+    "device_id": "1,10E+18",
+    "timestamp": "05/05/2016 0:56",
+    "longitude": 118.63,
+    "latitude": 32.08,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 714,
+    "device_id": "7,10E+18",
+    "timestamp": "05/05/2016 0:14",
+    "longitude": 120.14,
+    "latitude": 33.37,
+    "device_model": "Xperia Z"
+  },
+  {
+    "event_id": 720,
+    "device_id": "-6,34E+18",
+    "timestamp": "05/05/2016 0:00",
+    "longitude": 118.11,
+    "latitude": 39.57,
+    "device_model": "R827T"
+  },
+  {
+    "event_id": 721,
+    "device_id": "-6,84E+18",
+    "timestamp": "05/05/2016 0:01",
+    "longitude": 122.98,
+    "latitude": 41.11,
+    "device_model": "Galaxy Tab 3 8.0"
+  },
+  {
+    "event_id": 722,
+    "device_id": "-1,39E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 104.23,
+    "latitude": 31.34,
+    "device_model": "I9118"
+  },
+  {
+    "event_id": 723,
+    "device_id": "-5,60E+18",
+    "timestamp": "05/05/2016 0:12",
+    "longitude": 97.05,
+    "latitude": 40.28,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 726,
+    "device_id": "-3,47E+18",
+    "timestamp": "05/05/2016 0:16",
+    "longitude": 113.12,
+    "latitude": 36.17,
+    "device_model": "V185"
+  },
+  {
+    "event_id": 727,
+    "device_id": "-5,67E+18",
+    "timestamp": "05/05/2016 0:17",
+    "longitude": 114.67,
+    "latitude": 25.73,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 728,
+    "device_id": "4,54E+18",
+    "timestamp": "05/05/2016 0:40",
+    "longitude": 110.39,
+    "latitude": 24.5,
+    "device_model": "U9508"
+  },
+  {
+    "event_id": 729,
+    "device_id": "8,00E+18",
+    "timestamp": "05/05/2016 0:42",
+    "longitude": 109.24,
+    "latitude": 24.66,
+    "device_model": "G520-5000"
+  },
+  {
+    "event_id": 730,
+    "device_id": "5,20E+18",
+    "timestamp": "05/05/2016 0:42",
+    "longitude": 120.91,
+    "latitude": 36.66,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 731,
+    "device_id": "6,71E+18",
+    "timestamp": "05/05/2016 0:45",
+    "longitude": 119.28,
+    "latitude": 26.09,
+    "device_model": "S3"
+  },
+  {
+    "event_id": 732,
+    "device_id": "8,77E+18",
+    "timestamp": "05/05/2016 0:11",
+    "longitude": 113.31,
+    "latitude": 23.13,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 734,
+    "device_id": "9,00E+18",
+    "timestamp": "05/05/2016 0:53",
+    "longitude": 114.71,
+    "latitude": 22.79,
+    "device_model": "X805"
+  },
+  {
+    "event_id": 736,
+    "device_id": "5,85E+18",
+    "timestamp": "05/05/2016 0:46",
+    "longitude": 112.55,
+    "latitude": 37.87,
+    "device_model": "荣耀3X"
+  },
+  {
+    "event_id": 737,
+    "device_id": "4,72E+18",
+    "timestamp": "05/05/2016 0:52",
+    "longitude": 118.81,
+    "latitude": 32.04,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 738,
+    "device_id": "2,36E+18",
+    "timestamp": "05/05/2016 0:52",
+    "longitude": 113.33,
+    "latitude": 23.18,
+    "device_model": "Galaxy Grand 2"
+  },
+  {
+    "event_id": 739,
+    "device_id": "-6,75E+18",
+    "timestamp": "05/05/2016 0:52",
+    "longitude": 120.35,
+    "latitude": 36.09,
+    "device_model": "R7"
+  },
+  {
+    "event_id": 740,
+    "device_id": "6,67E+17",
+    "timestamp": "05/05/2016 0:53",
+    "longitude": 113.18,
+    "latitude": 27.8,
+    "device_model": "G610S"
+  },
+  {
+    "event_id": 741,
+    "device_id": "2,55E+18",
+    "timestamp": "05/05/2016 0:56",
+    "longitude": 111.55,
+    "latitude": 36.08,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 742,
+    "device_id": "-3,13E+18",
+    "timestamp": "05/05/2016 0:55",
+    "longitude": 111.33,
+    "latitude": 30.78,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 743,
+    "device_id": "5,15E+18",
+    "timestamp": "05/05/2016 0:05",
+    "longitude": 116.41,
+    "latitude": 39.8,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 744,
+    "device_id": "5,15E+18",
+    "timestamp": "05/05/2016 0:06",
+    "longitude": 116.41,
+    "latitude": 39.8,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 748,
+    "device_id": "-7,54E+18",
+    "timestamp": "05/05/2016 0:39",
+    "longitude": 120.47,
+    "latitude": 31.23,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 749,
+    "device_id": "8,43E+18",
+    "timestamp": "05/05/2016 0:41",
+    "longitude": 113.67,
+    "latitude": 34.75,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 750,
+    "device_id": "4,38E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 103.89,
+    "latitude": 30.68,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 751,
+    "device_id": "-6,70E+18",
+    "timestamp": "05/05/2016 0:17",
+    "longitude": 120.06,
+    "latitude": 31.72,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 752,
+    "device_id": "5,56E+18",
+    "timestamp": "05/05/2016 0:13",
+    "longitude": 114.05,
+    "latitude": 22.6,
+    "device_model": "春雷HD"
+  },
+  {
+    "event_id": 753,
+    "device_id": "-3,75E+18",
+    "timestamp": "05/05/2016 0:03",
+    "longitude": 123.29,
+    "latitude": 41.97,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 754,
+    "device_id": "-8,34E+18",
+    "timestamp": "05/05/2016 0:04",
+    "longitude": 111.92,
+    "latitude": 34.74,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 756,
+    "device_id": "-5,11E+18",
+    "timestamp": "05/05/2016 0:15",
+    "longitude": 115.92,
+    "latitude": 28.71,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 758,
+    "device_id": "-1,72E+18",
+    "timestamp": "05/05/2016 23:59",
+    "longitude": 109.4,
+    "latitude": 24.35,
+    "device_model": "Z5S"
+  },
+  {
+    "event_id": 760,
+    "device_id": "8,29E+18",
+    "timestamp": "06/05/2016 0:04",
+    "longitude": 116.46,
+    "latitude": 39.89,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 761,
+    "device_id": "4,01E+18",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 120.3,
+    "latitude": 31.92,
+    "device_model": "Find 5"
+  },
+  {
+    "event_id": 762,
+    "device_id": "7,39E+16",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 115.66,
+    "latitude": 37.75,
+    "device_model": "Galaxy Mega 6.3"
+  },
+  {
+    "event_id": 763,
+    "device_id": "9,21E+18",
+    "timestamp": "06/05/2016 0:06",
+    "longitude": 112.91,
+    "latitude": 28.23,
+    "device_model": "MX3"
+  },
+  {
+    "event_id": 764,
+    "device_id": "-4,69E+18",
+    "timestamp": "06/05/2016 0:09",
+    "longitude": 118.72,
+    "latitude": 32.15,
+    "device_model": "U9508"
+  },
+  {
+    "event_id": 767,
+    "device_id": "8,29E+18",
+    "timestamp": "06/05/2016 0:09",
+    "longitude": 116.46,
+    "latitude": 39.89,
+    "device_model": 7295
+  },
+  {
+    "event_id": 768,
+    "device_id": "6,17E+17",
+    "timestamp": "06/05/2016 0:43",
+    "longitude": 119.45,
+    "latitude": 26,
+    "device_model": "C8813"
+  },
+  {
+    "event_id": 769,
+    "device_id": "4,94E+18",
+    "timestamp": "06/05/2016 0:44",
+    "longitude": 118.7,
+    "latitude": 32.11,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 770,
+    "device_id": "6,17E+17",
+    "timestamp": "06/05/2016 0:47",
+    "longitude": 119.45,
+    "latitude": 26,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 772,
+    "device_id": "6,17E+17",
+    "timestamp": "06/05/2016 0:47",
+    "longitude": 119.45,
+    "latitude": 26,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 773,
+    "device_id": "9,21E+18",
+    "timestamp": "06/05/2016 0:48",
+    "longitude": 112.91,
+    "latitude": 28.23,
+    "device_model": "X1 7.0"
+  },
+  {
+    "event_id": 775,
+    "device_id": "1,19E+18",
+    "timestamp": "06/05/2016 0:41",
+    "longitude": 113.62,
+    "latitude": 23.29,
+    "device_model": "U956"
+  },
+  {
+    "event_id": 776,
+    "device_id": "-8,96E+18",
+    "timestamp": "05/05/2016 23:52",
+    "longitude": 120.68,
+    "latitude": 28.07,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 777,
+    "device_id": "-7,55E+17",
+    "timestamp": "06/05/2016 0:00",
+    "longitude": 117.02,
+    "latitude": 36.65,
+    "device_model": "802w"
+  },
+  {
+    "event_id": 779,
+    "device_id": "1,68E+18",
+    "timestamp": "06/05/2016 0:00",
+    "longitude": 116.33,
+    "latitude": 39.98,
+    "device_model": "Xperia P"
+  },
+  {
+    "event_id": 780,
+    "device_id": "7,95E+18",
+    "timestamp": "06/05/2016 0:52",
+    "longitude": 117.49,
+    "latitude": 31.39,
+    "device_model": "Galaxy Note 2"
+  },
+  {
+    "event_id": 782,
+    "device_id": "-5,94E+17",
+    "timestamp": "05/05/2016 23:56",
+    "longitude": 114.74,
+    "latitude": 23.75,
+    "device_model": "Galaxy Grand"
+  },
+  {
+    "event_id": 785,
+    "device_id": "-7,96E+18",
+    "timestamp": "06/05/2016 0:04",
+    "longitude": 119.42,
+    "latitude": 32.21,
+    "device_model": "R3"
+  },
+  {
+    "event_id": 786,
+    "device_id": "-5,11E+18",
+    "timestamp": "06/05/2016 0:04",
+    "longitude": 109.41,
+    "latitude": 24.38,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 787,
+    "device_id": "1,52E+18",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 120.98,
+    "latitude": 32.04,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 790,
+    "device_id": "-6,94E+18",
+    "timestamp": "06/05/2016 0:02",
+    "longitude": 113.58,
+    "latitude": 28.71,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 792,
+    "device_id": "8,20E+18",
+    "timestamp": "06/05/2016 0:03",
+    "longitude": 130.36,
+    "latitude": 46.79,
+    "device_model": "Galaxy S Advance"
+  },
+  {
+    "event_id": 793,
+    "device_id": "-7,71E+18",
+    "timestamp": "06/05/2016 0:04",
+    "longitude": 110.94,
+    "latitude": 27.1,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 795,
+    "device_id": "-4,64E+18",
+    "timestamp": "06/05/2016 0:09",
+    "longitude": 116.48,
+    "latitude": 23.45,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 796,
+    "device_id": "5,33E+18",
+    "timestamp": "06/05/2016 0:09",
+    "longitude": 120.77,
+    "latitude": 41.13,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 799,
+    "device_id": "7,90E+18",
+    "timestamp": "06/05/2016 0:01",
+    "longitude": 119.34,
+    "latitude": 26.08,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 801,
+    "device_id": "-8,67E+18",
+    "timestamp": "06/05/2016 0:02",
+    "longitude": 117.24,
+    "latitude": 32,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 803,
+    "device_id": "-1,15E+18",
+    "timestamp": "06/05/2016 0:22",
+    "longitude": 119.54,
+    "latitude": 35.41,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 805,
+    "device_id": "-5,85E+18",
+    "timestamp": "06/05/2016 0:18",
+    "longitude": 116.32,
+    "latitude": 26.85,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 806,
+    "device_id": "6,00E+18",
+    "timestamp": "06/05/2016 0:01",
+    "longitude": 113.07,
+    "latitude": 22.57,
+    "device_model": "红米3"
+  },
+  {
+    "event_id": 807,
+    "device_id": "-7,59E+18",
+    "timestamp": "06/05/2016 0:51",
+    "longitude": 121.52,
+    "latitude": 31.21,
+    "device_model": "HN3-U01"
+  },
+  {
+    "event_id": 808,
+    "device_id": "1,16E+18",
+    "timestamp": "06/05/2016 0:01",
+    "longitude": 112.41,
+    "latitude": 39.32,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 811,
+    "device_id": "-8,16E+18",
+    "timestamp": "05/05/2016 23:58",
+    "longitude": 102.73,
+    "latitude": 24.18,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 812,
+    "device_id": "6,85E+18",
+    "timestamp": "06/05/2016 0:38",
+    "longitude": 106.3,
+    "latitude": 31.27,
+    "device_model": "One X"
+  },
+  {
+    "event_id": 814,
+    "device_id": "2,76E+18",
+    "timestamp": "06/05/2016 0:03",
+    "longitude": 113.39,
+    "latitude": 23.05,
+    "device_model": "Galaxy Trend 3"
+  },
+  {
+    "event_id": 819,
+    "device_id": "-2,47E+18",
+    "timestamp": "06/05/2016 0:10",
+    "longitude": 102.73,
+    "latitude": 25.06,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 820,
+    "device_id": "6,11E+18",
+    "timestamp": "06/05/2016 0:10",
+    "longitude": 116.36,
+    "latitude": 23.56,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 821,
+    "device_id": "-4,74E+18",
+    "timestamp": "06/05/2016 0:12",
+    "longitude": 118.18,
+    "latitude": 26.64,
+    "device_model": "Find 5"
+  },
+  {
+    "event_id": 822,
+    "device_id": "-6,90E+18",
+    "timestamp": "06/05/2016 0:25",
+    "longitude": 120.36,
+    "latitude": 31.56,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 823,
+    "device_id": "6,11E+18",
+    "timestamp": "06/05/2016 0:25",
+    "longitude": 116.36,
+    "latitude": 23.56,
+    "device_model": "Y600-U00"
+  },
+  {
+    "event_id": 825,
+    "device_id": "-8,30E+18",
+    "timestamp": "06/05/2016 0:26",
+    "longitude": 118.91,
+    "latitude": 27.7,
+    "device_model": "G620-L75"
+  },
+  {
+    "event_id": 826,
+    "device_id": "-8,30E+18",
+    "timestamp": "06/05/2016 0:27",
+    "longitude": 118.91,
+    "latitude": 27.7,
+    "device_model": "A850"
+  },
+  {
+    "event_id": 827,
+    "device_id": "6,11E+18",
+    "timestamp": "06/05/2016 0:28",
+    "longitude": 116.36,
+    "latitude": 23.56,
+    "device_model": "M10-M"
+  },
+  {
+    "event_id": 828,
+    "device_id": "-3,22E+18",
+    "timestamp": "06/05/2016 0:30",
+    "longitude": 118.16,
+    "latitude": 24.48,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 829,
+    "device_id": "3,92E+18",
+    "timestamp": "06/05/2016 0:35",
+    "longitude": 121.24,
+    "latitude": 28.74,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 830,
+    "device_id": "-1,90E+18",
+    "timestamp": "06/05/2016 0:40",
+    "longitude": 116.46,
+    "latitude": 35.93,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 832,
+    "device_id": "-5,60E+18",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 109.08,
+    "latitude": 34.15,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 833,
+    "device_id": "2,73E+18",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 116.35,
+    "latitude": 39.79,
+    "device_model": "A1"
+  },
+  {
+    "event_id": 834,
+    "device_id": "2,73E+18",
+    "timestamp": "06/05/2016 0:05",
+    "longitude": 116.35,
+    "latitude": 39.79,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 835,
+    "device_id": "5,41E+18",
+    "timestamp": "06/05/2016 0:12",
+    "longitude": 118.77,
+    "latitude": 32.08,
+    "device_model": "S720"
+  },
+  {
+    "event_id": 836,
+    "device_id": "-3,13E+18",
+    "timestamp": "06/05/2016 0:14",
+    "longitude": 112.99,
+    "latitude": 28.25,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 840,
+    "device_id": "7,48E+18",
+    "timestamp": "06/05/2016 0:51",
+    "longitude": 114.42,
+    "latitude": 30.52,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 841,
+    "device_id": "-8,09E+18",
+    "timestamp": "06/05/2016 0:33",
+    "longitude": 121.48,
+    "latitude": 31.35,
+    "device_model": "Galaxy Win Pro"
+  },
+  {
+    "event_id": 842,
+    "device_id": "4,52E+18",
+    "timestamp": "05/05/2016 23:59",
+    "longitude": 113.78,
+    "latitude": 23.46,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 843,
+    "device_id": "6,87E+18",
+    "timestamp": "05/05/2016 23:59",
+    "longitude": 121.29,
+    "latitude": 30.79,
+    "device_model": "R809T"
+  },
+  {
+    "event_id": 845,
+    "device_id": "-1,05E+18",
+    "timestamp": "06/05/2016 0:45",
+    "longitude": 120.53,
+    "latitude": 30.65,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 846,
+    "device_id": "1,19E+18",
+    "timestamp": "05/05/2016 23:57",
+    "longitude": 114.91,
+    "latitude": 36.44,
+    "device_model": "Find 7"
+  },
+  {
+    "event_id": 847,
+    "device_id": "1,19E+18",
+    "timestamp": "05/05/2016 23:58",
+    "longitude": 105.89,
+    "latitude": 30.99,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 848,
+    "device_id": "1,94E+18",
+    "timestamp": "05/05/2016 23:59",
+    "longitude": 114.36,
+    "latitude": 23.04,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 849,
+    "device_id": "-1,59E+18",
+    "timestamp": "06/05/2016 0:16",
+    "longitude": 115.97,
+    "latitude": 38.67,
+    "device_model": "Galaxy Win"
+  },
+  {
+    "event_id": 850,
+    "device_id": "6,61E+18",
+    "timestamp": "06/05/2016 0:20",
+    "longitude": 108.93,
+    "latitude": 34.27,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 851,
+    "device_id": "4,88E+18",
+    "timestamp": "06/05/2016 0:21",
+    "longitude": 116.69,
+    "latitude": 39.67,
+    "device_model": "MI 2"
+  },
+  {
+    "event_id": 854,
+    "device_id": "-1,27E+18",
+    "timestamp": "06/05/2016 0:58",
+    "longitude": 119.25,
+    "latitude": 26.05,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 855,
+    "device_id": "-2,62E+18",
+    "timestamp": "06/05/2016 0:36",
+    "longitude": 119.33,
+    "latitude": 26.1,
+    "device_model": "Ascend P7"
+  },
+  {
+    "event_id": 856,
+    "device_id": "-7,57E+18",
+    "timestamp": "06/05/2016 0:19",
+    "longitude": 102.71,
+    "latitude": 25.04,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 857,
+    "device_id": "6,11E+18",
+    "timestamp": "06/05/2016 0:52",
+    "longitude": 116.38,
+    "latitude": 23.56,
+    "device_model": "G520-T10"
+  },
+  {
+    "event_id": 859,
+    "device_id": "-2,60E+18",
+    "timestamp": "06/05/2016 0:27",
+    "longitude": 113.29,
+    "latitude": 22.91,
+    "device_model": "Mate 2"
+  },
+  {
+    "event_id": 860,
+    "device_id": "3,31E+18",
+    "timestamp": "06/05/2016 0:28",
+    "longitude": 126.94,
+    "latitude": 44.41,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 861,
+    "device_id": "8,00E+18",
+    "timestamp": "06/05/2016 0:31",
+    "longitude": 109.24,
+    "latitude": 24.67,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 862,
+    "device_id": "8,00E+18",
+    "timestamp": "06/05/2016 0:31",
+    "longitude": 109.24,
+    "latitude": 24.67,
+    "device_model": "Z9 mini"
+  },
+  {
+    "event_id": 863,
+    "device_id": "-3,29E+18",
+    "timestamp": "06/05/2016 0:32",
+    "longitude": 116.48,
+    "latitude": 39.98,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 864,
+    "device_id": "8,00E+18",
+    "timestamp": "06/05/2016 0:33",
+    "longitude": 109.24,
+    "latitude": 24.67,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 867,
+    "device_id": "-1,99E+18",
+    "timestamp": "06/05/2016 0:35",
+    "longitude": 114.91,
+    "latitude": 30.46,
+    "device_model": "荣耀3X畅玩版"
+  },
+  {
+    "event_id": 868,
+    "device_id": "-4,30E+16",
+    "timestamp": "06/05/2016 0:36",
+    "longitude": 117.98,
+    "latitude": 24.61,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 869,
+    "device_id": "-4,52E+18",
+    "timestamp": "06/05/2016 0:37",
+    "longitude": 113.26,
+    "latitude": 23.16,
+    "device_model": "Ascend G6"
+  },
+  {
+    "event_id": 872,
+    "device_id": "5,89E+17",
+    "timestamp": "05/05/2016 23:59",
+    "longitude": 114.02,
+    "latitude": 22.66,
+    "device_model": "MI 1S"
+  },
+  {
+    "event_id": 873,
+    "device_id": "-5,94E+17",
+    "timestamp": "06/05/2016 0:37",
+    "longitude": 114.74,
+    "latitude": 23.75,
+    "device_model": "X3T"
+  },
+  {
+    "event_id": 876,
+    "device_id": "3,11E+18",
+    "timestamp": "06/05/2016 0:31",
+    "longitude": 117.17,
+    "latitude": 35.09,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 879,
+    "device_id": "-2,03E+18",
+    "timestamp": "06/05/2016 0:11",
+    "longitude": 117.28,
+    "latitude": 31.86,
+    "device_model": "A378t"
+  },
+  {
+    "event_id": 881,
+    "device_id": "-3,58E+18",
+    "timestamp": "06/05/2016 0:20",
+    "longitude": 113.17,
+    "latitude": 30.64,
+    "device_model": "Galaxy Mega Plus"
+  },
+  {
+    "event_id": 883,
+    "device_id": "-4,07E+18",
+    "timestamp": "06/05/2016 0:14",
+    "longitude": 105.61,
+    "latitude": 27.14,
+    "device_model": "Touch 2"
+  },
+  {
+    "event_id": 884,
+    "device_id": "-4,07E+18",
+    "timestamp": "06/05/2016 0:15",
+    "longitude": 105.61,
+    "latitude": 27.14,
+    "device_model": 3
+  },
+  {
+    "event_id": 887,
+    "device_id": "7,55E+18",
+    "timestamp": "06/05/2016 0:38",
+    "longitude": 117.14,
+    "latitude": 36.72,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 888,
+    "device_id": "-5,57E+18",
+    "timestamp": "06/05/2016 0:46",
+    "longitude": 113.05,
+    "latitude": 23.67,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 889,
+    "device_id": "4,23E+18",
+    "timestamp": "06/05/2016 0:46",
+    "longitude": 121.44,
+    "latitude": 29.91,
+    "device_model": "IVO 6600"
+  },
+  {
+    "event_id": 892,
+    "device_id": "7,60E+18",
+    "timestamp": "06/05/2016 0:17",
+    "longitude": 113.93,
+    "latitude": 35.28,
+    "device_model": "Galaxy Ace"
+  },
+  {
+    "event_id": 893,
+    "device_id": "-8,96E+18",
+    "timestamp": "06/05/2016 0:17",
+    "longitude": 112.97,
+    "latitude": 28.21,
+    "device_model": "S880i"
+  },
+  {
+    "event_id": 894,
+    "device_id": "4,76E+17",
+    "timestamp": "06/05/2016 0:34",
+    "longitude": 116.49,
+    "latitude": 39.81,
+    "device_model": "荣耀3X"
+  },
+  {
+    "event_id": 895,
+    "device_id": "-1,48E+18",
+    "timestamp": "06/05/2016 0:35",
+    "longitude": 112.9,
+    "latitude": 31.67,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 896,
+    "device_id": "-8,43E+18",
+    "timestamp": "06/05/2016 0:39",
+    "longitude": 119.07,
+    "latitude": 25.48,
+    "device_model": "Xperia C3"
+  },
+  {
+    "event_id": 897,
+    "device_id": "-8,43E+18",
+    "timestamp": "06/05/2016 0:40",
+    "longitude": 119.07,
+    "latitude": 25.48,
+    "device_model": "Y635-TL00"
+  },
+  {
+    "event_id": 898,
+    "device_id": "-1,50E+18",
+    "timestamp": "06/05/2016 0:41",
+    "longitude": 121.47,
+    "latitude": 31.24,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 900,
+    "device_id": "-4,91E+18",
+    "timestamp": "06/05/2016 0:42",
+    "longitude": 102.92,
+    "latitude": 24.68,
+    "device_model": "Y600-U00"
+  },
+  {
+    "event_id": 901,
+    "device_id": "2,83E+17",
+    "timestamp": "06/05/2016 0:43",
+    "longitude": 106.58,
+    "latitude": 29.51,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 903,
+    "device_id": "-1,17E+18",
+    "timestamp": "06/05/2016 0:47",
+    "longitude": 113.84,
+    "latitude": 33.94,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 904,
+    "device_id": "4,78E+18",
+    "timestamp": "06/05/2016 0:50",
+    "longitude": 114.47,
+    "latitude": 38.03,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 905,
+    "device_id": "-7,13E+18",
+    "timestamp": "06/05/2016 0:15",
+    "longitude": 119.94,
+    "latitude": 30.57,
+    "device_model": "R1S"
+  },
+  {
+    "event_id": 907,
+    "device_id": "-3,26E+18",
+    "timestamp": "06/05/2016 0:24",
+    "longitude": 122.54,
+    "latitude": 40.71,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 909,
+    "device_id": "-6,88E+18",
+    "timestamp": "06/05/2016 0:25",
+    "longitude": 121.45,
+    "latitude": 31.2,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 910,
+    "device_id": "-7,05E+18",
+    "timestamp": "06/05/2016 0:30",
+    "longitude": 112.2,
+    "latitude": 31.05,
+    "device_model": "Galaxy Mega 5.8"
+  },
+  {
+    "event_id": 911,
+    "device_id": "1,39E+18",
+    "timestamp": "06/05/2016 0:35",
+    "longitude": 120.73,
+    "latitude": 31.23,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 912,
+    "device_id": "2,32E+18",
+    "timestamp": "06/05/2016 0:24",
+    "longitude": 116.52,
+    "latitude": 39.88,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 913,
+    "device_id": "8,27E+18",
+    "timestamp": "06/05/2016 0:02",
+    "longitude": 118.02,
+    "latitude": 24.48,
+    "device_model": "A708t"
+  },
+  {
+    "event_id": 914,
+    "device_id": "4,23E+18",
+    "timestamp": "06/05/2016 0:03",
+    "longitude": 121.44,
+    "latitude": 29.91,
+    "device_model": "8720L"
+  },
+  {
+    "event_id": 917,
+    "device_id": "8,86E+18",
+    "timestamp": "06/05/2016 0:31",
+    "longitude": 122.76,
+    "latitude": 40.85,
+    "device_model": "G3818"
+  },
+  {
+    "event_id": 918,
+    "device_id": "-9,14E+18",
+    "timestamp": "06/05/2016 0:31",
+    "longitude": 106.19,
+    "latitude": 28.33,
+    "device_model": "MX2"
+  },
+  {
+    "event_id": 919,
+    "device_id": "6,94E+18",
+    "timestamp": "06/05/2016 0:32",
+    "longitude": 115.62,
+    "latitude": 34.43,
+    "device_model": "Y11"
+  },
+  {
+    "event_id": 920,
+    "device_id": "-1,69E+18",
+    "timestamp": "06/05/2016 0:19",
+    "longitude": 103.77,
+    "latitude": 25.51,
+    "device_model": "S890"
+  },
+  {
+    "event_id": 921,
+    "device_id": "6,14E+18",
+    "timestamp": "06/05/2016 0:19",
+    "longitude": 118.15,
+    "latitude": 24.54,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 922,
+    "device_id": "-1,59E+18",
+    "timestamp": "06/05/2016 0:19",
+    "longitude": 115.97,
+    "latitude": 38.67,
+    "device_model": "G610T"
+  },
+  {
+    "event_id": 923,
+    "device_id": "-1,59E+18",
+    "timestamp": "06/05/2016 0:19",
+    "longitude": 115.97,
+    "latitude": 38.67,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 926,
+    "device_id": "7,04E+18",
+    "timestamp": "06/05/2016 0:02",
+    "longitude": 113.92,
+    "latitude": 22.65,
+    "device_model": 7231
+  },
+  {
+    "event_id": 927,
+    "device_id": "3,22E+18",
+    "timestamp": "06/05/2016 0:04",
+    "longitude": 117.18,
+    "latitude": 36.68,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 928,
+    "device_id": "-4,03E+18",
+    "timestamp": "06/05/2016 0:03",
+    "longitude": 112.97,
+    "latitude": 28.04,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 930,
+    "device_id": "-7,99E+18",
+    "timestamp": "07/05/2016 0:54",
+    "longitude": 119.16,
+    "latitude": 39.71,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 932,
+    "device_id": "-2,33E+18",
+    "timestamp": "07/05/2016 0:59",
+    "longitude": 106.44,
+    "latitude": 29.56,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 934,
+    "device_id": "-6,50E+18",
+    "timestamp": "07/05/2016 0:10",
+    "longitude": 113.42,
+    "latitude": 34.45,
+    "device_model": "Galaxy Note"
+  },
+  {
+    "event_id": 936,
+    "device_id": "8,86E+18",
+    "timestamp": "07/05/2016 0:11",
+    "longitude": 122.76,
+    "latitude": 40.85,
+    "device_model": "X5Pro"
+  },
+  {
+    "event_id": 937,
+    "device_id": "9,21E+18",
+    "timestamp": "07/05/2016 0:52",
+    "longitude": 112.91,
+    "latitude": 28.23,
+    "device_model": "7620l"
+  },
+  {
+    "event_id": 938,
+    "device_id": "-3,04E+18",
+    "timestamp": "07/05/2016 0:55",
+    "longitude": 115.82,
+    "latitude": 28.67,
+    "device_model": "R821T"
+  },
+  {
+    "event_id": 939,
+    "device_id": "-6,24E+18",
+    "timestamp": "07/05/2016 0:55",
+    "longitude": 116.5,
+    "latitude": 39.85,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 940,
+    "device_id": "2,36E+18",
+    "timestamp": "07/05/2016 0:31",
+    "longitude": 113.33,
+    "latitude": 23.18,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 941,
+    "device_id": "2,36E+18",
+    "timestamp": "07/05/2016 0:36",
+    "longitude": 113.33,
+    "latitude": 23.18,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 942,
+    "device_id": "-8,34E+18",
+    "timestamp": "07/05/2016 0:37",
+    "longitude": 111.92,
+    "latitude": 34.74,
+    "device_model": 7270
+  },
+  {
+    "event_id": 943,
+    "device_id": "6,31E+18",
+    "timestamp": "07/05/2016 0:45",
+    "longitude": 112.17,
+    "latitude": 23.91,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 944,
+    "device_id": "-1,90E+18",
+    "timestamp": "07/05/2016 0:46",
+    "longitude": 121.4,
+    "latitude": 31.23,
+    "device_model": "Galaxy Premier"
+  },
+  {
+    "event_id": 945,
+    "device_id": "1,19E+18",
+    "timestamp": "07/05/2016 0:10",
+    "longitude": 116.13,
+    "latitude": 38.74,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 946,
+    "device_id": "-7,23E+18",
+    "timestamp": "07/05/2016 0:06",
+    "longitude": 113.14,
+    "latitude": 29.33,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 948,
+    "device_id": "-5,13E+18",
+    "timestamp": "07/05/2016 0:32",
+    "longitude": 114.91,
+    "latitude": 27.82,
+    "device_model": "X1"
+  },
+  {
+    "event_id": 950,
+    "device_id": "7,59E+18",
+    "timestamp": "07/05/2016 0:40",
+    "longitude": 114.21,
+    "latitude": 36.72,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 951,
+    "device_id": "3,19E+18",
+    "timestamp": "07/05/2016 0:18",
+    "longitude": 117.13,
+    "latitude": 39.19,
+    "device_model": "U705T"
+  },
+  {
+    "event_id": 952,
+    "device_id": "-4,27E+18",
+    "timestamp": "07/05/2016 0:48",
+    "longitude": 122.94,
+    "latitude": 41.14,
+    "device_model": "R2017"
+  },
+  {
+    "event_id": 955,
+    "device_id": "-2,66E+18",
+    "timestamp": "07/05/2016 0:28",
+    "longitude": 114.31,
+    "latitude": 23.02,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 956,
+    "device_id": "-2,61E+18",
+    "timestamp": "07/05/2016 0:25",
+    "longitude": 105.59,
+    "latitude": 30.48,
+    "device_model": "Find 7"
+  },
+  {
+    "event_id": 957,
+    "device_id": "3,61E+18",
+    "timestamp": "07/05/2016 0:51",
+    "longitude": 116.4,
+    "latitude": 39.89,
+    "device_model": "Y17W"
+  },
+  {
+    "event_id": 958,
+    "device_id": "2,70E+18",
+    "timestamp": "07/05/2016 0:08",
+    "longitude": 117.13,
+    "latitude": 36.18,
+    "device_model": "A889"
+  },
+  {
+    "event_id": 960,
+    "device_id": "-2,03E+18",
+    "timestamp": "07/05/2016 0:06",
+    "longitude": 86.17,
+    "latitude": 41.71,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 961,
+    "device_id": "8,04E+18",
+    "timestamp": "07/05/2016 0:05",
+    "longitude": 117.1,
+    "latitude": 37.25,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 962,
+    "device_id": "8,04E+18",
+    "timestamp": "07/05/2016 0:05",
+    "longitude": 117.1,
+    "latitude": 37.25,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 964,
+    "device_id": "-5,63E+17",
+    "timestamp": "07/05/2016 0:06",
+    "longitude": 114.03,
+    "latitude": 22.66,
+    "device_model": "Z5S Mini"
+  },
+  {
+    "event_id": 966,
+    "device_id": "1,91E+18",
+    "timestamp": "06/05/2016 23:56",
+    "longitude": 113.25,
+    "latitude": 23.1,
+    "device_model": "Desire 816"
+  },
+  {
+    "event_id": 969,
+    "device_id": "2,94E+18",
+    "timestamp": "07/05/2016 0:37",
+    "longitude": 116.61,
+    "latitude": 23.21,
+    "device_model": "荣耀畅玩4"
+  },
+  {
+    "event_id": 971,
+    "device_id": "-3,69E+18",
+    "timestamp": "07/05/2016 0:48",
+    "longitude": 119.34,
+    "latitude": 26.08,
+    "device_model": "Galaxy Grand 2"
+  },
+  {
+    "event_id": 972,
+    "device_id": "-9,07E+17",
+    "timestamp": "07/05/2016 0:46",
+    "longitude": 113.29,
+    "latitude": 23.12,
+    "device_model": "红米note"
+  },
+  {
+    "event_id": 973,
+    "device_id": "-3,90E+18",
+    "timestamp": "07/05/2016 0:49",
+    "longitude": 119.33,
+    "latitude": 26.03,
+    "device_model": "Ascend P6"
+  },
+  {
+    "event_id": 975,
+    "device_id": "4,84E+18",
+    "timestamp": "07/05/2016 0:45",
+    "longitude": 113.61,
+    "latitude": 23.12,
+    "device_model": "红米1S"
+  },
+  {
+    "event_id": 976,
+    "device_id": "-4,40E+18",
+    "timestamp": "07/05/2016 0:48",
+    "longitude": 111.54,
+    "latitude": 40.47,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 977,
+    "device_id": "-4,59E+18",
+    "timestamp": "07/05/2016 0:26",
+    "longitude": 116.97,
+    "latitude": 31.03,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 981,
+    "device_id": "-1,04E+18",
+    "timestamp": "07/05/2016 0:41",
+    "longitude": 118.72,
+    "latitude": 32.14,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 982,
+    "device_id": "-8,37E+18",
+    "timestamp": "07/05/2016 0:42",
+    "longitude": 109.02,
+    "latitude": 32.69,
+    "device_model": "U807"
+  },
+  {
+    "event_id": 983,
+    "device_id": "1,99E+18",
+    "timestamp": "07/05/2016 0:38",
+    "longitude": 105.85,
+    "latitude": 32.44,
+    "device_model": "Grand Memo 2"
+  },
+  {
+    "event_id": 985,
+    "device_id": "5,15E+18",
+    "timestamp": "06/05/2016 23:56",
+    "longitude": 121.37,
+    "latitude": 31.18,
+    "device_model": "Galaxy S2 HD LTE E120S"
+  },
+  {
+    "event_id": 986,
+    "device_id": "1,19E+18",
+    "timestamp": "06/05/2016 23:56",
+    "longitude": 121.34,
+    "latitude": 31.16,
+    "device_model": "U980"
+  },
+  {
+    "event_id": 987,
+    "device_id": "1,19E+18",
+    "timestamp": "06/05/2016 23:56",
+    "longitude": 115.66,
+    "latitude": 34.45,
+    "device_model": "Galaxy Grand"
+  },
+  {
+    "event_id": 988,
+    "device_id": "3,16E+18",
+    "timestamp": "06/05/2016 23:59",
+    "longitude": 104.91,
+    "latitude": 25.15,
+    "device_model": "R831S"
+  },
+  {
+    "event_id": 989,
+    "device_id": "-8,13E+18",
+    "timestamp": "07/05/2016 0:00",
+    "longitude": 106.07,
+    "latitude": 31.35,
+    "device_model": "Touch 2"
+  },
+  {
+    "event_id": 991,
+    "device_id": "-4,72E+18",
+    "timestamp": "07/05/2016 0:00",
+    "longitude": 85.46,
+    "latitude": 44.69,
+    "device_model": "S720"
+  },
+  {
+    "event_id": 992,
+    "device_id": "2,77E+18",
+    "timestamp": "07/05/2016 0:09",
+    "longitude": 116.41,
+    "latitude": 39.85,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 993,
+    "device_id": "-3,69E+18",
+    "timestamp": "07/05/2016 0:32",
+    "longitude": 119.34,
+    "latitude": 26.08,
+    "device_model": "荣耀6"
+  },
+  {
+    "event_id": 994,
+    "device_id": "-6,46E+18",
+    "timestamp": "07/05/2016 0:35",
+    "longitude": 117.77,
+    "latitude": 36.82,
+    "device_model": "R2017"
+  },
+  {
+    "event_id": 995,
+    "device_id": "-4,04E+18",
+    "timestamp": "07/05/2016 0:34",
+    "longitude": 114.49,
+    "latitude": 36.58,
+    "device_model": "One"
+  },
+  {
+    "event_id": 996,
+    "device_id": "7,90E+18",
+    "timestamp": "06/05/2016 23:59",
+    "longitude": 55.13,
+    "latitude": 25.05,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 998,
+    "device_id": "-6,70E+18",
+    "timestamp": "07/05/2016 0:08",
+    "longitude": 113.36,
+    "latitude": 22.52,
+    "device_model": "U9508"
+  },
+  {
+    "event_id": 999,
+    "device_id": "6,30E+18",
+    "timestamp": "07/05/2016 0:09",
+    "longitude": 119.53,
+    "latitude": 26.65,
+    "device_model": "MI 2S"
+  },
+  {
+    "event_id": 1002,
+    "device_id": "-4,86E+17",
+    "timestamp": "07/05/2016 0:25",
+    "longitude": 121.63,
+    "latitude": 31.24,
+    "device_model": "荣耀3C"
+  },
+  {
+    "event_id": 1003,
+    "device_id": "7,35E+18",
+    "timestamp": "07/05/2016 0:26",
+    "longitude": 87.62,
+    "latitude": 43.76,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 1005,
+    "device_id": "5,70E+18",
+    "timestamp": "07/05/2016 0:30",
+    "longitude": 119.88,
+    "latitude": 29.45,
+    "device_model": "MI 3"
+  },
+  {
+    "event_id": 1006,
+    "device_id": "3,07E+18",
+    "timestamp": "07/05/2016 0:46",
+    "longitude": 108.58,
+    "latitude": 34.42,
+    "device_model": 5951
+  },
+  {
+    "event_id": 1009,
+    "device_id": "-1,40E+18",
+    "timestamp": "07/05/2016 0:27",
+    "longitude": 113.28,
+    "latitude": 23.09,
+    "device_model": "Galaxy Note 3"
+  },
+  {
+    "event_id": 1011,
+    "device_id": "-8,16E+18",
+    "timestamp": "07/05/2016 0:11",
+    "longitude": 121.6,
+    "latitude": 31.12,
+    "device_model": "荣耀3X"
+  },
+  {
+    "event_id": 1012,
+    "device_id": "-1,28E+18",
+    "timestamp": "07/05/2016 0:14",
+    "longitude": 106.67,
+    "latitude": 29.78,
+    "device_model": "红米"
+  },
+  {
+    "event_id": 1013,
+    "device_id": "7,91E+18",
+    "timestamp": "06/05/2016 23:52",
+    "longitude": 102.67,
+    "latitude": 25.07,
+    "device_model": "大神F1"
+  },
+  {
+    "event_id": 1014,
+    "device_id": "7,91E+18",
+    "timestamp": "06/05/2016 23:59",
+    "longitude": 102.67,
+    "latitude": 25.07,
+    "device_model": "Galaxy S4"
+  },
+  {
+    "event_id": 1015,
+    "device_id": "7,91E+18",
+    "timestamp": "06/05/2016 23:52",
+    "longitude": 102.67,
+    "latitude": 25.07,
+    "device_model": "G610T"
+  },
+  {
+    "event_id": 1017,
+    "device_id": "2,53E+18",
+    "timestamp": "07/05/2016 0:47",
+    "longitude": 113.13,
+    "latitude": 23.06,
+    "device_model": "Galaxy Note 3 Lite"
+  },
+  {
+    "event_id": 1018,
+    "device_id": "4,42E+18",
+    "timestamp": "07/05/2016 0:52",
+    "longitude": 103.91,
+    "latitude": 27.61,
+    "device_model": "Galaxy S3"
+  },
+  {
+    "event_id": 1019,
+    "device_id": "-5,45E+18",
+    "timestamp": "07/05/2016 0:54",
+    "longitude": 119.91,
+    "latitude": 36.99,
+    "device_model": "A670t"
+  },
+  {
+    "event_id": 1020,
+    "device_id": "-4,97E+17",
+    "timestamp": "07/05/2016 0:16",
+    "longitude": 121.66,
+    "latitude": 39.04,
+    "device_model": "荣耀3X畅玩版"
+  },
+  {
+    "event_id": 1022,
+    "device_id": "-4,60E+18",
+    "timestamp": "07/05/2016 0:17",
+    "longitude": 113.36,
+    "latitude": 22.95,
+    "device_model": "A788t"
+  },
+  {
+    "event_id": 1023,
+    "device_id": "8,54E+18",
+    "timestamp": "07/05/2016 0:18",
+    "longitude": 123.39,
+    "latitude": 41.67,
+    "device_model": "Galaxy S3"
+  }
+]
