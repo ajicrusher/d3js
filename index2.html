@@ -13,6 +13,18 @@ path{
 .city-label{
 	font-size: 10px;
 }
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 60px;					
+    height: 28px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
 </style>
 <body>
 <div id="body"></div>
@@ -22,6 +34,10 @@ path{
 var projection = d3.geoMercator();
 var svg = d3.select("body").append("svg");
 var path = d3.geoPath().projection(d3.geoMercator());
+var div = d3.select("body").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
+
 d3.json("world.json", function(error, world) {
   if (error) throw error;
 
@@ -39,6 +55,24 @@ d3.json("world.json", function(error, world) {
 
 d3.json("events1.json", function(events1){
 	console.log(events1)
+svg.selectAll(".city-label")
+.data(events1)
+.enter().append("text")
+.attr("class","city-label")
+.attr("x",function (d) {
+	var kordinat = projection ([d.longitude, d.latitude])
+	console.log(kordinat)
+	return kordinat[0];
+})
+.attr("y",function(d){
+	var kordinat = projection ([d.longitude, d.latitude])
+	console.log(kordinat)
+	return kordinat[1];
+})
+.text(function(d){
+	console.log(d)
+
+})
 
 svg.selectAll("city-circle")
 .data(events1)
@@ -60,31 +94,28 @@ svg.selectAll("city-circle")
 	console.log(kordinat)
 	return kordinat[1];
 })
+.on("mouseover", function(d) {		
+            div.transition()		
+                .duration(200)		
+                .style("opacity", .9);		
+            div	.html(d.device_model)	
+                .style("left", (d3.event.pageX) + "px")		
+                .style("top", (d3.event.pageY - 28) + "px");	
+            })					
+        .on("mouseout", function(d) {		
+            div.transition()		
+                .duration(500)		
+                .style("opacity", 0);	
+        });
 
-svg.selectAll(".city-label")
-.data(events1)
-.enter().append("text")
-.attr("class","city-label")
-.attr("x",function (d) {
-	var kordinat = projection ([d.longitude, d.latitude])
-	console.log(kordinat)
-	return kordinat[0];
-})
-.attr("y",function(d){
-	var kordinat = projection ([d.longitude, d.latitude])
-	console.log(kordinat)
-	return kordinat[1];
-})
-.text(function(d){
-	console.log(d)
-	return d.device_model;
-})
-.on('mouseover', function(d){
-d3.select(this).classed("selected", true)
-})
-.on('mouseout', function(d){
-d3.select(this).classed("selected", false)
-})
+// .on('mouseover', function(d){
+// d3.select(this).classed("selected", true)
+// })
+// .on('mouseout', function(d){
+// d3.select(this).classed("selected", false)
+// })
+
+
 	});
 
 </script>
